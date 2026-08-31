@@ -1,0 +1,113 @@
+[
+  {
+    "resource_id": "20",
+    "title": "Northern Power Inclusion Matters Project",
+    "url": "https://northernpowerinclusion.org/",
+    "reason": "fetch-failed",
+    "failure_detail": "robots-blocked"
+  },
+  {
+    "resource_id": "39",
+    "title": "Towards Diverse Workforces: Transforming The Language of Exclusion and Bias in Recruitment",
+    "url": "https://www.stemm-change.co.uk/wp-content/uploads/2021/06/Transforming-the-Language-of-Exclusion-and-Bias-in-Recruitment-June-2021x.pdf",
+    "reason": "pdf"
+  },
+  {
+    "resource_id": "41",
+    "title": "HR EDI Online Inclusive Recruitment Guide",
+    "url": "https://www.st-andrews.ac.uk/hr/edi/inclusiverec/",
+    "reason": "js-heavy",
+    "word_count": 58
+  },
+  {
+    "resource_id": "44",
+    "title": "100 Black Women Professors Now Impact Report",
+    "url": "https://s3.amazonaws.com/kajabi-storefronts-production/file-uploads/sites/45828/downloads/a604721-38ee-61e6-072f-4a0cefa64c6_100BWPN_Impact_Report_2024.pdf",
+    "reason": "pdf"
+  },
+  {
+    "resource_id": "58",
+    "title": "Inclusion Really Does Matter",
+    "url": "https://www.qub.ac.uk/sites/InclusionReallyDoesMatter/",
+    "reason": "fetch-failed",
+    "failure_detail": "robots-blocked"
+  },
+  {
+    "resource_id": "63",
+    "title": "STEMM-Change",
+    "url": "https://www.stemm-change.co.uk/project-overview/",
+    "reason": "fetch-failed",
+    "failure_detail": "robots-blocked"
+  },
+  {
+    "resource_id": "200",
+    "title": "Equality, Diversity and Inclusion strategies in STEM - briefing",
+    "url": "https://www.britishscienceassociation.org/Handlers/Download.ashx?IDMF=b0479031-7e8b-4a0e-b3c6-80b7c383a183",
+    "reason": "fetch-failed",
+    "failure_detail": "robots-blocked"
+  },
+  {
+    "resource_id": "201",
+    "title": "Inclusive Cultures in Engineering 2023",
+    "url": "https://raeng.org.uk/media/jurcggcm/inclusive-cultures-in-engineering-2023.pdf",
+    "reason": "pdf"
+  },
+  {
+    "resource_id": "202",
+    "title": "EPSRC Neuro-Inclusion Audit Recommendations and Guidance",
+    "url": "https://www.ukri.org/wp-content/uploads/2024/11/EPSRC-310325-Neuro-InclusionAuditGuidanceandRecommendations.pdf",
+    "reason": "pdf"
+  },
+  {
+    "resource_id": "204",
+    "title": "Towards a fully inclusive environment for disabled people in STEMM: A NADSN White Paper.",
+    "url": "https://strathprints.strath.ac.uk/92658/1/Brewer-etal-NADSN-2025-Towards-a-fully-inclusive-environment-for-disabled-people-in-STEMM.pdf",
+    "reason": "pdf"
+  },
+  {
+    "resource_id": "206",
+    "title": "NTU Inclusive approach to PGR admissions",
+    "url": "https://www.ntu.ac.uk/c/equity-in-doctoral-education-through-partnership-and-innovation/wp2-new-competency-based-framework-for-doctoral-admissions",
+    "reason": "fetch-failed",
+    "failure_detail": "robots-blocked"
+  },
+  {
+    "resource_id": "208",
+    "title": "Royal Academy of Engineering Research Fellowships",
+    "url": "https://www.raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/research-fellowships/",
+    "reason": "fetch-failed",
+    "failure_detail": "robots-blocked"
+  },
+  {
+    "resource_id": "209",
+    "title": "Gathering Good Practices for Inclusive University Selection Processes",
+    "url": "https://www.ukri.org/wp-content/uploads/2025/06/EPSRC-200625-GatheringGoodPracticesInclusiveUniversitySelectionProcesses.pdf",
+    "reason": "pdf"
+  },
+  {
+    "resource_id": "210",
+    "title": "Evidence review: Peer review bias in the funding process",
+    "url": "https://pure.hw.ac.uk/ws/portalfiles/portal/118281735/EDICa_-_Evidence_review_on_peer_review_bias_in_the_funding_process_-_FINAL_1_.pdf",
+    "reason": "pdf"
+  },
+  {
+    "resource_id": "212",
+    "title": "The workplace for LGBT+ physical scientists",
+    "url": "https://www.rsc.org/policy-and-campaigning/science-culture/the-workplace-for-lgbt-physical-scientists",
+    "reason": "fetch-failed",
+    "failure_detail": "robots-blocked"
+  },
+  {
+    "resource_id": "213",
+    "title": "LGBT+ toolkit",
+    "url": "https://www.rsc.org/policy-and-campaigning/science-culture/resources-and-toolkits/lgbt-toolkit",
+    "reason": "fetch-failed",
+    "failure_detail": "robots-blocked"
+  },
+  {
+    "resource_id": "216",
+    "title": "Diversity in Tech: An annual report tracking diversity in technology across the UK",
+    "url": "https://www.techtalentcharter.co.uk/wp-content/uploads/diversity-in-tech-report-2024.pdf",
+    "reason": "pdf"
+  }
+]

@@ -1,0 +1,1647 @@
+[
+  {
+    "title": "STEM Equals",
+    "url": "https://www.stemequals.ac.uk/",
+    "author": "University of Strathclyde",
+    "resource_id": "62",
+    "status": "success",
+    "url_type": "webpage",
+    "cleaned_text": null,
+    "clean_status": "success",
+    "clean_title": "Home",
+    "description": "",
+    "headings": [],
+    "sections": [],
+    "body_text": "",
+    "clean_text": "TITLE: Home\n\nEXTERNAL LINKS: EPSRC (https://epsrc.ukri.org/newsevents/news/inclusionmatters/) | BAM Nuttall (http://www.bamnuttall.co.uk/) | Tweets by STEMEquals (https://twitter.com/STEMEquals?ref_src=twsrc%5Etfw) | Dnn theme created by DnnConsulting.nl (http://www.dnnconsulting.nl)",
+    "word_count": 0,
+    "char_count": 284,
+    "token_count": 89,
+    "route_hint": "single_pass",
+    "pdf_links": [],
+    "external_links": [
+      {
+        "text": "EPSRC",
+        "url": "https://epsrc.ukri.org/newsevents/news/inclusionmatters/"
+      },
+      {
+        "text": "BAM Nuttall",
+        "url": "http://www.bamnuttall.co.uk/"
+      },
+      {
+        "text": "Tweets by STEMEquals",
+        "url": "https://twitter.com/STEMEquals?ref_src=twsrc%5Etfw"
+      },
+      {
+        "text": "Dnn theme created by DnnConsulting.nl",
+        "url": "http://www.dnnconsulting.nl"
+      }
+    ]
+  },
+  {
+    "title": "STEMM-Change",
+    "url": "https://www.stemm-change.co.uk/project-overview/",
+    "author": "University of Nottingham",
+    "resource_id": "63",
+    "status": "success",
+    "url_type": "webpage",
+    "cleaned_text": null,
+    "clean_status": "success",
+    "clean_title": "Project overview",
+    "description": "",
+    "headings": [],
+    "sections": [
+      {
+        "heading": "",
+        "level": "preamble",
+        "content": "The STEMM-CHANGE programme has several linked projects that will enable a step change in approaches to promoting equality, diversity and inclusion in the workplace. It is led by a multi-disciplinary team at the University of Nottingham in collaboration with Diversity by Design who are experts in providing diversity solutions to strategic questions. For any enquiries, including if you would like to get involved, please contact the team on STEMM-CHANGE@nottingham.ac.uk . STEMM-CHANGE consists of the following activities in which the team and project partners will: Conduct new research into barriers to inclusion in STEMM disciplines and develop guidelines to remove them Research, develop and evaluate new tools to be made available for promoting diversity in recruitment practices Produce guidelines and best practice for the production of a safer, abuse-free environment for those participating in public engagement Curate and house an interactive national database, sharing best practice in equality, diversity and inclusion Initiate a grant scheme to fund innovative activities that complement the project Support innovative mentoring schemes for people from under-represented groups that will: (i) open up career development opportunities, and (ii) develop widespread mutual understanding of the challenges and opportunities presented by a diverse workforce",
+        "word_count": 195,
+        "char_count": 1367,
+        "token_count": 234
+      }
+    ],
+    "body_text": "The STEMM-CHANGE programme has several linked projects that will enable a step change in approaches to promoting equality, diversity and inclusion in the workplace. It is led by a multi-disciplinary team at the University of Nottingham in collaboration with Diversity by Design who are experts in providing diversity solutions to strategic questions. For any enquiries, including if you would like to get involved, please contact the team on STEMM-CHANGE@nottingham.ac.uk . STEMM-CHANGE consists of the following activities in which the team and project partners will: Conduct new research into barriers to inclusion in STEMM disciplines and develop guidelines to remove them Research, develop and evaluate new tools to be made available for promoting diversity in recruitment practices Produce guidelines and best practice for the production of a safer, abuse-free environment for those participating in public engagement Curate and house an interactive national database, sharing best practice in equality, diversity and inclusion Initiate a grant scheme to fund innovative activities that complement the project Support innovative mentoring schemes for people from under-represented groups that will: (i) open up career development opportunities, and (ii) develop widespread mutual understanding of the challenges and opportunities presented by a diverse workforce",
+    "clean_text": "TITLE: Project overview\n\nThe STEMM-CHANGE programme has several linked projects that will enable a step change in approaches to promoting equality, diversity and inclusion in the workplace. It is led by a multi-disciplinary team at the University of Nottingham in collaboration with Diversity by Design who are experts in providing diversity solutions to strategic questions. For any enquiries, including if you would like to get involved, please contact the team on STEMM-CHANGE@nottingham.ac.uk . STEMM-CHANGE consists of the following activities in which the team and project partners will: Conduct new research into barriers to inclusion in STEMM disciplines and develop guidelines to remove them Research, develop and evaluate new tools to be made available for promoting diversity in recruitment practices Produce guidelines and best practice for the production of a safer, abuse-free environment for those participating in public engagement Curate and house an interactive national database, sharing best practice in equality, diversity and inclusion Initiate a grant scheme to fund innovative activities that complement the project Support innovative mentoring schemes for people from under-represented groups that will: (i) open up career development opportunities, and (ii) develop widespread mutual understanding of the challenges and opportunities presented by a diverse workforce",
+    "word_count": 195,
+    "char_count": 1392,
+    "token_count": 239,
+    "route_hint": "single_pass",
+    "pdf_links": [],
+    "external_links": []
+  },
+  {
+    "title": "Social Inclusion Projects",
+    "url": "https://warwick.ac.uk/services/socialinclusion/projects/",
+    "author": "Social Inlcusion Group, University of Warwick",
+    "resource_id": "65",
+    "status": "success",
+    "url_type": "webpage",
+    "cleaned_text": null,
+    "clean_status": "success",
+    "clean_title": "Projects",
+    "description": "",
+    "headings": [],
+    "sections": [],
+    "body_text": "",
+    "clean_text": "TITLE: Projects\n\nEXTERNAL LINKS: Sign in (https://websignon.warwick.ac.uk/origin/slogin?shire=https%3A%2F%2Fwarwick.ac.uk%2Fsitebuilder2%2Fshire-read&providerId=urn%3Awarwick.ac.uk%3Asitebuilder2%3Aread%3Aservice&target=https%3A%2F%2Fwarwick.ac.uk%2Fservices%2Fsocialinclusion%2Fprojects%2F)",
+    "word_count": 0,
+    "char_count": 291,
+    "token_count": 111,
+    "route_hint": "single_pass",
+    "pdf_links": [],
+    "external_links": [
+      {
+        "text": "Sign in",
+        "url": "https://websignon.warwick.ac.uk/origin/slogin?shire=https%3A%2F%2Fwarwick.ac.uk%2Fsitebuilder2%2Fshire-read&providerId=urn%3Awarwick.ac.uk%3Asitebuilder2%3Aread%3Aservice&target=https%3A%2F%2Fwarwick.ac.uk%2Fservices%2Fsocialinclusion%2Fprojects%2F"
+      }
+    ]
+  },
+  {
+    "title": "Promoting EDI In University Spinout Companies",
+    "url": "https://www.brookes.ac.uk/Research/Units/OBBS/Projects/Women-and-Spinouts/",
+    "author": "Oxford Brookes University",
+    "resource_id": "76",
+    "status": "success",
+    "url_type": "webpage",
+    "cleaned_text": null,
+    "clean_status": "success",
+    "clean_title": "Women and Spinouts: A Case for Action at Oxford Brookes University",
+    "description": "Women and Spinouts is a project to identify barriers and enabling factors that exist for women in STEM in key stages of the spinout process.",
+    "headings": [
+      "Women and Spinouts: A Case for Action",
+      "About us",
+      "Part of",
+      "Women, STEM and Investments: Closing the Gender Gap",
+      "Scientists and entrepreneurs: Women tackling global problems (Webinar)",
+      "University Spinouts: Exploring women participation in the Nigerian Universities",
+      "Supporting Women for Spinout Success",
+      "Research reports",
+      "Video insights",
+      "Inspiring women insights",
+      "Inspiring women profiles",
+      "Blogs and news",
+      "Resources",
+      "Our project team",
+      "Our advisory board",
+      "Research impact"
+    ],
+    "sections": [
+      {
+        "heading": "Women and Spinouts: A Case for Action",
+        "level": "h1",
+        "content": "Contact: smanfredi@brookes.ac.uk Project start: November 2018 Project finish: August 2021 Funded by: EPSRC",
+        "word_count": 13,
+        "char_count": 106,
+        "token_count": 31
+      },
+      {
+        "heading": "About us",
+        "level": "h2",
+        "content": "Too few women researchers are leading spinout companies and there has not been enough attention focused on the progression of women researchers at all career stages on the entrepreneurial pathway from research to spinout leadership. Oxford Brookes University in collaboration with the University of Oxford have been funded by the Engineering and Physical Sciences Research Council (EPSRC) under its Inclusion Matters call to undertake a project to identify barriers and enabling factors that exist for women in Science, Technology, Engineering, and Mathematics (STEM) in key stages of the spinout process.",
+        "word_count": 90,
+        "char_count": 605,
+        "token_count": 105
+      },
+      {
+        "heading": "Part of",
+        "level": "h3",
+        "content": "Oxford Brookes Business School",
+        "word_count": 4,
+        "char_count": 30,
+        "token_count": 6
+      },
+      {
+        "heading": "Women, STEM and Investments: Closing the Gender Gap",
+        "level": "h3",
+        "content": "Read the key highlights from our event",
+        "word_count": 7,
+        "char_count": 38,
+        "token_count": 7
+      },
+      {
+        "heading": "Scientists and entrepreneurs: Women tackling global problems (Webinar)",
+        "level": "h3",
+        "content": "Watch the panel discussion and Q&A Read the discussion summary",
+        "word_count": 10,
+        "char_count": 62,
+        "token_count": 11
+      },
+      {
+        "heading": "University Spinouts: Exploring women participation in the Nigerian Universities",
+        "level": "h3",
+        "content": "What universities in Nigeria are doing to address the existence of gender gap in academic entrepreneurship in STEM",
+        "word_count": 18,
+        "char_count": 114,
+        "token_count": 18
+      },
+      {
+        "heading": "Supporting Women for Spinout Success",
+        "level": "h3",
+        "content": "Join our Linkedin group @WomenSpinouts",
+        "word_count": 5,
+        "char_count": 38,
+        "token_count": 8
+      },
+      {
+        "heading": "Research reports",
+        "level": "h3",
+        "content": "Download our latest research reports",
+        "word_count": 5,
+        "char_count": 36,
+        "token_count": 5
+      },
+      {
+        "heading": "Video insights",
+        "level": "h3",
+        "content": "Spinout founders and experts share their insights",
+        "word_count": 7,
+        "char_count": 49,
+        "token_count": 8
+      },
+      {
+        "heading": "Inspiring women insights",
+        "level": "h3",
+        "content": "Women founders tell us about their spinout journeys",
+        "word_count": 8,
+        "char_count": 51,
+        "token_count": 9
+      },
+      {
+        "heading": "Inspiring women profiles",
+        "level": "h3",
+        "content": "Find out about women spinout founders and their companies",
+        "word_count": 9,
+        "char_count": 57,
+        "token_count": 10
+      },
+      {
+        "heading": "Blogs and news",
+        "level": "h3",
+        "content": "Latest updates from our project",
+        "word_count": 5,
+        "char_count": 31,
+        "token_count": 5
+      },
+      {
+        "heading": "Resources",
+        "level": "h3",
+        "content": "Resources for spinning out a company from university research",
+        "word_count": 9,
+        "char_count": 61,
+        "token_count": 9
+      },
+      {
+        "heading": "Our project team",
+        "level": "h3",
+        "content": "Learn about our team",
+        "word_count": 4,
+        "char_count": 20,
+        "token_count": 4
+      },
+      {
+        "heading": "Our advisory board",
+        "level": "h3",
+        "content": "Learn about our advisory board",
+        "word_count": 5,
+        "char_count": 30,
+        "token_count": 5
+      },
+      {
+        "heading": "Research impact",
+        "level": "h2",
+        "content": "The Industrial Strategy has set an ambitious goal for the UK to become the most innovative economy in the world by 2030, to become a ‘science superpower and invest in the science and research that will deliver economic growth and societal benefits’. Increasing diversity among researchers and spinout founders is essential for delivering these objectives. Read our submission and recommendations to the All-Party Parliamentary Groups Enquiry into Equity in the STEM Workforce (PDF). Back to top",
+        "word_count": 76,
+        "char_count": 494,
+        "token_count": 90
+      }
+    ],
+    "body_text": "Contact: smanfredi@brookes.ac.uk Project start: November 2018 Project finish: August 2021 Funded by: EPSRC Too few women researchers are leading spinout companies and there has not been enough attention focused on the progression of women researchers at all career stages on the entrepreneurial pathway from research to spinout leadership. Oxford Brookes University in collaboration with the University of Oxford have been funded by the Engineering and Physical Sciences Research Council (EPSRC) under its Inclusion Matters call to undertake a project to identify barriers and enabling factors that exist for women in Science, Technology, Engineering, and Mathematics (STEM) in key stages of the spinout process. Oxford Brookes Business School Read the key highlights from our event Watch the panel discussion and Q&A Read the discussion summary What universities in Nigeria are doing to address the existence of gender gap in academic entrepreneurship in STEM Join our Linkedin group @WomenSpinouts Download our latest research reports Spinout founders and experts share their insights Women founders tell us about their spinout journeys Find out about women spinout founders and their companies Latest updates from our project Resources for spinning out a company from university research Learn about our team Learn about our advisory board The Industrial Strategy has set an ambitious goal for the UK to become the most innovative economy in the world by 2030, to become a ‘science superpower and invest in the science and research that will deliver economic growth and societal benefits’. Increasing diversity among researchers and spinout founders is essential for delivering these objectives. Read our submission and recommendations to the All-Party Parliamentary Groups Enquiry into Equity in the STEM Workforce (PDF). Back to top",
+    "clean_text": "TITLE: Women and Spinouts: A Case for Action at Oxford Brookes University\nDESCRIPTION: Women and Spinouts is a project to identify barriers and enabling factors that exist for women in STEM in key stages of the spinout process.\n\n## Women and Spinouts: A Case for Action\nContact: smanfredi@brookes.ac.uk Project start: November 2018 Project finish: August 2021 Funded by: EPSRC\n\n## About us\nToo few women researchers are leading spinout companies and there has not been enough attention focused on the progression of women researchers at all career stages on the entrepreneurial pathway from research to spinout leadership. Oxford Brookes University in collaboration with the University of Oxford have been funded by the Engineering and Physical Sciences Research Council (EPSRC) under its Inclusion Matters call to undertake a project to identify barriers and enabling factors that exist for women in Science, Technology, Engineering, and Mathematics (STEM) in key stages of the spinout process.\n\n## Part of\nOxford Brookes Business School\n\n## Women, STEM and Investments: Closing the Gender Gap\nRead the key highlights from our event\n\n## Scientists and entrepreneurs: Women tackling global problems (Webinar)\nWatch the panel discussion and Q&A Read the discussion summary\n\n## University Spinouts: Exploring women participation in the Nigerian Universities\nWhat universities in Nigeria are doing to address the existence of gender gap in academic entrepreneurship in STEM\n\n## Supporting Women for Spinout Success\nJoin our Linkedin group @WomenSpinouts\n\n## Research reports\nDownload our latest research reports\n\n## Video insights\nSpinout founders and experts share their insights\n\n## Inspiring women insights\nWomen founders tell us about their spinout journeys\n\n## Inspiring women profiles\nFind out about women spinout founders and their companies\n\n## Blogs and news\nLatest updates from our project\n\n## Resources\nResources for spinning out a company from university research\n\n## Our project team\nLearn about our team\n\n## Our advisory board\nLearn about our advisory board\n\n## Research impact\nThe Industrial Strategy has set an ambitious goal for the UK to become the most innovative economy in the world by 2030, to become a ‘science superpower and invest in the science and research that will deliver economic growth and societal benefits’. Increasing diversity among researchers and spinout founders is essential for delivering these objectives. Read our submission and recommendations to the All-Party Parliamentary Groups Enquiry into Equity in the STEM Workforce (PDF). Back to top\n\nPDF LINKS: Read the key highlights from our event (https://www.brookes.ac.uk/getmedia/23dea060-ce3b-4ac0-9359-5a1d5f3b0dc1/women-backing-women-key-highlights.pdf) | Read the discussion summary (https://radar.brookes.ac.uk/radar/file/abdc1575-298e-4309-bc9e-dd66e1ff7509/1/Women%20tackling%20global%20problems%20-%202022%20-%20WEgate.pdf)\nEXTERNAL LINKS: Our research staff (https://search.brookes.ac.uk/s/search.html?collection=oxford-brookes~sp-search&profile=research_preview&clive=oxford-brookes~ds-staff&query=!showall&f.category%7ccategory=research) | Research repository (RADAR) (https://radar.brookes.ac.uk/radar/home.do) | EPSRC (https://epsrc.ukri.org/) | Women and Spinouts: A Case for Action on X (https://twitter.com/womenspinouts) | Supporting Women for Spinout Success Join our Linkedin group (https://www.linkedin.com/groups/9047508/) | @WomenSpinouts (https://twitter.com/WomenSpinouts) | submission and recommendations to the All-Party Parliamentary Groups Enquiry into Equity in the STEM Workforce (https://radar.brookes.ac.uk/radar/items/9a59b7fd-c280-4539-a26b-ec64d8ec485d/1/) | OX3 0BP (https://maps.google.com/maps?q=OX3+0BP) | OBU Facebook (https://www.facebook.com/oxfordbrookes) | OBU X (https://www.twitter.com/oxford_brookes)",
+    "word_count": 275,
+    "char_count": 3838,
+    "token_count": 899,
+    "route_hint": "single_pass",
+    "pdf_links": [
+      {
+        "text": "Read the key highlights from our event",
+        "url": "https://www.brookes.ac.uk/getmedia/23dea060-ce3b-4ac0-9359-5a1d5f3b0dc1/women-backing-women-key-highlights.pdf"
+      },
+      {
+        "text": "Read the discussion summary",
+        "url": "https://radar.brookes.ac.uk/radar/file/abdc1575-298e-4309-bc9e-dd66e1ff7509/1/Women%20tackling%20global%20problems%20-%202022%20-%20WEgate.pdf"
+      }
+    ],
+    "external_links": [
+      {
+        "text": "Our research staff",
+        "url": "https://search.brookes.ac.uk/s/search.html?collection=oxford-brookes~sp-search&profile=research_preview&clive=oxford-brookes~ds-staff&query=!showall&f.category%7ccategory=research"
+      },
+      {
+        "text": "Research repository (RADAR)",
+        "url": "https://radar.brookes.ac.uk/radar/home.do"
+      },
+      {
+        "text": "EPSRC",
+        "url": "https://epsrc.ukri.org/"
+      },
+      {
+        "text": "Women and Spinouts: A Case for Action on X",
+        "url": "https://twitter.com/womenspinouts"
+      },
+      {
+        "text": "Supporting Women for Spinout Success Join our Linkedin group",
+        "url": "https://www.linkedin.com/groups/9047508/"
+      },
+      {
+        "text": "@WomenSpinouts",
+        "url": "https://twitter.com/WomenSpinouts"
+      },
+      {
+        "text": "submission and recommendations to the All-Party Parliamentary Groups Enquiry into Equity in the STEM Workforce",
+        "url": "https://radar.brookes.ac.uk/radar/items/9a59b7fd-c280-4539-a26b-ec64d8ec485d/1/"
+      },
+      {
+        "text": "OX3 0BP",
+        "url": "https://maps.google.com/maps?q=OX3+0BP"
+      },
+      {
+        "text": "OBU Facebook",
+        "url": "https://www.facebook.com/oxfordbrookes"
+      },
+      {
+        "text": "OBU X",
+        "url": "https://www.twitter.com/oxford_brookes"
+      },
+      {
+        "text": "OBU LinkedIn",
+        "url": "https://www.linkedin.com/edu/school?id=12621&oxfordbrookes"
+      },
+      {
+        "text": "OBU Youtube",
+        "url": "https://www.youtube.com/oxfordbrookes"
+      },
+      {
+        "text": "OBU Instagram",
+        "url": "https://www.instagram.com/oxfordbrookes/"
+      },
+      {
+        "text": "OBU Weibo",
+        "url": "https://www.weibo.com/OxfordBrookesUni"
+      },
+      {
+        "text": "OBU TikTok",
+        "url": "https://www.tiktok.com/@oxfordbrookes"
+      }
+    ]
+  },
+  {
+    "title": "Mentoring And Political Education Programme",
+    "url": "https://www.fabianwomen.org.uk/mentoring",
+    "author": "Fabian Women’s Network",
+    "resource_id": "82",
+    "status": "success",
+    "url_type": "webpage",
+    "cleaned_text": null,
+    "clean_status": "success",
+    "clean_title": "Mentoring | Fabian Women's Network",
+    "description": "Learn about the award winning FWN Mentoring and Political Education Programme.",
+    "headings": [
+      "ABOUT THE PROGRAMME",
+      "THE MENTEES",
+      "Devina Paul",
+      "Kopiga Kugananthavel",
+      "Clare McNeil",
+      "Evaluation Reports"
+    ],
+    "sections": [
+      {
+        "heading": "ABOUT THE PROGRAMME",
+        "level": "h2",
+        "content": "The FWN Mentoring Programme was launched in 2011, on International Women’s Day. It was founded by Christine Megson MBE and senior Labour MP Seema Malhotra. Now in its fifteenth year, the programme has supported more than 400 mentees and is built on a strong foundation of mutual respect, collaboration and shared commitment to women’s leadership. Four independent evaluations confirm its transformational impact, particularly for women who may lack access to influential networks, financial backing or decision-making spaces. ​ Everyone selected has a mentor (a Labour politician or a leader in public life) and central support from our coordinators. Many mentees combine the programme with a full-time job, caring responsibilities or study. Over ten months, each mentee invests around five days to the programme including these compulsory events: Induction half day in Westminster: Mon 6 July 2026 (from 12 noon) Three evenings of skills training (date tbc) Two-day residential at Northern College, Barnsley (learning debating, speech writing, public speaking and networking skills): Fri 4 and Sat 5 September 2026 Speed-networking evening: 28th January 2027 Parliament Day (date tbc) There is no charge to go on the programme as we fundraise to provided the £750 needed for each place. There are some travel costs, though mentees living outside of London who need financial assistance can apply for help with train fares. Shamshia Ali Fundraising lead Caroline Adams MBE Programme lead Christine Megson MBE Programme lead/founder Georgie Nel Programme coordinator",
+        "word_count": 237,
+        "char_count": 1565,
+        "token_count": 322
+      },
+      {
+        "heading": "THE MENTEES",
+        "level": "h2",
+        "content": "We choose women who have helped others – whether through major action or the small, consistent acts of support that improve lives. Our aim is to give our mentees the self-confidence, skills and network to go on to help hundreds more. We look for women thirsty to learn; motivated to make change; and in need of our network and mentoring to propel them forward. The programme gives women the confidence and support to move forward whether that means seeking promotion, changing career direction or campaigning for the causes they believe in. It is especially valuable for those at a crossroads, providing the space and support to make confident, purposeful decisions about what comes next. Above all, it offers a non-judgemental environment where women can reflect, grow and realise their potential. We encourage and celebrate achievements at every stage of a mentee’s journey. Each mentee begins her journey in political or public life from a different starting point, so achievements naturally vary from person to person. What we have consistently seen, however, is that every woman makes meaningful progress. For some, the impact is immediate and life-changing; for others, it unfolds more gradually over time. The Programme has already delivered some incredible results for its participants. Among the mentee alumnae there are six MPs, two members of the House of Lords, eighty local councillors and ten CEOs of charities. ​ ​ ​ ​ ​​",
+        "word_count": 233,
+        "char_count": 1436,
+        "token_count": 277
+      },
+      {
+        "heading": "Devina Paul",
+        "level": "h2",
+        "content": "This programme has been a transformative experience for me. I joined with a lot of ambition but near zero political acumen, and have now been selected for two public office roles by the party. I can honestly say this is based on the programme, what I have learned, the people I have met and the support I have received from some of the most amazing women. Devina Paul (Cohort 12)",
+        "word_count": 70,
+        "char_count": 379,
+        "token_count": 83
+      },
+      {
+        "heading": "Kopiga Kugananthavel",
+        "level": "h2",
+        "content": "I’ve put myself forward to become a union representative and spoken up to support a political mandate for the union. Old me would have tried to support the union and causes behind the scenes, like I’ve always done. I am now happy to take on the risks of being in the public eye to advocate for causes I care about. ​",
+        "word_count": 61,
+        "char_count": 316,
+        "token_count": 67
+      },
+      {
+        "heading": "Clare McNeil",
+        "level": "h2",
+        "content": "The courses, tasks and events have become so well-honed over successive cohorts of mentees that they will provide you with the right level of support and challenge. They are well timed to fit around work and home life. Over the year you will come to rely on the fantastic organisers and group of women in your cohort and will wonder how you ever managed without them! ​",
+        "word_count": 67,
+        "char_count": 369,
+        "token_count": 74
+      },
+      {
+        "heading": "Evaluation Reports",
+        "level": "h2",
+        "content": "We are committed to regularly evaluating and improving this scheme. So far we have published four academic evaluation reports with the support of Unison. Read each one below.",
+        "word_count": 28,
+        "char_count": 174,
+        "token_count": 32
+      }
+    ],
+    "body_text": "The FWN Mentoring Programme was launched in 2011, on International Women’s Day. It was founded by Christine Megson MBE and senior Labour MP Seema Malhotra. Now in its fifteenth year, the programme has supported more than 400 mentees and is built on a strong foundation of mutual respect, collaboration and shared commitment to women’s leadership. Four independent evaluations confirm its transformational impact, particularly for women who may lack access to influential networks, financial backing or decision-making spaces. ​ Everyone selected has a mentor (a Labour politician or a leader in public life) and central support from our coordinators. Many mentees combine the programme with a full-time job, caring responsibilities or study. Over ten months, each mentee invests around five days to the programme including these compulsory events: Induction half day in Westminster: Mon 6 July 2026 (from 12 noon) Three evenings of skills training (date tbc) Two-day residential at Northern College, Barnsley (learning debating, speech writing, public speaking and networking skills): Fri 4 and Sat 5 September 2026 Speed-networking evening: 28th January 2027 Parliament Day (date tbc) There is no charge to go on the programme as we fundraise to provided the £750 needed for each place. There are some travel costs, though mentees living outside of London who need financial assistance can apply for help with train fares. Shamshia Ali Fundraising lead Caroline Adams MBE Programme lead Christine Megson MBE Programme lead/founder Georgie Nel Programme coordinator We choose women who have helped others – whether through major action or the small, consistent acts of support that improve lives. Our aim is to give our mentees the self-confidence, skills and network to go on to help hundreds more. We look for women thirsty to learn; motivated to make change; and in need of our network and mentoring to propel them forward. The programme gives women the confidence and support to move forward whether that means seeking promotion, changing career direction or campaigning for the causes they believe in. It is especially valuable for those at a crossroads, providing the space and support to make confident, purposeful decisions about what comes next. Above all, it offers a non-judgemental environment where women can reflect, grow and realise their potential. We encourage and celebrate achievements at every stage of a mentee’s journey. Each mentee begins her journey in political or public life from a different starting point, so achievements naturally vary from person to person. What we have consistently seen, however, is that every woman makes meaningful progress. For some, the impact is immediate and life-changing; for others, it unfolds more gradually over time. The Programme has already delivered some incredible results for its participants. Among the mentee alumnae there are six MPs, two members of the House of Lords, eighty local councillors and ten CEOs of charities. ​ ​ ​ ​ ​​ This programme has been a transformative experience for me. I joined with a lot of ambition but near zero political acumen, and have now been selected for two public office roles by the party. I can honestly say this is based on the programme, what I have learned, the people I have met and the support I have received from some of the most amazing women. Devina Paul (Cohort 12) I’ve put myself forward to become a union representative and spoken up to support a political mandate for the union. Old me would have tried to support the union and causes behind the scenes, like I’ve always done. I am now happy to take on the risks of being in the public eye to advocate for causes I care about. ​ The courses, tasks and events have become so well-honed over successive cohorts of mentees that they will provide you with the right level of support and challenge. They are well timed to fit around work and home life. Over the year you will come to rely on the fantastic organisers and group of women in your cohort and will wonder how you ever managed without them! ​ We are committed to regularly evaluating and improving this scheme. So far we have published four academic evaluation reports with the support of Unison. Read each one below.",
+    "clean_text": "TITLE: Mentoring | Fabian Women's Network\nDESCRIPTION: Learn about the award winning FWN Mentoring and Political Education Programme.\n\n## ABOUT THE PROGRAMME\nThe FWN Mentoring Programme was launched in 2011, on International Women’s Day. It was founded by Christine Megson MBE and senior Labour MP Seema Malhotra. Now in its fifteenth year, the programme has supported more than 400 mentees and is built on a strong foundation of mutual respect, collaboration and shared commitment to women’s leadership. Four independent evaluations confirm its transformational impact, particularly for women who may lack access to influential networks, financial backing or decision-making spaces. ​ Everyone selected has a mentor (a Labour politician or a leader in public life) and central support from our coordinators. Many mentees combine the programme with a full-time job, caring responsibilities or study. Over ten months, each mentee invests around five days to the programme including these compulsory events: Induction half day in Westminster: Mon 6 July 2026 (from 12 noon) Three evenings of skills training (date tbc) Two-day residential at Northern College, Barnsley (learning debating, speech writing, public speaking and networking skills): Fri 4 and Sat 5 September 2026 Speed-networking evening: 28th January 2027 Parliament Day (date tbc) There is no charge to go on the programme as we fundraise to provided the £750 needed for each place. There are some travel costs, though mentees living outside of London who need financial assistance can apply for help with train fares. Shamshia Ali Fundraising lead Caroline Adams MBE Programme lead Christine Megson MBE Programme lead/founder Georgie Nel Programme coordinator\n\n## THE MENTEES\nWe choose women who have helped others – whether through major action or the small, consistent acts of support that improve lives. Our aim is to give our mentees the self-confidence, skills and network to go on to help hundreds more. We look for women thirsty to learn; motivated to make change; and in need of our network and mentoring to propel them forward. The programme gives women the confidence and support to move forward whether that means seeking promotion, changing career direction or campaigning for the causes they believe in. It is especially valuable for those at a crossroads, providing the space and support to make confident, purposeful decisions about what comes next. Above all, it offers a non-judgemental environment where women can reflect, grow and realise their potential. We encourage and celebrate achievements at every stage of a mentee’s journey. Each mentee begins her journey in political or public life from a different starting point, so achievements naturally vary from person to person. What we have consistently seen, however, is that every woman makes meaningful progress. For some, the impact is immediate and life-changing; for others, it unfolds more gradually over time. The Programme has already delivered some incredible results for its participants. Among the mentee alumnae there are six MPs, two members of the House of Lords, eighty local councillors and ten CEOs of charities. ​ ​ ​ ​ ​​\n\n## Devina Paul\nThis programme has been a transformative experience for me. I joined with a lot of ambition but near zero political acumen, and have now been selected for two public office roles by the party. I can honestly say this is based on the programme, what I have learned, the people I have met and the support I have received from some of the most amazing women. Devina Paul (Cohort 12)\n\n## Kopiga Kugananthavel\nI’ve put myself forward to become a union representative and spoken up to support a political mandate for the union. Old me would have tried to support the union and causes behind the scenes, like I’ve always done. I am now happy to take on the risks of being in the public eye to advocate for causes I care about. ​\n\n## Clare McNeil\nThe courses, tasks and events have become so well-honed over successive cohorts of mentees that they will provide you with the right level of support and challenge. They are well timed to fit around work and home life. Over the year you will come to rely on the fantastic organisers and group of women in your cohort and will wonder how you ever managed without them! ​\n\n## Evaluation Reports\nWe are committed to regularly evaluating and improving this scheme. So far we have published four academic evaluation reports with the support of Unison. Read each one below.\n\nPDF LINKS: 2023 - We Belong Here Too (https://www.fabianwomen.org.uk/_files/ugd/a75b35_64c9212ad22e4f2bb22ae7f003f9622b.pdf) | 2019 - Finding Her Political Voice (https://www.fabianwomen.org.uk/_files/ugd/160506_07df5be3abe546a7859323791944bced.pdf) | 2016 - Footprints in the Sand (https://www.fabianwomen.org.uk/_files/ugd/160506_ff2e615aec024283b03a38fe7a15aa20.pdf) | 2014 - Cracks in the Glass Ceiling (https://www.fabianwomen.org.uk/_files/ugd/160506_e03885715b2a4aa79f745dc55142eb11.pdf)\nEXTERNAL LINKS: Talbot Communications (http://www.katetalbot.com)",
+    "word_count": 696,
+    "char_count": 5061,
+    "token_count": 1133,
+    "route_hint": "single_pass",
+    "pdf_links": [
+      {
+        "text": "2023 - We Belong Here Too",
+        "url": "https://www.fabianwomen.org.uk/_files/ugd/a75b35_64c9212ad22e4f2bb22ae7f003f9622b.pdf"
+      },
+      {
+        "text": "2019 - Finding Her Political Voice",
+        "url": "https://www.fabianwomen.org.uk/_files/ugd/160506_07df5be3abe546a7859323791944bced.pdf"
+      },
+      {
+        "text": "2016 - Footprints in the Sand",
+        "url": "https://www.fabianwomen.org.uk/_files/ugd/160506_ff2e615aec024283b03a38fe7a15aa20.pdf"
+      },
+      {
+        "text": "2014 - Cracks in the Glass Ceiling",
+        "url": "https://www.fabianwomen.org.uk/_files/ugd/160506_e03885715b2a4aa79f745dc55142eb11.pdf"
+      }
+    ],
+    "external_links": [
+      {
+        "text": "Talbot Communications",
+        "url": "http://www.katetalbot.com"
+      }
+    ]
+  },
+  {
+    "title": "The VisNet Project",
+    "url": "https://www.gla.ac.uk/colleges/scienceengineering/research/visnet/",
+    "author": "Caroline Gaucotte-Lindsay, Helen Mulvana, University of Glasgow",
+    "resource_id": "86",
+    "status": "success",
+    "url_type": "webpage",
+    "cleaned_text": null,
+    "clean_status": "success",
+    "clean_title": "University of Glasgow - Colleges - College of Science & Engineering - Equality, Diversity & Inclusion - visNET",
+    "description": "",
+    "headings": [
+      "the visnet project",
+      "How",
+      "Who"
+    ],
+    "sections": [
+      {
+        "heading": "the visnet project",
+        "level": "h2",
+        "content": "VisNET aims to remodel the implicit ‘rules’ of networking and collaboration. Female academics, particularly in STEM subjects, score consistently lower than male academics in metrics measuring international and industrial collaborations. These two related assessment criteria are key at all stages in academic careers and particularly important at senior levels to secure the highest value research grants and promotions. Our vision is: 1) To identify key barriers to international collaboration for female engineering academics 2) To design and demonstrate interventions and new best practices in networking and collaborations to define a new and more effective normal. While several barriers have been identified to academic career advancement for women and have led to strategic interventions at national and institutional levels, there remains a lack of data and action specifically targeted at networking and collaboration – the focus of this VisNET programme.",
+        "word_count": 139,
+        "char_count": 964,
+        "token_count": 156
+      },
+      {
+        "heading": "How",
+        "level": "h2",
+        "content": "Research – Identify barriers and assess interventions Define the meaning, impact and relevance of international collaborations for academic careers and how this differs by gender. Quantify and qualify the growth, international reach and influence of participants’ networks in response to our intervention. Assess the value of interventions that promote international collaboration to women’s careers. Innovate – Pilot strategic in situ networking approaches with female PDRA cohort Deliver enhanced professional development for in situ networking and collaborations. Implement personalised approaches to rapidly and strategically grow participant’s international online networks. Nurture the development of individually-driven international virtual workplaces inspired by global business practices. Embed – Demonstrate & disseminate the successful impact of virtual in situ networking Adopt in situ collaboration practices in daily academic activities. Develop a powerful advocacy network to ensure the continued roll-out, uptake and optimisation of in situ networking and collaboration in our Universities and in the wider UK STEM community. Construct and disseminate best practice recommendations based on research and innovation activities and in pursuit of institutional and national policy changes.",
+        "word_count": 173,
+        "char_count": 1303,
+        "token_count": 198
+      },
+      {
+        "heading": "Who",
+        "level": "h2",
+        "content": "This pilot project is specifically aimed at a cohort of talented female post-doctoral researchers and fellows (PDRAs). Women remain underrepresented at professorial level, with these gender imbalances heightened in Engineering. Transition from post-doc to ECR is a key attrition point for women in engineering and perceptions that an academic career is incompatible with work-life balance and family is one of the main factors. The interdisciplinary academic and industrial consortium we have brought together will lead the way in developing, integrating and advocating a new approach to conduct these activities largely in situ (i.e. from the researchers’ home institution). By demonstrating that strategic networks and collaborations can be built and maintained without frequent travel, we believe academic careers will be more attractive to this group of PDRAs and others. This intervention will also provide crucial tools to build confidence and researcher independence, and potentially mitigate the impact of future career breaks and parenthood. visNET Equality Impact Assessment ‌ ‌",
+        "word_count": 158,
+        "char_count": 1088,
+        "token_count": 191
+      }
+    ],
+    "body_text": "VisNET aims to remodel the implicit ‘rules’ of networking and collaboration. Female academics, particularly in STEM subjects, score consistently lower than male academics in metrics measuring international and industrial collaborations. These two related assessment criteria are key at all stages in academic careers and particularly important at senior levels to secure the highest value research grants and promotions. Our vision is: 1) To identify key barriers to international collaboration for female engineering academics 2) To design and demonstrate interventions and new best practices in networking and collaborations to define a new and more effective normal. While several barriers have been identified to academic career advancement for women and have led to strategic interventions at national and institutional levels, there remains a lack of data and action specifically targeted at networking and collaboration – the focus of this VisNET programme. Research – Identify barriers and assess interventions Define the meaning, impact and relevance of international collaborations for academic careers and how this differs by gender. Quantify and qualify the growth, international reach and influence of participants’ networks in response to our intervention. Assess the value of interventions that promote international collaboration to women’s careers. Innovate – Pilot strategic in situ networking approaches with female PDRA cohort Deliver enhanced professional development for in situ networking and collaborations. Implement personalised approaches to rapidly and strategically grow participant’s international online networks. Nurture the development of individually-driven international virtual workplaces inspired by global business practices. Embed – Demonstrate & disseminate the successful impact of virtual in situ networking Adopt in situ collaboration practices in daily academic activities. Develop a powerful advocacy network to ensure the continued roll-out, uptake and optimisation of in situ networking and collaboration in our Universities and in the wider UK STEM community. Construct and disseminate best practice recommendations based on research and innovation activities and in pursuit of institutional and national policy changes. This pilot project is specifically aimed at a cohort of talented female post-doctoral researchers and fellows (PDRAs). Women remain underrepresented at professorial level, with these gender imbalances heightened in Engineering. Transition from post-doc to ECR is a key attrition point for women in engineering and perceptions that an academic career is incompatible with work-life balance and family is one of the main factors. The interdisciplinary academic and industrial consortium we have brought together will lead the way in developing, integrating and advocating a new approach to conduct these activities largely in situ (i.e. from the researchers’ home institution). By demonstrating that strategic networks and collaborations can be built and maintained without frequent travel, we believe academic careers will be more attractive to this group of PDRAs and others. This intervention will also provide crucial tools to build confidence and researcher independence, and potentially mitigate the impact of future career breaks and parenthood. visNET Equality Impact Assessment ‌ ‌",
+    "clean_text": "TITLE: University of Glasgow - Colleges - College of Science & Engineering - Equality, Diversity & Inclusion - visNET\n\n## the visnet project\nVisNET aims to remodel the implicit ‘rules’ of networking and collaboration. Female academics, particularly in STEM subjects, score consistently lower than male academics in metrics measuring international and industrial collaborations. These two related assessment criteria are key at all stages in academic careers and particularly important at senior levels to secure the highest value research grants and promotions. Our vision is: 1) To identify key barriers to international collaboration for female engineering academics 2) To design and demonstrate interventions and new best practices in networking and collaborations to define a new and more effective normal. While several barriers have been identified to academic career advancement for women and have led to strategic interventions at national and institutional levels, there remains a lack of data and action specifically targeted at networking and collaboration – the focus of this VisNET programme.\n\n## How\nResearch – Identify barriers and assess interventions Define the meaning, impact and relevance of international collaborations for academic careers and how this differs by gender. Quantify and qualify the growth, international reach and influence of participants’ networks in response to our intervention. Assess the value of interventions that promote international collaboration to women’s careers. Innovate – Pilot strategic in situ networking approaches with female PDRA cohort Deliver enhanced professional development for in situ networking and collaborations. Implement personalised approaches to rapidly and strategically grow participant’s international online networks. Nurture the development of individually-driven international virtual workplaces inspired by global business practices. Embed – Demonstrate & disseminate the successful impact of virtual in situ networking Adopt in situ collaboration practices in daily academic activities. Develop a powerful advocacy network to ensure the continued roll-out, uptake and optimisation of in situ networking and collaboration in our Universities and in the wider UK STEM community. Construct and disseminate best practice recommendations based on research and innovation activities and in pursuit of institutional and national policy changes.\n\n## Who\nThis pilot project is specifically aimed at a cohort of talented female post-doctoral researchers and fellows (PDRAs). Women remain underrepresented at professorial level, with these gender imbalances heightened in Engineering. Transition from post-doc to ECR is a key attrition point for women in engineering and perceptions that an academic career is incompatible with work-life balance and family is one of the main factors. The interdisciplinary academic and industrial consortium we have brought together will lead the way in developing, integrating and advocating a new approach to conduct these activities largely in situ (i.e. from the researchers’ home institution). By demonstrating that strategic networks and collaborations can be built and maintained without frequent travel, we believe academic careers will be more attractive to this group of PDRAs and others. This intervention will also provide crucial tools to build confidence and researcher independence, and potentially mitigate the impact of future career breaks and parenthood. visNET Equality Impact Assessment ‌ ‌\n\nPDF LINKS: visNET Equality Impact Assessment (https://www.gla.ac.uk/media/Media_698171_smxx.pdf)\nEXTERNAL LINKS: follow us on Twitter (https://www.twitter.com/@visnet_) | JOBS AT GLASGOW (https://jobs.gla.ac.uk/)",
+    "word_count": 470,
+    "char_count": 3728,
+    "token_count": 644,
+    "route_hint": "single_pass",
+    "pdf_links": [
+      {
+        "text": "visNET Equality Impact Assessment",
+        "url": "https://www.gla.ac.uk/media/Media_698171_smxx.pdf"
+      }
+    ],
+    "external_links": [
+      {
+        "text": "follow us on Twitter",
+        "url": "https://www.twitter.com/@visnet_"
+      },
+      {
+        "text": "JOBS AT GLASGOW",
+        "url": "https://jobs.gla.ac.uk/"
+      }
+    ]
+  },
+  {
+    "title": "Promoting Equality, Diversity and Inclusion in Research and Funding: Reflections from A Digital Manufacturing Research Network",
+    "url": "https://link.springer.com/article/10.1186/s41073-024-00144-w",
+    "author": "Oliver J. Fisher, Debra Fearnshaw, Nicholas J. Watson, Peter Green, Fiona Charnley, Duncan McFarlane & Sarah Sharples",
+    "resource_id": "100",
+    "status": "success",
+    "url_type": "webpage",
+    "cleaned_text": null,
+    "clean_status": "success",
+    "clean_title": "Promoting equality, diversity and inclusion in research and funding: reflections from a digital manufacturing research network | Research Integrity and Peer Review | Springer Nature Link",
+    "description": "Equal, diverse, and inclusive teams lead to higher productivity, creativity, and greater problem-solving ability resulting in more impactful research. Howe",
+    "headings": [],
+    "sections": [
+      {
+        "heading": "",
+        "level": "preamble",
+        "content": "Research Open access Published: 16 May 2024 Volume 9 , article number 5 ( 2024 ) Cite this article You have full access to this open access article",
+        "word_count": 28,
+        "char_count": 147,
+        "token_count": 37
+      }
+    ],
+    "body_text": "Research Open access Published: 16 May 2024 Volume 9 , article number 5 ( 2024 ) Cite this article You have full access to this open access article",
+    "clean_text": "TITLE: Promoting equality, diversity and inclusion in research and funding: reflections from a digital manufacturing research network | Research Integrity and Peer Review | Springer Nature Link\nDESCRIPTION: Equal, diverse, and inclusive teams lead to higher productivity, creativity, and greater problem-solving ability resulting in more impactful research. Howe\n\nResearch Open access Published: 16 May 2024 Volume 9 , article number 5 ( 2024 ) Cite this article You have full access to this open access article\n\nPDF LINKS: Download PDF (https://link.springer.com/content/pdf/10.1186/s41073-024-00144-w.pdf) | https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-EDI-EvidenceReviewUK.pdf (https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-EDI-EvidenceReviewUK.pdf) | https://www.engineeringuk.com/media/318874/engineering-in-higher-education_report_engineeringuk_march23_fv.pdf (https://www.engineeringuk.com/media/318874/engineering-in-higher-education_report_engineeringuk_march23_fv.pdf) | https://srhe.ac.uk/wp-content/uploads/2020/03/Moreau-Robertson-SRHE-Research-Report.pdf (https://srhe.ac.uk/wp-content/uploads/2020/03/Moreau-Robertson-SRHE-Research-Report.pdf) | https://wellcome.org/sites/default/files/grant-funding-data-2018-2019.pdf (https://wellcome.org/sites/default/files/grant-funding-data-2018-2019.pdf)\nEXTERNAL LINKS: Learn more about website changes. (https://support.springernature.com/en/support/solutions/articles/6000281876-springer-nature-brand-websites-are-moving-to-springer-nature-link) | Log in (https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1186/s41073-024-00144-w) | Publish with us (https://www.springernature.com/gp/authors) | Track your research (https://link.springernature.com/home/) | Cart (https://order.springer.com/public/cart) | Open access (https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) | Submit manuscript (https://submission.springernature.com/new-submission/41073/3) | ORCID: orcid.org/0000-0002-6498-9888 (https://orcid.org/0000-0002-6498-9888) | Article (https://doi.org/10.1016%2Fj.egyai.2022.100152) | Google Scholar (http://scholar.google.com/scholar_lookup?&title=The%20equality%2C%20diversity%20and%20inclusion%20in%20energy%20and%20AI%3A%20call%20for%20actions&journal=Energy%20AI&doi=10.1016%2Fj.egyai.2022.100152&volume=8&publication_year=2022&author=Xuan%2CJ&author=Ocone%2CR)",
+    "word_count": 28,
+    "char_count": 2467,
+    "token_count": 713,
+    "route_hint": "single_pass",
+    "pdf_links": [
+      {
+        "text": "Download PDF",
+        "url": "https://link.springer.com/content/pdf/10.1186/s41073-024-00144-w.pdf"
+      },
+      {
+        "text": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-EDI-EvidenceReviewUK.pdf",
+        "url": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-EDI-EvidenceReviewUK.pdf"
+      },
+      {
+        "text": "https://www.engineeringuk.com/media/318874/engineering-in-higher-education_report_engineeringuk_march23_fv.pdf",
+        "url": "https://www.engineeringuk.com/media/318874/engineering-in-higher-education_report_engineeringuk_march23_fv.pdf"
+      },
+      {
+        "text": "https://srhe.ac.uk/wp-content/uploads/2020/03/Moreau-Robertson-SRHE-Research-Report.pdf",
+        "url": "https://srhe.ac.uk/wp-content/uploads/2020/03/Moreau-Robertson-SRHE-Research-Report.pdf"
+      },
+      {
+        "text": "https://wellcome.org/sites/default/files/grant-funding-data-2018-2019.pdf",
+        "url": "https://wellcome.org/sites/default/files/grant-funding-data-2018-2019.pdf"
+      }
+    ],
+    "external_links": [
+      {
+        "text": "Learn more about website changes.",
+        "url": "https://support.springernature.com/en/support/solutions/articles/6000281876-springer-nature-brand-websites-are-moving-to-springer-nature-link"
+      },
+      {
+        "text": "Log in",
+        "url": "https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1186/s41073-024-00144-w"
+      },
+      {
+        "text": "Publish with us",
+        "url": "https://www.springernature.com/gp/authors"
+      },
+      {
+        "text": "Track your research",
+        "url": "https://link.springernature.com/home/"
+      },
+      {
+        "text": "Cart",
+        "url": "https://order.springer.com/public/cart"
+      },
+      {
+        "text": "Open access",
+        "url": "https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research"
+      },
+      {
+        "text": "Submit manuscript",
+        "url": "https://submission.springernature.com/new-submission/41073/3"
+      },
+      {
+        "text": "ORCID: orcid.org/0000-0002-6498-9888",
+        "url": "https://orcid.org/0000-0002-6498-9888"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1016%2Fj.egyai.2022.100152"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=The%20equality%2C%20diversity%20and%20inclusion%20in%20energy%20and%20AI%3A%20call%20for%20actions&journal=Energy%20AI&doi=10.1016%2Fj.egyai.2022.100152&volume=8&publication_year=2022&author=Xuan%2CJ&author=Ocone%2CR"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1016%2Fj.respol.2017.05.003"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Cities%2C%20immigrant%20diversity%2C%20and%20complex%20problem%20solving&journal=Res%20Policy&doi=10.1016%2Fj.respol.2017.05.003&volume=46&pages=1175-85&publication_year=2017&author=Cooke%2CA&author=Kemeny%2CT"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1038%2Fs41467-018-07634-8"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=The%20preeminence%20of%20ethnic%20diversity%20in%20scientific%20collaboration&journal=Nat%20Commun&doi=10.1038%2Fs41467-018-07634-8&volume=9&publication_year=2018&author=AlShebli%2CBK&author=Rahwan%2CT&author=Woon%2CWL"
+      },
+      {
+        "text": "https://doi.org/10.1177/00187267211002239",
+        "url": "https://doi.org/10.1177/00187267211002239"
+      },
+      {
+        "text": "https://connectedeverything.ac.uk/",
+        "url": "https://connectedeverything.ac.uk/"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Reflections%20on%20an%20EDI%20Survey%20of%20UK-Government-Funded%20Research%20Networks%20in%20the%20UK&pages=9.0-940&publication_year=2022&author=Chandler-Wilde%2CS&author=Kanza%2CS&author=Fisher%2CO&author=Fearnshaw%2CD&author=Jones%2CE"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.16993%2Fsjdr.670"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Reporting%20from%20the%20margins%3A%20disabled%20academics%20reflections%20on%20higher%20education&journal=Scand%20J%20Disabil%20Res&doi=10.16993%2Fsjdr.670&volume=22&pages=265-74&publication_year=2020&author=Olsen%2CJ&author=Griffiths%2CM&author=Soorenian%2CA"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=The%20leaky%20pipeline%20in%20research%20grant%20peer%20review%20and%20funding%20decisions%3A%20challenges%20and%20future%20directions&journal=High%20Educ%202020%20821&volume=82&pages=145-62&publication_year=2020&author=Sato%2CS&author=Gygax%2CPM&author=Randall%2CJ"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=What%20works%20for%20peer%20review%20and%20decision-making%20in%20research%20funding%3A%20a%20realist%20synthesis&journal=Res%20Integr%20Peer%20Rev&volume=2022%2071&pages=1-28&publication_year=2022&author=Recio-Saucedo%2CA&author=Crane%2CK&author=Meadmore%2CK"
+      },
+      {
+        "text": "https://www.ukri.org/about-us/epsrc/our-policies-and-standards/equality-diversity-and-inclusion/expectations-for-equality-diversity-and-inclusion/",
+        "url": "https://www.ukri.org/about-us/epsrc/our-policies-and-standards/equality-diversity-and-inclusion/expectations-for-equality-diversity-and-inclusion/"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1016%2FS0140-6736%2818%2932611-4"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Are%20gender%20gaps%20due%20to%20evaluations%20of%20the%20applicant%20or%20the%20science%3F%20A%20natural%20experiment%20at%20a%20national%20funding%20agency&journal=Lancet&doi=10.1016%2FS0140-6736%2818%2932611-4&volume=393&pages=531-40&publication_year=2019&author=Witteman%2CHO&author=Hendricks%2CM&author=Straus%2CS"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Racism%2C%20equity%20and%20inclusion%20in%20research%20funding&journal=Sci%20Parliam&volume=76&pages=17-9&publication_year=2020&author=Li%2CYL&author=Bretscher%2CH&author=Oliver%2CR"
+      },
+      {
+        "text": "https://www.ukri.org/news/ukri-publishes-latest-diversity-data-for-research-funding/",
+        "url": "https://www.ukri.org/news/ukri-publishes-latest-diversity-data-for-research-funding/"
+      },
+      {
+        "text": "https://www.hesa.ac.uk/data-and-analysis/students/what-study",
+        "url": "https://www.hesa.ac.uk/data-and-analysis/students/what-study"
+      },
+      {
+        "text": "https://www.ukri.org/what-we-offer/what-we-have-funded/competitive-funding-decisions",
+        "url": "https://www.ukri.org/what-we-offer/what-we-have-funded/competitive-funding-decisions"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.3390%2Fsu11113171"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Gender%20and%20academic%20rank%20in%20the%20UK&journal=Sustain&doi=10.3390%2Fsu11113171&volume=11&publication_year=2019&author=Santos%2CG&author=Phu%2CSD"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1038%2Fs41557-022-01072-2"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Dismantling%20barriers%20faced%20by%20women%20in%20STEM&journal=Nat%20Chem&doi=10.1038%2Fs41557-022-01072-2&volume=14&pages=1203-6&publication_year=2022&author=Jebsen%2CJM&author=Nicoll%20Baines%2CK&author=Oliver%2CRA"
+      },
+      {
+        "text": "https://www.advance-he.ac.uk/knowledge-hub/equality-higher-education-statistical-report-2021",
+        "url": "https://www.advance-he.ac.uk/knowledge-hub/equality-higher-education-statistical-report-2021"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1080%2F03075079.2021.2020746"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Academics%20of%20colour%20in%20elite%20universities%20in%20the%20UK%20and%20the%20USA%3A%20the%20%E2%80%98unspoken%20system%20of%20exclusion%E2%80%99&journal=Stud%20High%20Educ&doi=10.1080%2F03075079.2021.2020746&volume=47&pages=2127-37&publication_year=2022&author=Bhopal%2CK"
+      },
+      {
+        "text": "https://www.hesa.ac.uk/data-and-analysis/staff/working-in-he/characteristics",
+        "url": "https://www.hesa.ac.uk/data-and-analysis/staff/working-in-he/characteristics"
+      },
+      {
+        "text": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/tablea21principalprojectionukpopulationinagegroups",
+        "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/tablea21principalprojectionukpopulationinagegroups"
+      },
+      {
+        "text": "https://www.hesa.ac.uk/data-and-analysis/students/whos-in-he/characteristics",
+        "url": "https://www.hesa.ac.uk/data-and-analysis/students/whos-in-he/characteristics"
+      },
+      {
+        "text": "https://doi.org/10.3145/epi.2021.mar.08",
+        "url": "https://doi.org/10.3145/epi.2021.mar.08"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1086%2F712579"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=COVID-19%20and%20long-term%20impacts%20on%20tenure-line%20careers&journal=J%20Soc%20Social%20Work%20Res&doi=10.1086%2F712579&volume=11&pages=499-507&publication_year=2020&author=Shillington%2CAM&author=Gehlert%2CS&author=Nurius%2CPS"
+      },
+      {
+        "text": "https://doi.org/10.38126/JSPG180105",
+        "url": "https://doi.org/10.38126/JSPG180105"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Peer%20reviewers%E2%80%99%20dilemmas%3A%20a%20qualitative%20exploration%20of%20decisional%20conflict%20in%20the%20evaluation%20of%20grant%20applications%20in%20the%20medical%20humanities%20and%20social%20sciences&journal=Humanit%20Soc%20Sci%20Commun&volume=2022%2091&pages=1-11&publication_year=2022&author=Vall%C3%A9e-Tourangeau%2CG&author=Wheelock%2CA&author=Vandrevala%2CT"
+      },
+      {
+        "text": "https://www.ukri.org/what-we-offer/supporting-healthy-research-and-innovation-culture/equality-diversity-and-inclusion/diversity-data/",
+        "url": "https://www.ukri.org/what-we-offer/supporting-healthy-research-and-innovation-culture/equality-diversity-and-inclusion/diversity-data/"
+      },
+      {
+        "text": "https://www.ons.gov.uk/census/2011census",
+        "url": "https://www.ons.gov.uk/census/2011census"
+      },
+      {
+        "text": "https://www.hesa.ac.uk/support/documentation/cost-centres/2012-13-onwards",
+        "url": "https://www.hesa.ac.uk/support/documentation/cost-centres/2012-13-onwards"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1016%2Fj.respol.2003.09.005"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Institutionalized%20biases%20in%20the%20award%20of%20research%20grants%3A%20a%20preliminary%20analysis%20revisiting%20the%20principle%20of%20accumulative%20advantage&journal=Res%20Policy&doi=10.1016%2Fj.respol.2003.09.005&volume=33&pages=443-54&publication_year=2004&author=Viner%2CN&author=Powell%2CP&author=Green%2CR"
+      },
+      {
+        "text": "https://www.gov.uk/government/publications/ofquals-statistics-policies-and-procedures/rounding-policy",
+        "url": "https://www.gov.uk/government/publications/ofquals-statistics-policies-and-procedures/rounding-policy"
+      },
+      {
+        "text": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourmarketstatusofdisabledpeoplea08",
+        "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourmarketstatusofdisabledpeoplea08"
+      },
+      {
+        "text": "https://www.gov.uk/government/statistics/family-resources-survey-financial-year-2020-to-2021",
+        "url": "https://www.gov.uk/government/statistics/family-resources-survey-financial-year-2020-to-2021"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.7326%2FM13-0974"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Gender%20differences%20in%20time%20spent%20on%20parenting%20and%20domestic%20responsibilities%20by%20high-achieving%20young%20physician-researchers&journal=Ann%20Intern%20Med&doi=10.7326%2FM13-0974&volume=160&pages=344-53&publication_year=2014&author=Jolly%2CS&author=Griffith%2CKA&author=DeCastro%2CR"
+      },
+      {
+        "text": "https://www.ukri.org/what-we-offer/developing-people-and-skills/esrc/early-career-researchers/",
+        "url": "https://www.ukri.org/what-we-offer/developing-people-and-skills/esrc/early-career-researchers/"
+      },
+      {
+        "text": "www.hepi.ac.uk",
+        "url": "http://www.hepi.ac.uk"
+      },
+      {
+        "text": "https://doi.org/10.1080/0968759920181455627",
+        "url": "https://doi.org/10.1080/0968759920181455627"
+      },
+      {
+        "text": "https://doi.org/10.6084/m9.figshare.21222212.v3",
+        "url": "https://doi.org/10.6084/m9.figshare.21222212.v3"
+      },
+      {
+        "text": "https://www.youtube.com/watch?v=GdJjL6AaBbc&ab_channel=ConnectedEverythingII",
+        "url": "https://www.youtube.com/watch?v=GdJjL6AaBbc&ab_channel=ConnectedEverythingII"
+      },
+      {
+        "text": "Download references",
+        "url": "https://citation-needed.springer.com/v2/references/10.1186/s41073-024-00144-w?format=refman&flavour=references"
+      },
+      {
+        "text": "PubMed",
+        "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Oliver%20J.%20Fisher"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Oliver%20J.%20Fisher%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en"
+      },
+      {
+        "text": "PubMed",
+        "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Debra%20Fearnshaw"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Debra%20Fearnshaw%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en"
+      },
+      {
+        "text": "PubMed",
+        "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Nicholas%20J.%20Watson"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Nicholas%20J.%20Watson%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en"
+      },
+      {
+        "text": "PubMed",
+        "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Peter%20Green"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Peter%20Green%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en"
+      },
+      {
+        "text": "PubMed",
+        "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Fiona%20Charnley"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Fiona%20Charnley%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en"
+      },
+      {
+        "text": "PubMed",
+        "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Duncan%20McFarlane"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Duncan%20McFarlane%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en"
+      },
+      {
+        "text": "PubMed",
+        "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Sarah%20Sharples"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Sarah%20Sharples%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en"
+      },
+      {
+        "text": "Supplementary Material 1. (download DOCX )",
+        "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs41073-024-00144-w/MediaObjects/41073_2024_144_MOESM1_ESM.docx"
+      },
+      {
+        "text": "http://creativecommons.org/licenses/by/4.0/",
+        "url": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "http://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      {
+        "text": "Reprints and permissions",
+        "url": "https://s100.copyright.com/AppDispatchServlet?title=Promoting%20equality%2C%20diversity%20and%20inclusion%20in%20research%20and%20funding%3A%20reflections%20from%20a%20digital%20manufacturing%20research%20network&author=Oliver%20J.%20Fisher%20et%20al&contentID=10.1186%2Fs41073-024-00144-w&copyright=Crown&publication=2058-8615&publicationDate=2024-05-16&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY%20%2B%20CC0"
+      },
+      {
+        "text": "Download citation",
+        "url": "https://citation-needed.springer.com/v2/references/10.1186/s41073-024-00144-w?format=refman&flavour=citation"
+      },
+      {
+        "text": "Language editing",
+        "url": "https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral"
+      },
+      {
+        "text": "Our products",
+        "url": "https://www.springernature.com/gp/products"
+      },
+      {
+        "text": "Librarians",
+        "url": "https://www.springernature.com/gp/librarians"
+      },
+      {
+        "text": "Societies",
+        "url": "https://www.springernature.com/gp/societies"
+      },
+      {
+        "text": "Partners and advertisers",
+        "url": "https://www.springernature.com/gp/partners"
+      },
+      {
+        "text": "Nature Portfolio",
+        "url": "https://www.nature.com/"
+      },
+      {
+        "text": "Your US state privacy rights",
+        "url": "https://www.springernature.com/gp/legal/ccpa"
+      },
+      {
+        "text": "Help and support",
+        "url": "https://support.springernature.com/en/support/home"
+      },
+      {
+        "text": "Cancel contracts here",
+        "url": "https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations"
+      }
+    ]
+  },
+{
+    "title": "University of East Anglia Norwich Lab Access Guidelines",
+    "url": "https://www.uea.ac.uk/groups-and-centres/projects/access-all-areas-in-labs/access-guidelines",
+    "author": "University of East Anglia",
+    "resource_id": "203",
+    "status": "success",
+    "url_type": "webpage",
+    "cleaned_text": null,
+    "clean_status": "success",
+    "clean_title": "Access Guidelines",
+    "description": "University of East Anglia",
+    "headings": [
+      "Guidelines' Aim",
+      "Comments and Corrections"
+    ],
+    "sections": [
+      {
+        "heading": "Guidelines' Aim",
+        "level": "h3",
+        "content": "The aim was to create a set of documents that would provide a pragmatic and useful guide on to how to create an accessible lab workplace. We wished to accumulate relevant guidelines for lab contexts, edit them for relevancy, expand them in order to be as comprehensive as possible, and share them with the scientific community. The guidelines are mostly created from previously published work, which we cite. We wanted to provide guidelines for the whole of the lab work ecosystem, and to consider all types of impairments and disabilities. We identified a key guideline or two at the start of the creation of each of our guidelines. This would then be combined with information from other guidelines, data from the survey and case studies, and combined with the team’s lived expertise to allow us to provide comprehensive guidelines with exemplars of implementation solutions across a range of settings and impairments.",
+        "word_count": 151,
+        "char_count": 920,
+        "token_count": 169
+      },
+      {
+        "heading": "Comments and Corrections",
+        "level": "h3",
+        "content": "We welcome comments and corrections on these guidelines that will allow us to enhance the next version’s quality and relevancy. If you have suggestions for changes, please email Dr Katherine Deane",
+        "word_count": 31,
+        "char_count": 196,
+        "token_count": 36
+      }
+    ],
+    "body_text": "The aim was to create a set of documents that would provide a pragmatic and useful guide on to how to create an accessible lab workplace. We wished to accumulate relevant guidelines for lab contexts, edit them for relevancy, expand them in order to be as comprehensive as possible, and share them with the scientific community. The guidelines are mostly created from previously published work, which we cite. We wanted to provide guidelines for the whole of the lab work ecosystem, and to consider all types of impairments and disabilities. We identified a key guideline or two at the start of the creation of each of our guidelines. This would then be combined with information from other guidelines, data from the survey and case studies, and combined with the team’s lived expertise to allow us to provide comprehensive guidelines with exemplars of implementation solutions across a range of settings and impairments. We welcome comments and corrections on these guidelines that will allow us to enhance the next version’s quality and relevancy. If you have suggestions for changes, please email Dr Katherine Deane",
+    "clean_text": "TITLE: Access Guidelines\nDESCRIPTION: University of East Anglia\n\n## Guidelines' Aim\nThe aim was to create a set of documents that would provide a pragmatic and useful guide on to how to create an accessible lab workplace. We wished to accumulate relevant guidelines for lab contexts, edit them for relevancy, expand them in order to be as comprehensive as possible, and share them with the scientific community. The guidelines are mostly created from previously published work, which we cite. We wanted to provide guidelines for the whole of the lab work ecosystem, and to consider all types of impairments and disabilities. We identified a key guideline or two at the start of the creation of each of our guidelines. This would then be combined with information from other guidelines, data from the survey and case studies, and combined with the team’s lived expertise to allow us to provide comprehensive guidelines with exemplars of implementation solutions across a range of settings and impairments.\n\n## Comments and Corrections\nWe welcome comments and corrections on these guidelines that will allow us to enhance the next version’s quality and relevancy. If you have suggestions for changes, please email Dr Katherine Deane\n\nEXTERNAL LINKS: Current students (https://my.uea.ac.uk) | Sainsbury Centre (https://sainsburycentre.ac.uk/) | NRP (https://www.norwichresearchpark.com/) | Sportspark (https://www.sportspark.co.uk/) | Go to our Instagram page (https://www.instagram.com/uniofeastanglia) | Go to our TikTok page (https://www.tiktok.com/@uniofeastanglia) | Go to our Facebook page (https://www.facebook.com/ueaofficial) | Go to our LinkedIn page (https://www.linkedin.com/school/university-of-east-anglia/) | Go to our Threads page (https://www.threads.com/@uniofeastanglia) | Go to our YouTube page (https://www.youtube.com/@ueaofficial)",
+    "word_count": 182,
+    "char_count": 1850,
+    "token_count": 406,
+    "route_hint": "single_pass",
+    "needs_js_render": true,
+    "pdf_links": [
+      {"text": "Structural Access Guidelines", "url": "https://assets.uea.ac.uk/f/185167/x/045abde54f/structural-access-guideline-v1_1-july-2023.pdf"},
+      {"text": "Equipment Access Guidelines", "url": "https://assets.uea.ac.uk/f/185167/x/31f714a599/equipment-access-guidelines-v1_1-july-2023.pdf"},
+      {"text": "Protocol Access Guidelines", "url": "https://assets.uea.ac.uk/f/185167/x/6483ee8966/protocol-access-guidelines-v1_1-july-2023.pdf"},
+      {"text": "Dissemination Access Guidelines", "url": "https://assets.uea.ac.uk/f/185167/x/00c5317865/dissemination-access-guidelines-v1_1-july-2023.pdf"},
+      {"text": "Working Practices Access Guidelines", "url": "https://assets.uea.ac.uk/f/185167/x/e47c6cd753/working-practices-access-guideline-v1_1-july-2023.pdf"}
+    ],
+    "external_links": [
+      {
+        "text": "Current students",
+        "url": "https://my.uea.ac.uk"
+      },
+      {
+        "text": "Sainsbury Centre",
+        "url": "https://sainsburycentre.ac.uk/"
+      },
+      {
+        "text": "NRP",
+        "url": "https://www.norwichresearchpark.com/"
+      },
+      {
+        "text": "Sportspark",
+        "url": "https://www.sportspark.co.uk/"
+      },
+      {
+        "text": "Go to our Instagram page",
+        "url": "https://www.instagram.com/uniofeastanglia"
+      },
+      {
+        "text": "Go to our TikTok page",
+        "url": "https://www.tiktok.com/@uniofeastanglia"
+      },
+      {
+        "text": "Go to our Facebook page",
+        "url": "https://www.facebook.com/ueaofficial"
+      },
+      {
+        "text": "Go to our LinkedIn page",
+        "url": "https://www.linkedin.com/school/university-of-east-anglia/"
+      },
+      {
+        "text": "Go to our Threads page",
+        "url": "https://www.threads.com/@uniofeastanglia"
+      },
+      {
+        "text": "Go to our YouTube page",
+        "url": "https://www.youtube.com/@ueaofficial"
+      },
+      {
+        "text": "Go to our BlueSky page",
+        "url": "https://bsky.app/profile/uniofeastanglia.bsky.social"
+      }
+    ]
+  },
+  {
+    "title": "LMS Advice on Diversity of Speakers at Conferences and Seminars",
+    "url": "https://www.lms.ac.uk/women/speaker-diversity-conferences-seminars",
+    "author": "London Mathematical Society",
+    "resource_id": "205",
+    "status": "success",
+    "url_type": "webpage",
+    "cleaned_text": null,
+    "clean_status": "success",
+    "clean_title": "LMS Advice on Diversity of Speakers at Conferences and Seminars | London Mathematical Society",
+    "description": "",
+    "headings": [],
+    "sections": [],
+    "body_text": "",
+    "clean_text": "TITLE: LMS Advice on Diversity of Speakers at Conferences and Seminars | London Mathematical Society\n\nPDF LINKS: Accessibility Guide (https://www.lms.ac.uk/sites/default/files/inline-files/Accessibility%20Guide%20-%20DMH_London%20Mathematical%20Society_1.pdf)\nEXTERNAL LINKS: LMS timeline (https://lms.ac.uk/history/london-mathematical-society-timeline) | People (https://lms.ac.uk/publications/people) | Links (http://lms.ac.uk/node/479) | Conference Facilities Website (http://demorganhouse.org.uk/)",
+    "word_count": 0,
+    "char_count": 501,
+    "token_count": 131,
+    "route_hint": "single_pass",
+    "pdf_links": [
+      {
+        "text": "Accessibility Guide",
+        "url": "https://www.lms.ac.uk/sites/default/files/inline-files/Accessibility%20Guide%20-%20DMH_London%20Mathematical%20Society_1.pdf"
+      }
+    ],
+    "external_links": [
+      {
+        "text": "LMS timeline",
+        "url": "https://lms.ac.uk/history/london-mathematical-society-timeline"
+      },
+      {
+        "text": "People",
+        "url": "https://lms.ac.uk/publications/people"
+      },
+      {
+        "text": "Links",
+        "url": "http://lms.ac.uk/node/479"
+      },
+      {
+        "text": "Conference Facilities Website",
+        "url": "http://demorganhouse.org.uk/"
+      }
+    ]
+  },
+  {
+    "title": "Promoting equality, diversity and inclusion in research and funding: reflections from a digital manufacturing research network.",
+    "url": "https://link.springer.com/article/10.1186/s41073-024-00144-w",
+    "author": "Fisher, O.J., Fearnshaw, D., Watson, N.J. et al.",
+    "resource_id": "207",
+    "status": "success",
+    "url_type": "webpage",
+    "cleaned_text": null,
+    "clean_status": "success",
+    "clean_title": "Promoting equality, diversity and inclusion in research and funding: reflections from a digital manufacturing research network | Research Integrity and Peer Review | Springer Nature Link",
+    "description": "Equal, diverse, and inclusive teams lead to higher productivity, creativity, and greater problem-solving ability resulting in more impactful research. Howe",
+    "headings": [],
+    "sections": [
+      {
+        "heading": "",
+        "level": "preamble",
+        "content": "Research Open access Published: 16 May 2024 Volume 9 , article number 5 ( 2024 ) Cite this article You have full access to this open access article",
+        "word_count": 28,
+        "char_count": 147,
+        "token_count": 37
+      }
+    ],
+    "body_text": "Research Open access Published: 16 May 2024 Volume 9 , article number 5 ( 2024 ) Cite this article You have full access to this open access article",
+    "clean_text": "TITLE: Promoting equality, diversity and inclusion in research and funding: reflections from a digital manufacturing research network | Research Integrity and Peer Review | Springer Nature Link\nDESCRIPTION: Equal, diverse, and inclusive teams lead to higher productivity, creativity, and greater problem-solving ability resulting in more impactful research. Howe\n\nResearch Open access Published: 16 May 2024 Volume 9 , article number 5 ( 2024 ) Cite this article You have full access to this open access article\n\nPDF LINKS: Download PDF (https://link.springer.com/content/pdf/10.1186/s41073-024-00144-w.pdf) | https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-EDI-EvidenceReviewUK.pdf (https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-EDI-EvidenceReviewUK.pdf) | https://www.engineeringuk.com/media/318874/engineering-in-higher-education_report_engineeringuk_march23_fv.pdf (https://www.engineeringuk.com/media/318874/engineering-in-higher-education_report_engineeringuk_march23_fv.pdf) | https://srhe.ac.uk/wp-content/uploads/2020/03/Moreau-Robertson-SRHE-Research-Report.pdf (https://srhe.ac.uk/wp-content/uploads/2020/03/Moreau-Robertson-SRHE-Research-Report.pdf) | https://wellcome.org/sites/default/files/grant-funding-data-2018-2019.pdf (https://wellcome.org/sites/default/files/grant-funding-data-2018-2019.pdf)\nEXTERNAL LINKS: Learn more about website changes. (https://support.springernature.com/en/support/solutions/articles/6000281876-springer-nature-brand-websites-are-moving-to-springer-nature-link) | Log in (https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1186/s41073-024-00144-w) | Publish with us (https://www.springernature.com/gp/authors) | Track your research (https://link.springernature.com/home/) | Cart (https://order.springer.com/public/cart) | Open access (https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) | Submit manuscript (https://submission.springernature.com/new-submission/41073/3) | ORCID: orcid.org/0000-0002-6498-9888 (https://orcid.org/0000-0002-6498-9888) | Article (https://doi.org/10.1016%2Fj.egyai.2022.100152) | Google Scholar (http://scholar.google.com/scholar_lookup?&title=The%20equality%2C%20diversity%20and%20inclusion%20in%20energy%20and%20AI%3A%20call%20for%20actions&journal=Energy%20AI&doi=10.1016%2Fj.egyai.2022.100152&volume=8&publication_year=2022&author=Xuan%2CJ&author=Ocone%2CR)",
+    "word_count": 28,
+    "char_count": 2467,
+    "token_count": 713,
+    "route_hint": "single_pass",
+    "pdf_links": [
+      {
+        "text": "Download PDF",
+        "url": "https://link.springer.com/content/pdf/10.1186/s41073-024-00144-w.pdf"
+      },
+      {
+        "text": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-EDI-EvidenceReviewUK.pdf",
+        "url": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-EDI-EvidenceReviewUK.pdf"
+      },
+      {
+        "text": "https://www.engineeringuk.com/media/318874/engineering-in-higher-education_report_engineeringuk_march23_fv.pdf",
+        "url": "https://www.engineeringuk.com/media/318874/engineering-in-higher-education_report_engineeringuk_march23_fv.pdf"
+      },
+      {
+        "text": "https://srhe.ac.uk/wp-content/uploads/2020/03/Moreau-Robertson-SRHE-Research-Report.pdf",
+        "url": "https://srhe.ac.uk/wp-content/uploads/2020/03/Moreau-Robertson-SRHE-Research-Report.pdf"
+      },
+      {
+        "text": "https://wellcome.org/sites/default/files/grant-funding-data-2018-2019.pdf",
+        "url": "https://wellcome.org/sites/default/files/grant-funding-data-2018-2019.pdf"
+      }
+    ],
+    "external_links": [
+      {
+        "text": "Learn more about website changes.",
+        "url": "https://support.springernature.com/en/support/solutions/articles/6000281876-springer-nature-brand-websites-are-moving-to-springer-nature-link"
+      },
+      {
+        "text": "Log in",
+        "url": "https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1186/s41073-024-00144-w"
+      },
+      {
+        "text": "Publish with us",
+        "url": "https://www.springernature.com/gp/authors"
+      },
+      {
+        "text": "Track your research",
+        "url": "https://link.springernature.com/home/"
+      },
+      {
+        "text": "Cart",
+        "url": "https://order.springer.com/public/cart"
+      },
+      {
+        "text": "Open access",
+        "url": "https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research"
+      },
+      {
+        "text": "Submit manuscript",
+        "url": "https://submission.springernature.com/new-submission/41073/3"
+      },
+      {
+        "text": "ORCID: orcid.org/0000-0002-6498-9888",
+        "url": "https://orcid.org/0000-0002-6498-9888"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1016%2Fj.egyai.2022.100152"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=The%20equality%2C%20diversity%20and%20inclusion%20in%20energy%20and%20AI%3A%20call%20for%20actions&journal=Energy%20AI&doi=10.1016%2Fj.egyai.2022.100152&volume=8&publication_year=2022&author=Xuan%2CJ&author=Ocone%2CR"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1016%2Fj.respol.2017.05.003"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Cities%2C%20immigrant%20diversity%2C%20and%20complex%20problem%20solving&journal=Res%20Policy&doi=10.1016%2Fj.respol.2017.05.003&volume=46&pages=1175-85&publication_year=2017&author=Cooke%2CA&author=Kemeny%2CT"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1038%2Fs41467-018-07634-8"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=The%20preeminence%20of%20ethnic%20diversity%20in%20scientific%20collaboration&journal=Nat%20Commun&doi=10.1038%2Fs41467-018-07634-8&volume=9&publication_year=2018&author=AlShebli%2CBK&author=Rahwan%2CT&author=Woon%2CWL"
+      },
+      {
+        "text": "https://doi.org/10.1177/00187267211002239",
+        "url": "https://doi.org/10.1177/00187267211002239"
+      },
+      {
+        "text": "https://connectedeverything.ac.uk/",
+        "url": "https://connectedeverything.ac.uk/"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Reflections%20on%20an%20EDI%20Survey%20of%20UK-Government-Funded%20Research%20Networks%20in%20the%20UK&pages=9.0-940&publication_year=2022&author=Chandler-Wilde%2CS&author=Kanza%2CS&author=Fisher%2CO&author=Fearnshaw%2CD&author=Jones%2CE"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.16993%2Fsjdr.670"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Reporting%20from%20the%20margins%3A%20disabled%20academics%20reflections%20on%20higher%20education&journal=Scand%20J%20Disabil%20Res&doi=10.16993%2Fsjdr.670&volume=22&pages=265-74&publication_year=2020&author=Olsen%2CJ&author=Griffiths%2CM&author=Soorenian%2CA"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=The%20leaky%20pipeline%20in%20research%20grant%20peer%20review%20and%20funding%20decisions%3A%20challenges%20and%20future%20directions&journal=High%20Educ%202020%20821&volume=82&pages=145-62&publication_year=2020&author=Sato%2CS&author=Gygax%2CPM&author=Randall%2CJ"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=What%20works%20for%20peer%20review%20and%20decision-making%20in%20research%20funding%3A%20a%20realist%20synthesis&journal=Res%20Integr%20Peer%20Rev&volume=2022%2071&pages=1-28&publication_year=2022&author=Recio-Saucedo%2CA&author=Crane%2CK&author=Meadmore%2CK"
+      },
+      {
+        "text": "https://www.ukri.org/about-us/epsrc/our-policies-and-standards/equality-diversity-and-inclusion/expectations-for-equality-diversity-and-inclusion/",
+        "url": "https://www.ukri.org/about-us/epsrc/our-policies-and-standards/equality-diversity-and-inclusion/expectations-for-equality-diversity-and-inclusion/"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1016%2FS0140-6736%2818%2932611-4"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Are%20gender%20gaps%20due%20to%20evaluations%20of%20the%20applicant%20or%20the%20science%3F%20A%20natural%20experiment%20at%20a%20national%20funding%20agency&journal=Lancet&doi=10.1016%2FS0140-6736%2818%2932611-4&volume=393&pages=531-40&publication_year=2019&author=Witteman%2CHO&author=Hendricks%2CM&author=Straus%2CS"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Racism%2C%20equity%20and%20inclusion%20in%20research%20funding&journal=Sci%20Parliam&volume=76&pages=17-9&publication_year=2020&author=Li%2CYL&author=Bretscher%2CH&author=Oliver%2CR"
+      },
+      {
+        "text": "https://www.ukri.org/news/ukri-publishes-latest-diversity-data-for-research-funding/",
+        "url": "https://www.ukri.org/news/ukri-publishes-latest-diversity-data-for-research-funding/"
+      },
+      {
+        "text": "https://www.hesa.ac.uk/data-and-analysis/students/what-study",
+        "url": "https://www.hesa.ac.uk/data-and-analysis/students/what-study"
+      },
+      {
+        "text": "https://www.ukri.org/what-we-offer/what-we-have-funded/competitive-funding-decisions",
+        "url": "https://www.ukri.org/what-we-offer/what-we-have-funded/competitive-funding-decisions"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.3390%2Fsu11113171"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Gender%20and%20academic%20rank%20in%20the%20UK&journal=Sustain&doi=10.3390%2Fsu11113171&volume=11&publication_year=2019&author=Santos%2CG&author=Phu%2CSD"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1038%2Fs41557-022-01072-2"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Dismantling%20barriers%20faced%20by%20women%20in%20STEM&journal=Nat%20Chem&doi=10.1038%2Fs41557-022-01072-2&volume=14&pages=1203-6&publication_year=2022&author=Jebsen%2CJM&author=Nicoll%20Baines%2CK&author=Oliver%2CRA"
+      },
+      {
+        "text": "https://www.advance-he.ac.uk/knowledge-hub/equality-higher-education-statistical-report-2021",
+        "url": "https://www.advance-he.ac.uk/knowledge-hub/equality-higher-education-statistical-report-2021"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1080%2F03075079.2021.2020746"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Academics%20of%20colour%20in%20elite%20universities%20in%20the%20UK%20and%20the%20USA%3A%20the%20%E2%80%98unspoken%20system%20of%20exclusion%E2%80%99&journal=Stud%20High%20Educ&doi=10.1080%2F03075079.2021.2020746&volume=47&pages=2127-37&publication_year=2022&author=Bhopal%2CK"
+      },
+      {
+        "text": "https://www.hesa.ac.uk/data-and-analysis/staff/working-in-he/characteristics",
+        "url": "https://www.hesa.ac.uk/data-and-analysis/staff/working-in-he/characteristics"
+      },
+      {
+        "text": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/tablea21principalprojectionukpopulationinagegroups",
+        "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/tablea21principalprojectionukpopulationinagegroups"
+      },
+      {
+        "text": "https://www.hesa.ac.uk/data-and-analysis/students/whos-in-he/characteristics",
+        "url": "https://www.hesa.ac.uk/data-and-analysis/students/whos-in-he/characteristics"
+      },
+      {
+        "text": "https://doi.org/10.3145/epi.2021.mar.08",
+        "url": "https://doi.org/10.3145/epi.2021.mar.08"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1086%2F712579"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=COVID-19%20and%20long-term%20impacts%20on%20tenure-line%20careers&journal=J%20Soc%20Social%20Work%20Res&doi=10.1086%2F712579&volume=11&pages=499-507&publication_year=2020&author=Shillington%2CAM&author=Gehlert%2CS&author=Nurius%2CPS"
+      },
+      {
+        "text": "https://doi.org/10.38126/JSPG180105",
+        "url": "https://doi.org/10.38126/JSPG180105"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Peer%20reviewers%E2%80%99%20dilemmas%3A%20a%20qualitative%20exploration%20of%20decisional%20conflict%20in%20the%20evaluation%20of%20grant%20applications%20in%20the%20medical%20humanities%20and%20social%20sciences&journal=Humanit%20Soc%20Sci%20Commun&volume=2022%2091&pages=1-11&publication_year=2022&author=Vall%C3%A9e-Tourangeau%2CG&author=Wheelock%2CA&author=Vandrevala%2CT"
+      },
+      {
+        "text": "https://www.ukri.org/what-we-offer/supporting-healthy-research-and-innovation-culture/equality-diversity-and-inclusion/diversity-data/",
+        "url": "https://www.ukri.org/what-we-offer/supporting-healthy-research-and-innovation-culture/equality-diversity-and-inclusion/diversity-data/"
+      },
+      {
+        "text": "https://www.ons.gov.uk/census/2011census",
+        "url": "https://www.ons.gov.uk/census/2011census"
+      },
+      {
+        "text": "https://www.hesa.ac.uk/support/documentation/cost-centres/2012-13-onwards",
+        "url": "https://www.hesa.ac.uk/support/documentation/cost-centres/2012-13-onwards"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.1016%2Fj.respol.2003.09.005"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Institutionalized%20biases%20in%20the%20award%20of%20research%20grants%3A%20a%20preliminary%20analysis%20revisiting%20the%20principle%20of%20accumulative%20advantage&journal=Res%20Policy&doi=10.1016%2Fj.respol.2003.09.005&volume=33&pages=443-54&publication_year=2004&author=Viner%2CN&author=Powell%2CP&author=Green%2CR"
+      },
+      {
+        "text": "https://www.gov.uk/government/publications/ofquals-statistics-policies-and-procedures/rounding-policy",
+        "url": "https://www.gov.uk/government/publications/ofquals-statistics-policies-and-procedures/rounding-policy"
+      },
+      {
+        "text": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourmarketstatusofdisabledpeoplea08",
+        "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourmarketstatusofdisabledpeoplea08"
+      },
+      {
+        "text": "https://www.gov.uk/government/statistics/family-resources-survey-financial-year-2020-to-2021",
+        "url": "https://www.gov.uk/government/statistics/family-resources-survey-financial-year-2020-to-2021"
+      },
+      {
+        "text": "Article",
+        "url": "https://doi.org/10.7326%2FM13-0974"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "http://scholar.google.com/scholar_lookup?&title=Gender%20differences%20in%20time%20spent%20on%20parenting%20and%20domestic%20responsibilities%20by%20high-achieving%20young%20physician-researchers&journal=Ann%20Intern%20Med&doi=10.7326%2FM13-0974&volume=160&pages=344-53&publication_year=2014&author=Jolly%2CS&author=Griffith%2CKA&author=DeCastro%2CR"
+      },
+      {
+        "text": "https://www.ukri.org/what-we-offer/developing-people-and-skills/esrc/early-career-researchers/",
+        "url": "https://www.ukri.org/what-we-offer/developing-people-and-skills/esrc/early-career-researchers/"
+      },
+      {
+        "text": "www.hepi.ac.uk",
+        "url": "http://www.hepi.ac.uk"
+      },
+      {
+        "text": "https://doi.org/10.1080/0968759920181455627",
+        "url": "https://doi.org/10.1080/0968759920181455627"
+      },
+      {
+        "text": "https://doi.org/10.6084/m9.figshare.21222212.v3",
+        "url": "https://doi.org/10.6084/m9.figshare.21222212.v3"
+      },
+      {
+        "text": "https://www.youtube.com/watch?v=GdJjL6AaBbc&ab_channel=ConnectedEverythingII",
+        "url": "https://www.youtube.com/watch?v=GdJjL6AaBbc&ab_channel=ConnectedEverythingII"
+      },
+      {
+        "text": "Download references",
+        "url": "https://citation-needed.springer.com/v2/references/10.1186/s41073-024-00144-w?format=refman&flavour=references"
+      },
+      {
+        "text": "PubMed",
+        "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Oliver%20J.%20Fisher"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Oliver%20J.%20Fisher%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en"
+      },
+      {
+        "text": "PubMed",
+        "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Debra%20Fearnshaw"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Debra%20Fearnshaw%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en"
+      },
+      {
+        "text": "PubMed",
+        "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Nicholas%20J.%20Watson"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Nicholas%20J.%20Watson%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en"
+      },
+      {
+        "text": "PubMed",
+        "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Peter%20Green"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Peter%20Green%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en"
+      },
+      {
+        "text": "PubMed",
+        "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Fiona%20Charnley"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Fiona%20Charnley%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en"
+      },
+      {
+        "text": "PubMed",
+        "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Duncan%20McFarlane"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Duncan%20McFarlane%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en"
+      },
+      {
+        "text": "PubMed",
+        "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Sarah%20Sharples"
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Sarah%20Sharples%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en"
+      },
+      {
+        "text": "Supplementary Material 1. (download DOCX )",
+        "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs41073-024-00144-w/MediaObjects/41073_2024_144_MOESM1_ESM.docx"
+      },
+      {
+        "text": "http://creativecommons.org/licenses/by/4.0/",
+        "url": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "http://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      {
+        "text": "Reprints and permissions",
+        "url": "https://s100.copyright.com/AppDispatchServlet?title=Promoting%20equality%2C%20diversity%20and%20inclusion%20in%20research%20and%20funding%3A%20reflections%20from%20a%20digital%20manufacturing%20research%20network&author=Oliver%20J.%20Fisher%20et%20al&contentID=10.1186%2Fs41073-024-00144-w&copyright=Crown&publication=2058-8615&publicationDate=2024-05-16&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY%20%2B%20CC0"
+      },
+      {
+        "text": "Download citation",
+        "url": "https://citation-needed.springer.com/v2/references/10.1186/s41073-024-00144-w?format=refman&flavour=citation"
+      },
+      {
+        "text": "Language editing",
+        "url": "https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral"
+      },
+      {
+        "text": "Our products",
+        "url": "https://www.springernature.com/gp/products"
+      },
+      {
+        "text": "Librarians",
+        "url": "https://www.springernature.com/gp/librarians"
+      },
+      {
+        "text": "Societies",
+        "url": "https://www.springernature.com/gp/societies"
+      },
+      {
+        "text": "Partners and advertisers",
+        "url": "https://www.springernature.com/gp/partners"
+      },
+      {
+        "text": "Nature Portfolio",
+        "url": "https://www.nature.com/"
+      },
+      {
+        "text": "Your US state privacy rights",
+        "url": "https://www.springernature.com/gp/legal/ccpa"
+      },
+      {
+        "text": "Help and support",
+        "url": "https://support.springernature.com/en/support/home"
+      },
+      {
+        "text": "Cancel contracts here",
+        "url": "https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations"
+      }
+    ]
+  },
+  {
+    "title": "Guidance for inclusive research and innovation practice",
+    "url": "https://www.ukri.org/manage-your-award/good-research-resource-hub/guidance-for-equality-diversity-and-inclusion/",
+    "author": "UKRI",
+    "resource_id": "211",
+    "status": "success",
+    "url_type": "webpage",
+    "cleaned_text": null,
+    "clean_status": "success",
+    "clean_title": "Guidance for inclusive research and innovation practice – UKRI",
+    "description": "Overview of legislation, UKRI policy and guidance on inclusive research practice.",
+    "headings": [
+      "Guidance for inclusive research and innovation practice",
+      "Key principles",
+      "Guidance on legislation",
+      "Gender equality statement for international development research and innovation",
+      "UKRI policies and guidance",
+      "Considering EDI throughout the project lifecycle",
+      "External guidance"
+    ],
+    "sections": [
+      {
+        "heading": "Guidance for inclusive research and innovation practice",
+        "level": "h1",
+        "content": "UKRI promotes the importance of inclusive research design and practice, leading to more inclusive and responsible research and innovation outcomes that benefit all parts of society. Equality, diversity and inclusion (EDI) should be considered as fundamental to high-quality research and innovation, enabling a healthy culture for people and ideas to thrive.",
+        "word_count": 51,
+        "char_count": 357,
+        "token_count": 60
+      },
+      {
+        "heading": "Key principles",
+        "level": "h2",
+        "content": "EDI is a critical aspect of a healthy research culture and should be considered at all stages of the research and innovation cycle; from how the research is designed to how it’s carried out and who is involved, contributing to more inclusive research outcomes. We need to be flexible and diverse to accommodate that research and innovation are unpredictable, often created through new and unanticipated combinations, and can take many forms. Diversity and inclusion should be considered in all interactions with research participants and users, for instance when involving people with lived experience and undertaking public and patient involvement and engagement. We expect researchers to identify the characteristics of any groups in the population who should benefit from their research, design their study accordingly, and provide justification of their approach to inclusion. Researchers and assessors should take a broad view of diversity. Responsible Research and Innovation (RRI) and the AREA framework (anticipate, reflect, engage, act) supports inclusive stakeholder engagement to help ensure that research benefits under-represented groups and addresses societal needs and challenges. UKRI is committed to ethical research and innovation . The whole research community are key contributors in the research and innovation system, from the lead researcher or innovator to those who keep the lights on or maintain the large infrastructure and equipment in our laboratories, small businesses or on our research vessels. By valuing all, we recognise that a diversity of ideas, opinions, knowledge and people enrich our work and enlarges our knowledge economy.",
+        "word_count": 247,
+        "char_count": 1665,
+        "token_count": 288
+      },
+      {
+        "heading": "Guidance on legislation",
+        "level": "h2",
+        "content": "Equality Act 2010 guidance : the Equality Act 2010 legally protects people from discrimination in the workplace and in wider society. It replaced previous anti-discrimination laws with a single Act, making the law easier to understand and strengthening protection in some situations.",
+        "word_count": 42,
+        "char_count": 283,
+        "token_count": 51
+      },
+      {
+        "heading": "Gender equality statement for international development research and innovation",
+        "level": "h3",
+        "content": "Under the International Development (Gender Equality) Act 2014 it is mandatory for all applications to UKRI-funded Overseas Development Assistance (ODA) funding opportunities to include a gender equality statement. The following documents outline UKRI requirements and guidance when developing gender-sensitive research and innovation projects: gender equality statement guidance (PDF, 538KB) gender equality and international development research and innovation (PDF, 2MB) checklist for incorporating gender equality in development research and innovation (PDF, 220KB)",
+        "word_count": 71,
+        "char_count": 569,
+        "token_count": 100
+      },
+      {
+        "heading": "UKRI policies and guidance",
+        "level": "h2",
+        "content": "We have published two evidence reviews on equality, diversity and inclusion which have informed our EDI strategy for a research and innovation system that is ‘by everyone, for everyone’. MRC embedding diversity in research design : a policy for Medical Research Council (MRC) supported research that involves human participants and their samples or data. It extends to animals and studies that use animal tissues and cells. For animal studies and studies involving human or animal cells and tissues, MRC requires that sex is specified in the experimental design, and that both females and males are used by default. Single sex studies should only be used by exception and must be strongly justified. Expectations for equality, diversity and inclusion : EPSRC has published an EDI expectations guide to help the engineering and physical sciences community to identify and address EDI barriers in their own environment, taking into account differences such as location, discipline, role, and career stage. If you receive funding from UKRI you need to follow general terms and conditions which includes EDI for research grants or training funding , and any specific funding opportunity conditions.",
+        "word_count": 186,
+        "char_count": 1194,
+        "token_count": 215
+      },
+      {
+        "heading": "Considering EDI throughout the project lifecycle",
+        "level": "h3",
+        "content": "UKRI encourage exploring EDI considerations at all stages of the life cycle of a research and innovation project including: concept design planning data and evidence engagement and participation translation communications and dissemination implementation analysis of results widest possible benefits and impact Throughout the project lifecycle you may wish to explore in the context of your own work: how inclusive is your work who does it include or exclude, and how what are the EDI considerations in your research what presumptions or biases might be underpinning your research how can the research be made more diverse or inclusive",
+        "word_count": 97,
+        "char_count": 635,
+        "token_count": 106
+      },
+      {
+        "heading": "External guidance",
+        "level": "h2",
+        "content": "Note the following guidance has not been developed directly by UKRI, but may be a useful resource. Where this advice conflicts with UKRI-produced policies and guidance, UKRI policies and guidance should be followed. Toolkits from Future Leaders Fellows Development Network : a broad collection of resources related to building inclusive teams, learning about the UK’s research and innovation environments as well as developing leadership skills. The Equality, Diversity and Inclusion Project (Academy of Social Science and the Economic and Social Research Council) : a programme to encourage EDI awareness and actions for social scientists Useful resources for equity, diversity and inclusion (National Co-ordinating Centre for Public Engagement (NCCPE) : a broad collection of EDI resources to support inclusion in all activities. EPSRC’s Inclusion Matters programme include the following resources: outputs and outcomes of the EPSRC Inclusion Matters portfolio Northern Power Inclusion Matters: resources Toolkit for integrating a gender-sensitive approach into research (University of Warwick) : toolkit and checklist to ensure gender sensitivity is embedded into your research project. Guide to inclusive events (University of Oxford, PDF 3.4MB) : a practical guide for event organisers, drawing on examples of best practice from across the university sector and beyond. Last updated: 7 July 2026",
+        "word_count": 202,
+        "char_count": 1400,
+        "token_count": 258
+      }
+    ],
+    "body_text": "UKRI promotes the importance of inclusive research design and practice, leading to more inclusive and responsible research and innovation outcomes that benefit all parts of society. Equality, diversity and inclusion (EDI) should be considered as fundamental to high-quality research and innovation, enabling a healthy culture for people and ideas to thrive. EDI is a critical aspect of a healthy research culture and should be considered at all stages of the research and innovation cycle; from how the research is designed to how it’s carried out and who is involved, contributing to more inclusive research outcomes. We need to be flexible and diverse to accommodate that research and innovation are unpredictable, often created through new and unanticipated combinations, and can take many forms. Diversity and inclusion should be considered in all interactions with research participants and users, for instance when involving people with lived experience and undertaking public and patient involvement and engagement. We expect researchers to identify the characteristics of any groups in the population who should benefit from their research, design their study accordingly, and provide justification of their approach to inclusion. Researchers and assessors should take a broad view of diversity. Responsible Research and Innovation (RRI) and the AREA framework (anticipate, reflect, engage, act) supports inclusive stakeholder engagement to help ensure that research benefits under-represented groups and addresses societal needs and challenges. UKRI is committed to ethical research and innovation . The whole research community are key contributors in the research and innovation system, from the lead researcher or innovator to those who keep the lights on or maintain the large infrastructure and equipment in our laboratories, small businesses or on our research vessels. By valuing all, we recognise that a diversity of ideas, opinions, knowledge and people enrich our work and enlarges our knowledge economy. Equality Act 2010 guidance : the Equality Act 2010 legally protects people from discrimination in the workplace and in wider society. It replaced previous anti-discrimination laws with a single Act, making the law easier to understand and strengthening protection in some situations. Under the International Development (Gender Equality) Act 2014 it is mandatory for all applications to UKRI-funded Overseas Development Assistance (ODA) funding opportunities to include a gender equality statement. The following documents outline UKRI requirements and guidance when developing gender-sensitive research and innovation projects: gender equality statement guidance (PDF, 538KB) gender equality and international development research and innovation (PDF, 2MB) checklist for incorporating gender equality in development research and innovation (PDF, 220KB) We have published two evidence reviews on equality, diversity and inclusion which have informed our EDI strategy for a research and innovation system that is ‘by everyone, for everyone’. MRC embedding diversity in research design : a policy for Medical Research Council (MRC) supported research that involves human participants and their samples or data. It extends to animals and studies that use animal tissues and cells. For animal studies and studies involving human or animal cells and tissues, MRC requires that sex is specified in the experimental design, and that both females and males are used by default. Single sex studies should only be used by exception and must be strongly justified. Expectations for equality, diversity and inclusion : EPSRC has published an EDI expectations guide to help the engineering and physical sciences community to identify and address EDI barriers in their own environment, taking into account differences such as location, discipline, role, and career stage. If you receive funding from UKRI you need to follow general terms and conditions which includes EDI for research grants or training funding , and any specific funding opportunity conditions. UKRI encourage exploring EDI considerations at all stages of the life cycle of a research and innovation project including: concept design planning data and evidence engagement and participation translation communications and dissemination implementation analysis of results widest possible benefits and impact Throughout the project lifecycle you may wish to explore in the context of your own work: how inclusive is your work who does it include or exclude, and how what are the EDI considerations in your research what presumptions or biases might be underpinning your research how can the research be made more diverse or inclusive Note the following guidance has not been developed directly by UKRI, but may be a useful resource. Where this advice conflicts with UKRI-produced policies and guidance, UKRI policies and guidance should be followed. Toolkits from Future Leaders Fellows Development Network : a broad collection of resources related to building inclusive teams, learning about the UK’s research and innovation environments as well as developing leadership skills. The Equality, Diversity and Inclusion Project (Academy of Social Science and the Economic and Social Research Council) : a programme to encourage EDI awareness and actions for social scientists Useful resources for equity, diversity and inclusion (National Co-ordinating Centre for Public Engagement (NCCPE) : a broad collection of EDI resources to support inclusion in all activities. EPSRC’s Inclusion Matters programme include the following resources: outputs and outcomes of the EPSRC Inclusion Matters portfolio Northern Power Inclusion Matters: resources Toolkit for integrating a gender-sensitive approach into research (University of Warwick) : toolkit and checklist to ensure gender sensitivity is embedded into your research project. Guide to inclusive events (University of Oxford, PDF 3.4MB) : a practical guide for event organisers, drawing on examples of best practice from across the university sector and beyond. Last updated: 7 July 2026",
+    "clean_text": "TITLE: Guidance for inclusive research and innovation practice – UKRI\nDESCRIPTION: Overview of legislation, UKRI policy and guidance on inclusive research practice.\n\n## Guidance for inclusive research and innovation practice\nUKRI promotes the importance of inclusive research design and practice, leading to more inclusive and responsible research and innovation outcomes that benefit all parts of society. Equality, diversity and inclusion (EDI) should be considered as fundamental to high-quality research and innovation, enabling a healthy culture for people and ideas to thrive.\n\n## Key principles\nEDI is a critical aspect of a healthy research culture and should be considered at all stages of the research and innovation cycle; from how the research is designed to how it’s carried out and who is involved, contributing to more inclusive research outcomes. We need to be flexible and diverse to accommodate that research and innovation are unpredictable, often created through new and unanticipated combinations, and can take many forms. Diversity and inclusion should be considered in all interactions with research participants and users, for instance when involving people with lived experience and undertaking public and patient involvement and engagement. We expect researchers to identify the characteristics of any groups in the population who should benefit from their research, design their study accordingly, and provide justification of their approach to inclusion. Researchers and assessors should take a broad view of diversity. Responsible Research and Innovation (RRI) and the AREA framework (anticipate, reflect, engage, act) supports inclusive stakeholder engagement to help ensure that research benefits under-represented groups and addresses societal needs and challenges. UKRI is committed to ethical research and innovation . The whole research community are key contributors in the research and innovation system, from the lead researcher or innovator to those who keep the lights on or maintain the large infrastructure and equipment in our laboratories, small businesses or on our research vessels. By valuing all, we recognise that a diversity of ideas, opinions, knowledge and people enrich our work and enlarges our knowledge economy.\n\n## Guidance on legislation\nEquality Act 2010 guidance : the Equality Act 2010 legally protects people from discrimination in the workplace and in wider society. It replaced previous anti-discrimination laws with a single Act, making the law easier to understand and strengthening protection in some situations.\n\n## Gender equality statement for international development research and innovation\nUnder the International Development (Gender Equality) Act 2014 it is mandatory for all applications to UKRI-funded Overseas Development Assistance (ODA) funding opportunities to include a gender equality statement. The following documents outline UKRI requirements and guidance when developing gender-sensitive research and innovation projects: gender equality statement guidance (PDF, 538KB) gender equality and international development research and innovation (PDF, 2MB) checklist for incorporating gender equality in development research and innovation (PDF, 220KB)\n\n## UKRI policies and guidance\nWe have published two evidence reviews on equality, diversity and inclusion which have informed our EDI strategy for a research and innovation system that is ‘by everyone, for everyone’. MRC embedding diversity in research design : a policy for Medical Research Council (MRC) supported research that involves human participants and their samples or data. It extends to animals and studies that use animal tissues and cells. For animal studies and studies involving human or animal cells and tissues, MRC requires that sex is specified in the experimental design, and that both females and males are used by default. Single sex studies should only be used by exception and must be strongly justified. Expectations for equality, diversity and inclusion : EPSRC has published an EDI expectations guide to help the engineering and physical sciences community to identify and address EDI barriers in their own environment, taking into account differences such as location, discipline, role, and career stage. If you receive funding from UKRI you need to follow general terms and conditions which includes EDI for research grants or training funding , and any specific funding opportunity conditions.\n\n## Considering EDI throughout the project lifecycle\nUKRI encourage exploring EDI considerations at all stages of the life cycle of a research and innovation project including: concept design planning data and evidence engagement and participation translation communications and dissemination implementation analysis of results widest possible benefits and impact Throughout the project lifecycle you may wish to explore in the context of your own work: how inclusive is your work who does it include or exclude, and how what are the EDI considerations in your research what presumptions or biases might be underpinning your research how can the research be made more diverse or inclusive\n\n## External guidance\nNote the following guidance has not been developed directly by UKRI, but may be a useful resource. Where this advice conflicts with UKRI-produced policies and guidance, UKRI policies and guidance should be followed. Toolkits from Future Leaders Fellows Development Network : a broad collection of resources related to building inclusive teams, learning about the UK’s research and innovation environments as well as developing leadership skills. The Equality, Diversity and Inclusion Project (Academy of Social Science and the Economic and Social Research Council) : a programme to encourage EDI awareness and actions for social scientists Useful resources for equity, diversity and inclusion (National Co-ordinating Centre for Public Engagement (NCCPE) : a broad collection of EDI resources to support inclusion in all activities. EPSRC’s Inclusion Matters programme include the following resources: outputs and outcomes of the EPSRC Inclusion Matters portfolio Northern Power Inclusion Matters: resources Toolkit for integrating a gender-sensitive approach into research (University of Warwick) : toolkit and checklist to ensure gender sensitivity is embedded into your research project. Guide to inclusive events (University of Oxford, PDF 3.4MB) : a practical guide for event organisers, drawing on examples of best practice from across the university sector and beyond. Last updated: 7 July 2026\n\nPDF LINKS: gender equality statement guidance (PDF, 538KB) (https://www.ukri.org/wp-content/uploads/2021/02/UKRI-250221-Gender-equality-statement-guidance.pdf) | gender equality and international development research and innovation (PDF, 2MB) (https://www.ukri.org/wp-content/uploads/2021/02/UKRI-250221-Gender-equality-and-international-development-research-and-innovation.pdf) | checklist for incorporating gender equality in development research and innovation (PDF, 220KB) (https://www.ukri.org/wp-content/uploads/2021/02/UKRI-250221-Things-to-consider-incorporating-gender-equality-into-international-research-and-innovation.pdf) | Guide to inclusive events (University of Oxford, PDF 3.4MB) (https://www.geog.ox.ac.uk/sites/default/files/2023-07/190522_Inclusive_Conference_Guide.pdf)\nEXTERNAL LINKS: Equality Act 2010 guidance (https://www.gov.uk/guidance/equality-act-2010-guidance) | International Development (Gender Equality) Act 2014 (https://www.legislation.gov.uk/ukpga/2014/9/contents) | Toolkits from Future Leaders Fellows Development Network (https://www.flfdevnet.com/toolkitshub/) | The Equality, Diversity and Inclusion Project (Academy of Social Science and the Economic and Social Research Council) (https://acss.org.uk/esrc-project-equality-diversity-inclusion/) | Useful resources for equity, diversity and inclusion (National Co-ordinating Centre for Public Engagement (NCCPE) (https://www.publicengagement.ac.uk/useful-resources-equity-diversity-and-inclusion) | Northern Power Inclusion Matters: resources (https://northernpowerinclusion.org/resources/) | Toolkit for integrating a gender-sensitive approach into research (University of Warwick) (https://publishing.warwick.ac.uk/index.php/uwp/catalog/book/2) | UKRI LinkedIn (https://www.linkedin.com/company/uk-research-and-innovation/) | UKRI for researchers YouTube (https://www.youtube.com/@ukriforresearchers) | UKRI Bluesky (https://bsky.app/profile/ukri.org)",
+    "word_count": 896,
+    "char_count": 8517,
+    "token_count": 1644,
+    "route_hint": "single_pass",
+    "pdf_links": [
+      {
+        "text": "gender equality statement guidance (PDF, 538KB)",
+        "url": "https://www.ukri.org/wp-content/uploads/2021/02/UKRI-250221-Gender-equality-statement-guidance.pdf"
+      },
+      {
+        "text": "gender equality and international development research and innovation (PDF, 2MB)",
+        "url": "https://www.ukri.org/wp-content/uploads/2021/02/UKRI-250221-Gender-equality-and-international-development-research-and-innovation.pdf"
+      },
+      {
+        "text": "checklist for incorporating gender equality in development research and innovation (PDF, 220KB)",
+        "url": "https://www.ukri.org/wp-content/uploads/2021/02/UKRI-250221-Things-to-consider-incorporating-gender-equality-into-international-research-and-innovation.pdf"
+      },
+      {
+        "text": "Guide to inclusive events (University of Oxford, PDF 3.4MB)",
+        "url": "https://www.geog.ox.ac.uk/sites/default/files/2023-07/190522_Inclusive_Conference_Guide.pdf"
+      }
+    ],
+    "external_links": [
+      {
+        "text": "Equality Act 2010 guidance",
+        "url": "https://www.gov.uk/guidance/equality-act-2010-guidance"
+      },
+      {
+        "text": "International Development (Gender Equality) Act 2014",
+        "url": "https://www.legislation.gov.uk/ukpga/2014/9/contents"
+      },
+      {
+        "text": "Toolkits from Future Leaders Fellows Development Network",
+        "url": "https://www.flfdevnet.com/toolkitshub/"
+      },
+      {
+        "text": "The Equality, Diversity and Inclusion Project (Academy of Social Science and the Economic and Social Research Council)",
+        "url": "https://acss.org.uk/esrc-project-equality-diversity-inclusion/"
+      },
+      {
+        "text": "Useful resources for equity, diversity and inclusion (National Co-ordinating Centre for Public Engagement (NCCPE)",
+        "url": "https://www.publicengagement.ac.uk/useful-resources-equity-diversity-and-inclusion"
+      },
+      {
+        "text": "Northern Power Inclusion Matters: resources",
+        "url": "https://northernpowerinclusion.org/resources/"
+      },
+      {
+        "text": "Toolkit for integrating a gender-sensitive approach into research (University of Warwick)",
+        "url": "https://publishing.warwick.ac.uk/index.php/uwp/catalog/book/2"
+      },
+      {
+        "text": "UKRI LinkedIn",
+        "url": "https://www.linkedin.com/company/uk-research-and-innovation/"
+      },
+      {
+        "text": "UKRI for researchers YouTube",
+        "url": "https://www.youtube.com/@ukriforresearchers"
+      },
+      {
+        "text": "UKRI Bluesky",
+        "url": "https://bsky.app/profile/ukri.org"
+      },
+      {
+        "text": "UKRI stories YouTube",
+        "url": "https://www.youtube.com/channel/UCkf0YxotdFTrxDKcfTV5tiA"
+      },
+      {
+        "text": "UKRI Instagram",
+        "url": "https://www.instagram.com/weareukri/"
+      },
+      {
+        "text": "UKRI Facebook",
+        "url": "https://www.facebook.com/weareUKRI"
+      },
+      {
+        "text": "UKRI Medium",
+        "url": "https://medium.com/@UKRI"
+      }
+    ]
+  },
+  {
+    "title": "Responsible AI UK EDI Framework",
+    "url": "https://rai.ac.uk/edi-framework/",
+    "author": "Responsible AI UK",
+    "resource_id": "215",
+    "status": "success",
+    "url_type": "webpage",
+    "cleaned_text": null,
+    "clean_status": "success",
+    "clean_title": "EDI Framework - Responsible AI UK - AI for Good - Empowering the AI Ecosytem",
+    "description": "RAi UK aims to deliver world-leading best practices for the design, regulation and operation of ‘socially beneficial’ AI. We are passionate about establishing and curating a programme that conveys social benefit to citizens from all walks of life and reaches out to all communities. To deliver our ambition, we have established a set of guiding [...]",
+    "headings": [],
+    "sections": [
+      {
+        "heading": "",
+        "level": "preamble",
+        "content": "RAi UK aims to deliver world-leading best practices for the design, regulation and operation of ‘socially beneficial’ AI. We are passionate about establishing and curating a programme that conveys social benefit to citizens from all walks of life and reaches out to all communities. To deliver our ambition, we have established a set of guiding principles that underpin our ways of working and decision making; we focus on openness, accessibility, equality of voice, and inclusivity. Core to our inclusive vision for the RAi UK ecosystem will be active integration of EDI principles in our research teams, in the research culture we promote, and in how we design research responsibly. We firmly believe that instilling EDI at the heart of what we do will enable us to draw more widely on the breadth of UK talent, enhance research quality, and broaden avenues for impact. At its inception, the RAi UK programme brings together 14 universities and research centres, liaising with stakeholders in over 20 organisations, and is anticipated to grow significantly throughout its life. The scale of the RAi UK initiative therefore provides rich opportunities to explore how we can innovate and promote change to the culture in academic research environments, irrespective of institutional policies and perceived localised barriers. Our EDI Framework and Implementation Plan aim to provide clear guidance and map out a series of practical steps that enables our leaders and teams to build EDI into all RAi UK activities, consistently and cohesively. Promoting a happy, healthy research culture A fundamental part of our vision lies in how we promote the importance of flexible and adaptive research environments, and – crucially – normalise attitudes and behaviours that support this. We want to embrace this opportunity to effect real, positive change for researchers from different backgrounds, with varying roles and responsibilities, and at all stages of their careers. We must impress upon our community the importance of equality-of-voice and respect as core values; we must listen to individuals who feel marginalised, regardless of intention, subtlety or nuance, and find solutions that enable them to express themselves freely and to feel valued. The success of our plans for integrating EDI best practice, and indeed the success of RAi UK depends on our ability to build effective working relationships across multiple institutions. Limited opportunities to meet physically due to geographical separation presents a barrier to developing these relationships, and this has been further compounded by the COVID-19 pandemic. While there are benefits to online meetings, not least reduced environmental impact from travel, it is challenging to bring different groups of people together across the portfolio of RAi UK activities and to build rapport within these groups. As we move to a post-pandemic world of hybrid, flexible working models and more widespread, long-term use of online meeting tools, we must carefully consider EDI impact, and respond by adapting our plans for encouraging inclusivity. A common problem in all working environments is a tendency to assume that colleagues have the same availability and capability, with inadequate consideration given to personal circumstances, for example caring responsibilities or disability. Expectations placed on an individual can be unrealistic, particularly where turn-around is short for completing pieces of work. We will use the RAi UK platform to introduce measures that encourage positive change for individuals and teams. We will promote the values of respect and freedom of expression. We will recognise the importance of regulating work-life balance for health and well-being. We will provide tools and training to enable our community to learn and develop ways of working that embrace diversity. We will develop strategies to cultivate relationships and trust in teams, regardless of whether interactions are online, in-person, or follow a hybrid model. Create a culture where colleagues feel safe to share Raise awareness of behaviours that marginalise or discriminate Actively monitor RAi UK workload across our teams Recognise, acknowledge and appreciate contributions Introduce standards governing organisation of fully inclusive meetings and events Implement a system for colleagues to signal availability Advocate minimum acceptable notice periods for requesting work commitments Ensure requests for contributions are transparent in terms of workload Consult colleagues regularly through a survey to identify ongoing issues We will identify measures that can influence diversity in research teams, both short-term, i.e., the lifespan of UKfunding, and longer-term. This will involve addressing two fundamental challenges: Diversity in future talent pipeline in all specialisms linked to autonomous systems Diversity across the pool of active researchers engaging with RAi UK In both cases, it is important to recognise the limitations to our spheres of influence and set realistic goals, considering resourcing challenges we might create for project teams that cannot be resolved. Nevertheless, RAi UK provides the ideal platform to showcase opportunities in research and to engage with hard-to-reach demographics, minorities and communities. To do this effectively, we need to encourage colleagues to consider EDI from both perspectives (active researchers and the talent pipeline), when designing their research and engagement activities. Our task is to ensure this approach rapidly permeates across the wider programme. The multidisciplinary nature of RAi UK does introduce challenges around understanding nuanced approaches between disciplines, e.g. use of language, role expectations. Moreover, while all universities have EDI policies, access to practical advice and strategic approaches to managing EDI may be less readily available. With our EDI Framework and Implementation Plan – and the regular, ongoing re-evaluation and re-shaping we plan to undertake – we aim to support our community in implementing and sustaining actions that address inequalities, introduce diversity, and promote inclusivity, irrespective of discipline or organisation. Advocate team structures that give a voice to all members, including early career researchers (ERCs). Champion and broadcast widely our commitment to promoting diversity Listen and act to challenge established, problematic ways of working Leverage the RAi UK platform to engage the next generation of researchers Challenge traditional team hierarchies – recognise contributions more fairly Encourage risk-taking to foster new relationships and explore new research ideas Develop a code of conduct and clear process for raising EDI concerns Devise a set of guidelines for online meetings to fully engage all participants Monitor disengagement – identify and act when colleagues withdraw from RAi UK Share best practice between organisations to transcend institutional policies Invest resource to transparently capture, analyse and understand data Measure diversity in teams to understand representation while respecting data privacy Building EDI into research design Inherent to our vision for the RAi UK, is the concept of responsible research design, and a focus on answering research questions that benefit society and minimise the risk of inadvertent harms. As a research programme focussed on ensuring society deploys and uses AI in a responsible way, we will ask our community to situate anticipated AI research outcomes in application pipelines and to take the time to carefully contemplate potential for misuse. We will ask researchers to consider the potential for machine learning algorithms to build on flawed input data, producing biased outcomes. EDI is at the heart of this ambition for responsible research, with many pitfalls to avoid such as biased design or problematic methodologies devised by research teams lacking socio-economic and socio-cultural diversity. Where diversity in design is not achievable – or not desirable relative to a research hypothesis – our reasoning should be transparent and clearly communicated. RAi UK must challenge researchers to consider inclusivity in the real-world applications of their research and the channels they use to engage and communicate with a diverse and representative cross-section of stakeholders and user groups. We need to support researchers to conduct wider stakeholder engagement and provide access to expertise when attempting to engage hard-to-reach demographics with little trust in researchers’ incentives. We need to encourage teams to reflect on their diversity, create awareness of gaps in their teams, and devise mitigating strategies. We must also acknowledge situations outside of our control and the impact this may have on our research, such as achieving diverse representation in our extended teams, e.g. research projects involving key industry partners. Empower and recognise stakeholders as members of an extended research Promot e transparency and communicate reasoning behind research design Challenge researchers to consider research outcome bias and risk of misuse Reward participants fairly and equitably for their time Maintain relationships with stakeholders and recognise our gatekeeper role Collaborate with charities and organisations responsible for representing groups Agree baseline expectations for how participants are treated Develop guidance with case studies to illustrate inclusive research design Anticipate and systematically reflect using tailored Equality Impact Assessments Expect project teams to consider extended user groups during study design Convey research results to participants in an accessible format Communicating our vision to the RAi UK ecosystem We will develop and deliver messaging that clearly articulates the EDI vision for RAi UK and secures buy-in from our community. We need to prompt colleagues to reflect and evaluate their ways of working, and to persuade them to embrace opportunities for positive change. Key to this will be how we convey potential benefits as being tangible and relevant to their projects and teams. Generate engaging material to connect with the RAi UK ecosystem and stakeholders Identify realistic targets and share these transparently with our community Reflect objectively and openly on EDI successes and failures Develop resources and case studies to aid learning Circulate best practice guidance tailored to specific activities in the programme Maintain accessible and inclusive web resources dedicated to EDI Reinforce our message by establishing a coherent series of EDI events Appoint an EDI/RRI coordinator and EDI ambassadors dedicated to broadcasting our message Nominate EDI contacts for each project – create an EDI dissemination network Delivery This EDI Framework draws together current EDI challenges and the commitments we make to finding solutions that work for the whole RAi UK community. It is intended only as a starting point and will be re-evaluated regularly by the Equities Pillar and adapted as needed to remain relevant. The details of actions we will take, measures of success, and how we plan to monitor effectiveness will be described in our Implementation Plan. This will also be owned by the Equities Pillar, who will review and update as required.",
+        "word_count": 1687,
+        "char_count": 11364,
+        "token_count": 1969
+      }
+    ],
+    "body_text": "RAi UK aims to deliver world-leading best practices for the design, regulation and operation of ‘socially beneficial’ AI. We are passionate about establishing and curating a programme that conveys social benefit to citizens from all walks of life and reaches out to all communities. To deliver our ambition, we have established a set of guiding principles that underpin our ways of working and decision making; we focus on openness, accessibility, equality of voice, and inclusivity. Core to our inclusive vision for the RAi UK ecosystem will be active integration of EDI principles in our research teams, in the research culture we promote, and in how we design research responsibly. We firmly believe that instilling EDI at the heart of what we do will enable us to draw more widely on the breadth of UK talent, enhance research quality, and broaden avenues for impact. At its inception, the RAi UK programme brings together 14 universities and research centres, liaising with stakeholders in over 20 organisations, and is anticipated to grow significantly throughout its life. The scale of the RAi UK initiative therefore provides rich opportunities to explore how we can innovate and promote change to the culture in academic research environments, irrespective of institutional policies and perceived localised barriers. Our EDI Framework and Implementation Plan aim to provide clear guidance and map out a series of practical steps that enables our leaders and teams to build EDI into all RAi UK activities, consistently and cohesively. Promoting a happy, healthy research culture A fundamental part of our vision lies in how we promote the importance of flexible and adaptive research environments, and – crucially – normalise attitudes and behaviours that support this. We want to embrace this opportunity to effect real, positive change for researchers from different backgrounds, with varying roles and responsibilities, and at all stages of their careers. We must impress upon our community the importance of equality-of-voice and respect as core values; we must listen to individuals who feel marginalised, regardless of intention, subtlety or nuance, and find solutions that enable them to express themselves freely and to feel valued. The success of our plans for integrating EDI best practice, and indeed the success of RAi UK depends on our ability to build effective working relationships across multiple institutions. Limited opportunities to meet physically due to geographical separation presents a barrier to developing these relationships, and this has been further compounded by the COVID-19 pandemic. While there are benefits to online meetings, not least reduced environmental impact from travel, it is challenging to bring different groups of people together across the portfolio of RAi UK activities and to build rapport within these groups. As we move to a post-pandemic world of hybrid, flexible working models and more widespread, long-term use of online meeting tools, we must carefully consider EDI impact, and respond by adapting our plans for encouraging inclusivity. A common problem in all working environments is a tendency to assume that colleagues have the same availability and capability, with inadequate consideration given to personal circumstances, for example caring responsibilities or disability. Expectations placed on an individual can be unrealistic, particularly where turn-around is short for completing pieces of work. We will use the RAi UK platform to introduce measures that encourage positive change for individuals and teams. We will promote the values of respect and freedom of expression. We will recognise the importance of regulating work-life balance for health and well-being. We will provide tools and training to enable our community to learn and develop ways of working that embrace diversity. We will develop strategies to cultivate relationships and trust in teams, regardless of whether interactions are online, in-person, or follow a hybrid model. Create a culture where colleagues feel safe to share Raise awareness of behaviours that marginalise or discriminate Actively monitor RAi UK workload across our teams Recognise, acknowledge and appreciate contributions Introduce standards governing organisation of fully inclusive meetings and events Implement a system for colleagues to signal availability Advocate minimum acceptable notice periods for requesting work commitments Ensure requests for contributions are transparent in terms of workload Consult colleagues regularly through a survey to identify ongoing issues We will identify measures that can influence diversity in research teams, both short-term, i.e., the lifespan of UKfunding, and longer-term. This will involve addressing two fundamental challenges: Diversity in future talent pipeline in all specialisms linked to autonomous systems Diversity across the pool of active researchers engaging with RAi UK In both cases, it is important to recognise the limitations to our spheres of influence and set realistic goals, considering resourcing challenges we might create for project teams that cannot be resolved. Nevertheless, RAi UK provides the ideal platform to showcase opportunities in research and to engage with hard-to-reach demographics, minorities and communities. To do this effectively, we need to encourage colleagues to consider EDI from both perspectives (active researchers and the talent pipeline), when designing their research and engagement activities. Our task is to ensure this approach rapidly permeates across the wider programme. The multidisciplinary nature of RAi UK does introduce challenges around understanding nuanced approaches between disciplines, e.g. use of language, role expectations. Moreover, while all universities have EDI policies, access to practical advice and strategic approaches to managing EDI may be less readily available. With our EDI Framework and Implementation Plan – and the regular, ongoing re-evaluation and re-shaping we plan to undertake – we aim to support our community in implementing and sustaining actions that address inequalities, introduce diversity, and promote inclusivity, irrespective of discipline or organisation. Advocate team structures that give a voice to all members, including early career researchers (ERCs). Champion and broadcast widely our commitment to promoting diversity Listen and act to challenge established, problematic ways of working Leverage the RAi UK platform to engage the next generation of researchers Challenge traditional team hierarchies – recognise contributions more fairly Encourage risk-taking to foster new relationships and explore new research ideas Develop a code of conduct and clear process for raising EDI concerns Devise a set of guidelines for online meetings to fully engage all participants Monitor disengagement – identify and act when colleagues withdraw from RAi UK Share best practice between organisations to transcend institutional policies Invest resource to transparently capture, analyse and understand data Measure diversity in teams to understand representation while respecting data privacy Building EDI into research design Inherent to our vision for the RAi UK, is the concept of responsible research design, and a focus on answering research questions that benefit society and minimise the risk of inadvertent harms. As a research programme focussed on ensuring society deploys and uses AI in a responsible way, we will ask our community to situate anticipated AI research outcomes in application pipelines and to take the time to carefully contemplate potential for misuse. We will ask researchers to consider the potential for machine learning algorithms to build on flawed input data, producing biased outcomes. EDI is at the heart of this ambition for responsible research, with many pitfalls to avoid such as biased design or problematic methodologies devised by research teams lacking socio-economic and socio-cultural diversity. Where diversity in design is not achievable – or not desirable relative to a research hypothesis – our reasoning should be transparent and clearly communicated. RAi UK must challenge researchers to consider inclusivity in the real-world applications of their research and the channels they use to engage and communicate with a diverse and representative cross-section of stakeholders and user groups. We need to support researchers to conduct wider stakeholder engagement and provide access to expertise when attempting to engage hard-to-reach demographics with little trust in researchers’ incentives. We need to encourage teams to reflect on their diversity, create awareness of gaps in their teams, and devise mitigating strategies. We must also acknowledge situations outside of our control and the impact this may have on our research, such as achieving diverse representation in our extended teams, e.g. research projects involving key industry partners. Empower and recognise stakeholders as members of an extended research Promot e transparency and communicate reasoning behind research design Challenge researchers to consider research outcome bias and risk of misuse Reward participants fairly and equitably for their time Maintain relationships with stakeholders and recognise our gatekeeper role Collaborate with charities and organisations responsible for representing groups Agree baseline expectations for how participants are treated Develop guidance with case studies to illustrate inclusive research design Anticipate and systematically reflect using tailored Equality Impact Assessments Expect project teams to consider extended user groups during study design Convey research results to participants in an accessible format Communicating our vision to the RAi UK ecosystem We will develop and deliver messaging that clearly articulates the EDI vision for RAi UK and secures buy-in from our community. We need to prompt colleagues to reflect and evaluate their ways of working, and to persuade them to embrace opportunities for positive change. Key to this will be how we convey potential benefits as being tangible and relevant to their projects and teams. Generate engaging material to connect with the RAi UK ecosystem and stakeholders Identify realistic targets and share these transparently with our community Reflect objectively and openly on EDI successes and failures Develop resources and case studies to aid learning Circulate best practice guidance tailored to specific activities in the programme Maintain accessible and inclusive web resources dedicated to EDI Reinforce our message by establishing a coherent series of EDI events Appoint an EDI/RRI coordinator and EDI ambassadors dedicated to broadcasting our message Nominate EDI contacts for each project – create an EDI dissemination network Delivery This EDI Framework draws together current EDI challenges and the commitments we make to finding solutions that work for the whole RAi UK community. It is intended only as a starting point and will be re-evaluated regularly by the Equities Pillar and adapted as needed to remain relevant. The details of actions we will take, measures of success, and how we plan to monitor effectiveness will be described in our Implementation Plan. This will also be owned by the Equities Pillar, who will review and update as required.",
+    "clean_text": "TITLE: EDI Framework - Responsible AI UK - AI for Good - Empowering the AI Ecosytem\nDESCRIPTION: RAi UK aims to deliver world-leading best practices for the design, regulation and operation of ‘socially beneficial’ AI. We are passionate about establishing and curating a programme that conveys social benefit to citizens from all walks of life and reaches out to all communities. To deliver our ambition, we have established a set of guiding [...]\n\nRAi UK aims to deliver world-leading best practices for the design, regulation and operation of ‘socially beneficial’ AI. We are passionate about establishing and curating a programme that conveys social benefit to citizens from all walks of life and reaches out to all communities. To deliver our ambition, we have established a set of guiding principles that underpin our ways of working and decision making; we focus on openness, accessibility, equality of voice, and inclusivity. Core to our inclusive vision for the RAi UK ecosystem will be active integration of EDI principles in our research teams, in the research culture we promote, and in how we design research responsibly. We firmly believe that instilling EDI at the heart of what we do will enable us to draw more widely on the breadth of UK talent, enhance research quality, and broaden avenues for impact. At its inception, the RAi UK programme brings together 14 universities and research centres, liaising with stakeholders in over 20 organisations, and is anticipated to grow significantly throughout its life. The scale of the RAi UK initiative therefore provides rich opportunities to explore how we can innovate and promote change to the culture in academic research environments, irrespective of institutional policies and perceived localised barriers. Our EDI Framework and Implementation Plan aim to provide clear guidance and map out a series of practical steps that enables our leaders and teams to build EDI into all RAi UK activities, consistently and cohesively. Promoting a happy, healthy research culture A fundamental part of our vision lies in how we promote the importance of flexible and adaptive research environments, and – crucially – normalise attitudes and behaviours that support this. We want to embrace this opportunity to effect real, positive change for researchers from different backgrounds, with varying roles and responsibilities, and at all stages of their careers. We must impress upon our community the importance of equality-of-voice and respect as core values; we must listen to individuals who feel marginalised, regardless of intention, subtlety or nuance, and find solutions that enable them to express themselves freely and to feel valued. The success of our plans for integrating EDI best practice, and indeed the success of RAi UK depends on our ability to build effective working relationships across multiple institutions. Limited opportunities to meet physically due to geographical separation presents a barrier to developing these relationships, and this has been further compounded by the COVID-19 pandemic. While there are benefits to online meetings, not least reduced environmental impact from travel, it is challenging to bring different groups of people together across the portfolio of RAi UK activities and to build rapport within these groups. As we move to a post-pandemic world of hybrid, flexible working models and more widespread, long-term use of online meeting tools, we must carefully consider EDI impact, and respond by adapting our plans for encouraging inclusivity. A common problem in all working environments is a tendency to assume that colleagues have the same availability and capability, with inadequate consideration given to personal circumstances, for example caring responsibilities or disability. Expectations placed on an individual can be unrealistic, particularly where turn-around is short for completing pieces of work. We will use the RAi UK platform to introduce measures that encourage positive change for individuals and teams. We will promote the values of respect and freedom of expression. We will recognise the importance of regulating work-life balance for health and well-being. We will provide tools and training to enable our community to learn and develop ways of working that embrace diversity. We will develop strategies to cultivate relationships and trust in teams, regardless of whether interactions are online, in-person, or follow a hybrid model. Create a culture where colleagues feel safe to share Raise awareness of behaviours that marginalise or discriminate Actively monitor RAi UK workload across our teams Recognise, acknowledge and appreciate contributions Introduce standards governing organisation of fully inclusive meetings and events Implement a system for colleagues to signal availability Advocate minimum acceptable notice periods for requesting work commitments Ensure requests for contributions are transparent in terms of workload Consult colleagues regularly through a survey to identify ongoing issues We will identify measures that can influence diversity in research teams, both short-term, i.e., the lifespan of UKfunding, and longer-term. This will involve addressing two fundamental challenges: Diversity in future talent pipeline in all specialisms linked to autonomous systems Diversity across the pool of active researchers engaging with RAi UK In both cases, it is important to recognise the limitations to our spheres of influence and set realistic goals, considering resourcing challenges we might create for project teams that cannot be resolved. Nevertheless, RAi UK provides the ideal platform to showcase opportunities in research and to engage with hard-to-reach demographics, minorities and communities. To do this effectively, we need to encourage colleagues to consider EDI from both perspectives (active researchers and the talent pipeline), when designing their research and engagement activities. Our task is to ensure this approach rapidly permeates across the wider programme. The multidisciplinary nature of RAi UK does introduce challenges around understanding nuanced approaches between disciplines, e.g. use of language, role expectations. Moreover, while all universities have EDI policies, access to practical advice and strategic approaches to managing EDI may be less readily available. With our EDI Framework and Implementation Plan – and the regular, ongoing re-evaluation and re-shaping we plan to undertake – we aim to support our community in implementing and sustaining actions that address inequalities, introduce diversity, and promote inclusivity, irrespective of discipline or organisation. Advocate team structures that give a voice to all members, including early career researchers (ERCs). Champion and broadcast widely our commitment to promoting diversity Listen and act to challenge established, problematic ways of working Leverage the RAi UK platform to engage the next generation of researchers Challenge traditional team hierarchies – recognise contributions more fairly Encourage risk-taking to foster new relationships and explore new research ideas Develop a code of conduct and clear process for raising EDI concerns Devise a set of guidelines for online meetings to fully engage all participants Monitor disengagement – identify and act when colleagues withdraw from RAi UK Share best practice between organisations to transcend institutional policies Invest resource to transparently capture, analyse and understand data Measure diversity in teams to understand representation while respecting data privacy Building EDI into research design Inherent to our vision for the RAi UK, is the concept of responsible research design, and a focus on answering research questions that benefit society and minimise the risk of inadvertent harms. As a research programme focussed on ensuring society deploys and uses AI in a responsible way, we will ask our community to situate anticipated AI research outcomes in application pipelines and to take the time to carefully contemplate potential for misuse. We will ask researchers to consider the potential for machine learning algorithms to build on flawed input data, producing biased outcomes. EDI is at the heart of this ambition for responsible research, with many pitfalls to avoid such as biased design or problematic methodologies devised by research teams lacking socio-economic and socio-cultural diversity. Where diversity in design is not achievable – or not desirable relative to a research hypothesis – our reasoning should be transparent and clearly communicated. RAi UK must challenge researchers to consider inclusivity in the real-world applications of their research and the channels they use to engage and communicate with a diverse and representative cross-section of stakeholders and user groups. We need to support researchers to conduct wider stakeholder engagement and provide access to expertise when attempting to engage hard-to-reach demographics with little trust in researchers’ incentives. We need to encourage teams to reflect on their diversity, create awareness of gaps in their teams, and devise mitigating strategies. We must also acknowledge situations outside of our control and the impact this may have on our research, such as achieving diverse representation in our extended teams, e.g. research projects involving key industry partners. Empower and recognise stakeholders as members of an extended research Promot e transparency and communicate reasoning behind research design Challenge researchers to consider research outcome bias and risk of misuse Reward participants fairly and equitably for their time Maintain relationships with stakeholders and recognise our gatekeeper role Collaborate with charities and organisations responsible for representing groups Agree baseline expectations for how participants are treated Develop guidance with case studies to illustrate inclusive research design Anticipate and systematically reflect using tailored Equality Impact Assessments Expect project teams to consider extended user groups during study design Convey research results to participants in an accessible format Communicating our vision to the RAi UK ecosystem We will develop and deliver messaging that clearly articulates the EDI vision for RAi UK and secures buy-in from our community. We need to prompt colleagues to reflect and evaluate their ways of working, and to persuade them to embrace opportunities for positive change. Key to this will be how we convey potential benefits as being tangible and relevant to their projects and teams. Generate engaging material to connect with the RAi UK ecosystem and stakeholders Identify realistic targets and share these transparently with our community Reflect objectively and openly on EDI successes and failures Develop resources and case studies to aid learning Circulate best practice guidance tailored to specific activities in the programme Maintain accessible and inclusive web resources dedicated to EDI Reinforce our message by establishing a coherent series of EDI events Appoint an EDI/RRI coordinator and EDI ambassadors dedicated to broadcasting our message Nominate EDI contacts for each project – create an EDI dissemination network Delivery This EDI Framework draws together current EDI challenges and the commitments we make to finding solutions that work for the whole RAi UK community. It is intended only as a starting point and will be re-evaluated regularly by the Equities Pillar and adapted as needed to remain relevant. The details of actions we will take, measures of success, and how we plan to monitor effectiveness will be described in our Implementation Plan. This will also be owned by the Equities Pillar, who will review and update as required.\n\nEXTERNAL LINKS: AIR 27 (https://soton81871.ac-page.com/AIR27) | Ignition Hackathon (https://rai-ignition-startup-hackathon.devpost.com/) | LinkedIn (https://www.linkedin.com/company/responsibleaiuk/)",
+    "word_count": 1687,
+    "char_count": 12014,
+    "token_count": 2117,
+    "route_hint": "single_pass",
+    "pdf_links": [],
+    "external_links": [
+      {
+        "text": "AIR 27",
+        "url": "https://soton81871.ac-page.com/AIR27"
+      },
+      {
+        "text": "Ignition Hackathon",
+        "url": "https://rai-ignition-startup-hackathon.devpost.com/"
+      },
+      {
+        "text": "LinkedIn",
+        "url": "https://www.linkedin.com/company/responsibleaiuk/"
+      }
+    ]
+  }
+]

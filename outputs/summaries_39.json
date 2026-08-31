@@ -1,0 +1,209 @@
+{
+  "SUMMARY": {
+    "resource_id": "39",
+    "source": "stage4",
+    "title": "Towards Diverse Workforces: Transforming The Language of Exclusion and Bias in Recruitment",
+    "url": "https://www.stemm-change.co.uk/wp-content/uploads/2021/06/Transforming-the-Language-of-Exclusion-and-Bias-in-Recruitment-June-2021x.pdf",
+    "total_groups": 9,
+    "merged_groups": 0,
+    "total_olmo_calls": 40,
+    "errors": 0
+  },
+  "document_summary": {
+    "resource_type": "EDI Intervention",
+    "note": "Aggregation pending."
+  },
+  "chunk_summaries": [
+    {
+      "chunk_numbers": [
+        1
+      ],
+      "part_label": "[Sections: ## Introduction | ## The broader picture]",
+      "is_merged": false,
+      "token_count": 1489,
+      "core_topic": "The importance of inclusive language in recruitment to foster diversity and inclusion",
+      "key_points": [
+        "Using biased language in recruitment can exclude diverse candidates"
+      ],
+      "edi_relevance": "EDI interventions within recruitment processes are necessary for fostering diversity and inclusion, particularly in STEM fields.",
+      "template_sections": {
+        "Outline: What was the core intervention?": "The core intervention was to transform recruitment language to be more inclusive and reduce bias. This was implemented by a team of linguistics and communication researchers at the University of Nottingham as part of the STEMM Change consortium project funded by the UKRI’s EPSRC Inclusion Matters portfolio.",
+        "Implementation: What is required in order to implement this intervention?": "To implement this intervention, organizations need access to re-written recruitment language resources provided by the University of Nottingham's research. Staff involved include linguists and communication researchers who are responsible for analyzing and rewriting recruitment materials. The intervention requires a willingness from organizations to adopt inclusive language practices and potentially undergo training to understand and apply these changes effectively. No specific tools are mentioned as required, but the resource suggests that adopting these new language practices should be integrated into existing recruitment workflows.",
+        "Evaluation: How has the intervention been evaluated?": "The intervention has been evaluated through empirical research that collects data on how language is used in recruitment by different organizations and then compares it to re-written inclusive versions. The evaluation context is within the broader STEMM Change portfolio, which aims to increase EDI across science, technology, engineering, mathematics, medicine, and related fields. While specific quantitative and qualitative data are not detailed in this section, the resource emphasizes the empirical evidence gathered to support the intervention's effectiveness.",
+        "Outcomes: What are the reported outcomes of the intervention?": "The resource reports that the intervention has successfully demonstrated how recruitment language can encode bias and exclusion, leading to a more inclusive and diverse applicant pool. It suggests that by rewriting recruitment language, organizations can convey a more welcoming culture towards equality, diversity, and inclusion. The outcomes include increased interest from diverse candidates who perceive a better fit with the organization's values and practices."
+      },
+      "error": null
+    },
+    {
+      "chunk_numbers": [
+        2
+      ],
+      "part_label": "[Sections: ## Methodology | ## Key findings | ### 1. Diversity and inclusion are rarely salient enough in recruitment materials]",
+      "is_merged": false,
+      "token_count": 664,
+      "core_topic": "Diversity and inclusion are rarely salient enough in recruitment materials",
+      "key_points": [
+        "91% of the content were used to recruit UK-based roles",
+        "1,055 job advertisements produced within the past 6 years from 90 organizations"
+      ],
+      "edi_relevance": "This section highlights that STEM recruitment materials frequently lack explicit diversity and inclusion messaging, affecting a wide range of roles across engineering, legal, technical, and medical fields. The generic and vague descriptions fail to address the specific needs of diverse candidates, potentially perpetuating exclusionary practices. The recommendations urge a more intentional use of inclusive language to genuinely attract and engage a broader pool of applicants.",
+      "template_sections": {
+        "Outline: What was the core intervention?": "The core intervention aimed to highlight the lack of salience of diversity and inclusion in recruitment materials by analyzing a large corpus of job advertisements from various STEM sectors. This analysis was conducted to identify trends and patterns that could inform strategies for improving diversity and inclusion in recruitment language.",
+        "Implementation: What is required in order to implement this intervention?": "To implement this intervention, one would require access to a substantial database of recruitment advertisements, which should include a diverse range of roles from various STEM sectors. This database should be analyzed using corpus linguistics methods to identify patterns related to diversity and inclusion. Ethical approval from an institutional review board, as mentioned in the section, is also necessary. The resource does not specify who implemented the intervention but implies it was conducted by researchers affiliated with the STEMM Change project.",
+        "Evaluation: How has the intervention been evaluated?": "The intervention was evaluated through a comprehensive analysis of 1,055 job advertisements from 90 organizations over the past six years. This involved the use of corpus linguistics to identify trends and patterns in language usage related to diversity and inclusion. The resource does not provide specific quantitative or qualitative data but mentions key findings that suggest the importance of addressing how diversity and inclusion are presented in recruitment materials.",
+        "Outcomes: What are the reported outcomes of the intervention?": "The reported outcome of the intervention is the identification of ten key trends that impact candidate appeal and diversity during recruitment. These trends reveal patterns in language use that either promote or hinder inclusivity, such as the overuse of dominant identity labels and the potential for bias in creative expressions. The resource suggests that these findings provide a basis for developing interventions to reduce exclusion and bias in recruitment language."
+      },
+      "error": null
+    },
+    {
+      "chunk_numbers": [
+        3
+      ],
+      "part_label": "[Section: ### 2. Diverse and inclusive language needs to go far beyond statements of legal compliance with EDI to be effective]",
+      "is_merged": false,
+      "token_count": 1354,
+      "core_topic": "The prevalence and perceived insincerity of legal compliance statements in recruitment materials, with a recommendation for more inclusive language.",
+      "key_points": [
+        "Legal compliance statements dominate recruitment materials but are seen as tokenistic.",
+        "Affiliation statements with external diversity initiatives (e.g., Athena Swan) are common but risk being self-promotional and lacking in real commitment to EDI practices.",
+        "Inclusion through encouragement and expectation in language is underrepresented and recommended for increased effectiveness."
+      ],
+      "edi_relevance": "STEM organizations should enhance their EDI efforts by incorporating diverse and inclusive language beyond legal compliance, such as statements of encouragement and clear expectations, to appeal more broadly to a diverse range of potential applicants.",
+      "template_sections": {
+        "Outline: What was the core intervention?": "The core intervention is to increase the use of inclusive language in recruitment materials beyond mere legal compliance statements. This involves moving towards more affirmative and committed expressions of diversity and inclusion.",
+        "Implementation: What is required in order to implement this intervention?": "To implement this intervention, organizations need to review and revise their recruitment materials to incorporate more diverse and inclusive language. This requires a thoughtful approach to writing that goes beyond legal obligations, possibly involving content experts in EDI and communication. The resource does not specify tools or staff roles but suggests a cultural shift towards genuine inclusivity.",
+        "Evaluation: How has the intervention been evaluated?": "The intervention has been evaluated through an analysis of recruitment materials, categorizing language into four types: statements of legal compliance, statements of affiliation, statements of encouragement, and statements of expectation. The resource does not provide specific quantitative or qualitative data but emphasizes the need for increased use of statements of encouragement and expectation.",
+        "Outcomes: What are the reported outcomes of the intervention?": "The reported outcome is a shift towards more inclusive language in recruitment materials, moving away from tokenistic legal compliance statements to a more genuine expression of commitment to diversity and inclusion. This change aims to make recruitment materials more appealing to a diverse range of candidates."
+      },
+      "error": null
+    },
+    {
+      "chunk_numbers": [
+        4
+      ],
+      "part_label": "[Sections: ### 3. The textual positioning of language risks enforcing tokenism of EDI issues | ### 4. Diversity and inclusion are predominantly described in ways that are too generic | ### 5. Vague language and hyperbolic language operate as barriers to inclusiveness]",
+      "is_merged": false,
+      "token_count": 1142,
+      "core_topic": "The strategic placement of EDI statements in job adverts reveals a tendency towards tokenism, diminishing their perceived importance and potentially alienating certain applicant groups.",
+      "key_points": [
+        "EDI statements are predominantly positioned at the end of job adverts, appearing as an afterthought and reducing their impact."
+      ],
+      "edi_relevance": "Embedding EDI language within entire job adverts is recommended to reflect genuine commitment and inclusivity, addressing the barrier of perceived insincerity and enhancing inclusiveness in STEM recruitment.",
+      "template_sections": {
+        "Outline: What was the core intervention?": "The core intervention aimed to address the tokenistic placement of EDI statements within job adverts by encouraging a more integrated and less tokenistic distribution of these statements throughout the advert text.",
+        "Implementation: What is required in order to implement this intervention?": "To implement this intervention, organizations need to critically review their current recruitment materials and consciously embed EDI statements across various positions within the job adverts. This requires a shift in recruitment practices away from 'cut and paste' methods and towards a more thoughtful integration of diversity and inclusion messaging. The resource suggests that this change can be facilitated by training recruitment staff on the importance of EDI and providing them with updated templates that naturally incorporate EDI content.",
+        "Evaluation: How has the intervention been evaluated?": "The intervention's effectiveness is suggested to be measured through analyzing the distribution of EDI statements within job adverts before and after implementing the new practices. The resource does not specify the exact data collected but implies a qualitative assessment of the perceived importance and genuineness of EDI as reflected in the advert text. This evaluation would ideally take place in a real-world recruitment context, considering diverse applicant pools to gauge impact on inclusiveness perceptions.",
+        "Outcomes: What are the reported outcomes of the intervention?": "The resource reports that embedding EDI statements throughout job adverts rather than relegating them to the end reduces the appearance of tokenism and enhances the perceived importance of EDI within the organization. It suggests that this change could positively affect the appeal of job opportunities to a broader range of applicants, particularly those from minoritised groups, by signaling a more sincere commitment to diversity and inclusion. However, the exact quantitative or qualitative outcomes are not detailed in this section."
+      },
+      "error": null
+    },
+    {
+      "chunk_numbers": [
+        5
+      ],
+      "part_label": "[Sections: ### 6. Using dominant societal identity labels poses a high risk of exclusion | ### 7. Creativity of expression can be useful, but regularly encodes bias]",
+      "is_merged": false,
+      "token_count": 1012,
+      "core_topic": "The use of dominant societal identity labels in job advertisements can lead to exclusion and bias.",
+      "key_points": [
+        "Advertisements often use stereotypical masculine identities like 'hunter' and 'builder', which may alienate potential applicants who do not identify with these labels."
+      ],
+      "edi_relevance": "This section highlights that the use of dominant societal identity labels in job advertisements can lead to exclusion and bias, affecting individuals who do not fit the stereotypical masculine profiles presented. Such language and expectations are problematic for diverse recruitment outcomes, particularly in STEM fields where inclusivity is crucial. The recommendations from this section are relevant for organizations aiming to create more inclusive workplaces by revising their recruitment communications to avoid reinforcing stereotypes and biases.",
+      "template_sections": {
+        "Outline: What was the core intervention?": "The core intervention focused on raising awareness about the risks associated with using dominant societal identity labels in job advertisements, aiming to reduce exclusion and bias in recruitment practices.",
+        "Implementation: What is required in order to implement this intervention?": "To implement this intervention, organizations need to review their job advertisement language for any stereotypical or exclusive language. They should replace such language with more inclusive terms that appeal to a broader range of potential applicants. The resource does not specify tools or staff roles but suggests a self-reflective and proactive approach by industry stakeholders.",
+        "Evaluation: How has the intervention been evaluated?": "The intervention has been evaluated through an analysis of job advertisements across various industries, identifying instances of dominant identity labels. This evaluation was conducted qualitatively by examining advertisement language for signs of bias and exclusion, with no quantitative data provided. The resource does not mention a specific research or innovation context.",
+        "Outcomes: What are the reported outcomes of the intervention?": "The resource reports that the intervention led to increased awareness among industry stakeholders about the potential for job advertisements to exclude certain groups through the use of dominant identity labels. It suggests that this awareness could lead to more inclusive language in job postings, although specific outcomes such as changes in recruitment practices or increased diversity are not reported."
+      },
+      "error": null
+    },
+    {
+      "chunk_numbers": [
+        6
+      ],
+      "part_label": "[Sections: ### 8. Informed use of pronouns is key to attracting inclusive and diverse applicant pools | ### 9. Inclusion and appeal are directly linked to the formality of language used | ### 10. There are challenges balancing market competitiveness and inclusion]",
+      "is_merged": false,
+      "token_count": 1079,
+      "core_topic": "The use of pronouns in recruitment materials can influence the diversity of applicant pools",
+      "key_points": [
+        "Employers should prioritize second person pronouns (you, your) to foster a direct and inclusive communication style that encourages diverse applicants to envision themselves in the role.",
+        "Current practices using s(he) and his/her may exclude transgender and genderfluid applicants, highlighting the need for more inclusive language.",
+        "Incorporating second person pronouns can help build rapport and reduce unconscious biases, thereby attracting a broader range of candidates."
+      ],
+      "edi_relevance": "Organizations should incorporate second person pronouns to engage transgender and genderfluid applicants, encouraging them to envision themselves in roles and thus improving diversity in STEM fields.",
+      "template_sections": {
+        "Outline: What was the core intervention?": "The core intervention is to incorporate second person pronouns (you, your) into recruitment materials to foster a direct and inclusive communication style that encourages diverse applicants to envision themselves in the role.",
+        "Implementation: What is required in order to implement this intervention?": "To implement this intervention, employers need to review and revise their job descriptions, advertisements, and other recruitment communications to replace generic pronouns with second person pronouns. This requires a conscious effort to rewrite content with an inclusive tone and may necessitate training for HR professionals to ensure consistent application across all materials. The resource does not specify whether tools or additional resources are provided.",
+        "Evaluation: How has the intervention been evaluated?": "The intervention's effectiveness is inferred from the analysis of pronoun usage in recruitment materials and its impact on the diversity of applicant pools, with a focus on the exclusion or inclusion of transgender and genderfluid applicants. The resource does not provide explicit quantitative or qualitative data on this evaluation but suggests that using second person pronouns can help build rapport and reduce unconscious biases.",
+        "Outcomes: What are the reported outcomes of the intervention?": "The resource reports that using second person pronouns can contribute to more dialogic communication, reduce risks of exclusion, and encourage a broader range of candidates to apply. It suggests that this approach can improve workforce diversity by making recruitment materials more appealing to underrepresented groups, but it does not provide specific data on the increase in diversity resulting from this intervention."
+      },
+      "error": null
+    },
+    {
+      "chunk_numbers": [
+        7
+      ],
+      "part_label": "[Section: ## Interventions]",
+      "is_merged": false,
+      "token_count": 1108,
+      "core_topic": "Employment interventions in STEM through linguistic adjustments",
+      "key_points": [
+        "Corpus linguistics identifies precise textual areas needing revision, leading to more inclusive job adverts.",
+        "Revised job descriptions and HR templates, with lexicogrammatical substitutions and syntactic revisions, broaden appeal.",
+        "Adopting different discursive subject positions and stance shifts in narratives encourages diversity."
+      ],
+      "edi_relevance": "This section demonstrates how targeted linguistic interventions can make STEM job adverts more inclusive. Named entities like North Central Pharmaceutical Solutions are involved in refining language to attract a diverse range of candidates, addressing the barrier of limited inclusivity in STEM roles. The interventions show that by altering textual elements such as job descriptions and narrative framing, organizations can appeal to a broader pool of talent, thereby enhancing diversity and inclusion within STEM fields.",
+      "template_sections": {
+        "Outline: What was the core intervention?": "The core intervention involved detailed re-writes of advertisements, HR templates, and job descriptions using corpus linguistics to identify textual areas needing revision. This intervention aimed to broaden the appeal of STEM job adverts and encourage diversity by adopting different discursive subject positions and stance shifts in narratives.",
+        "Implementation: What is required in order to implement this intervention?": "To implement this intervention, computational packages for corpus linguistics are required to pinpoint text areas needing revision. Collaboration with businesses and organizations is necessary for direct engagement in re-writes. The resource does not specify the tools provided but mentions using linguistic science tools such as lexicogrammatical substitutions and syntactic revisions. Staff roles are not described, but it implies involvement of researchers and possibly HR professionals.",
+        "Evaluation: How has the intervention been evaluated?": "The intervention has been evaluated through direct engagement with businesses and organizations to assess the effectiveness of revised job descriptions and HR templates. The resource does not provide specific quantitative or qualitative data but mentions the use of corpus linguistics evidence as a basis for evaluation. This intervention is implemented in the context of STEM employment and EDI within organizations.",
+        "Outcomes: What are the reported outcomes of the intervention?": "The resource reports that the revised job adverts and HR templates, incorporating linguistic adjustments, broadened the appeal of STEM positions and encouraged diversity by adopting different discursive subject positions and stance shifts. It suggests a positive impact on attracting a more diverse range of candidates without specifying exact figures or detailed success rates."
+      },
+      "error": null
+    },
+    {
+      "chunk_numbers": [
+        8
+      ],
+      "part_label": "[Sections: ## Testimonials | ## A communications toolkit for diverse recruitment]",
+      "is_merged": false,
+      "token_count": 1385,
+      "core_topic": "The importance of linguistic bias in job advertising and its impact on recruitment diversity",
+      "key_points": [
+        "Changing the perspective in job posts can increase diverse applicant numbers by up to 70% due to hidden biases.",
+        "Collaboration with academic institutions like the University of Nottingham has led to the development of tools that enhance inclusivity in job ads.",
+        "A toolkit for re-writing job advertisements is recommended, showing a significant improvement in creating inclusive ads."
+      ],
+      "edi_relevance": "STEM fields must adopt bias-free language and collaborate with academic institutions to develop inclusive recruitment practices, as evidenced by the 70% increase in diverse applicants through re-written job ads and AI tools.",
+      "template_sections": {
+        "Outline: What was the core intervention?": "The core intervention was the development and implementation of a toolkit for re-writing job advertisements to enhance inclusivity. This was aimed at reducing linguistic bias in job posts, thereby increasing the diversity of applicants by up to 70%. The intervention targeted businesses and recruitment teams across verticals and industries.",
+        "Implementation: What is required in order to implement this intervention?": "To implement this intervention, businesses are required to collaborate with academic institutions like the University of Nottingham to access research and tools that enhance inclusivity in job ads. No specific tools are provided within this resource, but the recommendation is to use a re-written advertisement toolkit developed through collaboration. The role of recruitment teams and HR professionals is crucial in applying these strategies and ensuring the language used in job postings is inclusive. Conditions required include a willingness to engage with academic partners and a commitment to diversity and inclusion practices.",
+        "Evaluation: How has the intervention been evaluated?": "The intervention has been evaluated through collaboration with academic institutions, particularly the University of Nottingham, which provided data on the effectiveness of re-written job advertisements. The evaluation includes quantitative data such as a 70% increase in diverse applicant numbers and qualitative feedback from businesses like Diversely. This research and innovation context underscores the practical application of linguistic bias analysis in real-world recruitment scenarios.",
+        "Outcomes: What are the reported outcomes of the intervention?": "The resource reports that re-writing job advertisements using the toolkit led to a significant increase in the diversity of applicants by up to 70%. The collaboration with the University of Nottingham resulted in the development of a bias analyser and recommended alternative phrases that speed up the process of creating inclusive job ads. The reported outcomes demonstrate the successful impact on hiring diverse talent across industries, supported by data-driven feedback from user applications."
+      },
+      "error": null
+    },
+    {
+      "chunk_numbers": [
+        9
+      ],
+      "part_label": "[Sections: ## Conclusion | ## Connect with us]",
+      "is_merged": false,
+      "token_count": 509,
+      "core_topic": "The section discusses the exclusion of diverse groups from STEM recruitment due to biases in language and presents key trends and recommendations for improvement.",
+      "key_points": [
+        "Analysis of 1.4 million recruitment language samples reveals key trends that encode bias.",
+        "Practical recommendations are provided in the Communications Toolkit for Diverse Recruitment.",
+        "The section argues that diverse workforces can lead to financial success and staff well-being, based on findings from McKinsey & Co's EDI report."
+      ],
+      "edi_relevance": "This section highlights the importance of addressing biases in recruitment language to improve inclusivity, affecting individuals from diverse backgrounds. It supports the idea that organizations can benefit from a more diverse workforce, as suggested by McKinsey & Co's EDI report.",
+      "template_sections": {
+        "Outline: What was the core intervention?": "The core intervention focused on addressing exclusionary biases in STEM recruitment through language analysis and providing practical recommendations. The target audience includes recruiters, HR professionals, and organizations aiming to diversify their workforce. This intervention was implemented by researchers analyzing recruitment language samples from a dataset of 1.4 million instances.",
+        "Implementation: What is required in order to implement this intervention?": "To implement this intervention, organizations need access to the Communications Toolkit for Diverse Recruitment, which contains detailed recommendations based on the analysis of recruitment language trends. While the resource does not specify required tools or staff roles explicitly, it implies that engagement from HR and recruitment teams is essential. The intervention requires a willingness to review current recruitment materials critically and adopt inclusive language practices.",
+        "Evaluation: How has the intervention been evaluated?": "The intervention has been evaluated through the analysis of 1.4 million recruitment language samples, identifying key trends that encode bias. This evaluation was conducted within the research context of understanding systemic barriers to diversity and inclusion in STEM recruitment. The resource references findings from McKinsey & Co's EDI report to support claims about the benefits of diverse workforces.",
+        "Outcomes: What are the reported outcomes of the intervention?": "The resource reports that diverse workforces lead to financial success and staff well-being, as evidenced by McKinsey & Co's EDI report. The practical recommendations provided in the Communications Toolkit for Diverse Recruitment aim to reduce exclusionary biases in recruitment language, with the ultimate goal of increasing diversity within STEM fields."
+      },
+      "error": null
+    }
+  ]
+}

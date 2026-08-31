@@ -1,0 +1,35 @@
+# ── Pipeline data (large / sensitive / regenerable) ───────────────────────────
+outputs/
+logs/
+pdfs/
+pdfs_linked/
+stage3_resources/
+data/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# ── HuggingFace tokeniser cache ───────────────────────────────────────────────
+.cache/
+
+# ── Jupyter (if used for analysis) ───────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user

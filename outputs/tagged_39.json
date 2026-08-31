@@ -1,0 +1,429 @@
+{
+  "resource_id": "39",
+  "title": "Towards Diverse Workforces: Transforming The Language of Exclusion and Bias in Recruitment",
+  "url": "https://www.stemm-change.co.uk/wp-content/uploads/2021/06/Transforming-the-Language-of-Exclusion-and-Bias-in-Recruitment-June-2021x.pdf",
+  "source": "stage4",
+  "chunk_count": 9,
+  "tags": {
+    "resource_type": [
+      {
+        "tag": "EDI Intervention",
+        "confidence": "high",
+        "chunk_count": 5,
+        "chunk_indices": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "evidence": [
+          "The resource presents research findings and suggests practical solutions, aligning with the characteristics of a report or article.",
+          "The resource presents key trends and findings from data analysis, summarizing the impact on candidate appeal and diversity during recruitment.",
+          "The resource presents findings about the effectiveness of diverse and inclusive language in recruitment materials and advocates for specific changes.",
+          "The resource presents findings about the current state of diversity and inclusion in job adverts and suggests improvements.",
+          "The resource presents findings about the impact of language on recruitment outcomes and discusses examples of problematic language use."
+        ],
+        "rescued": false
+      }
+    ],
+    "resource_format": [
+      {
+        "tag": "Document",
+        "confidence": "high",
+        "chunk_count": 9,
+        "chunk_indices": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "evidence": [
+          "this is a written document"
+        ],
+        "rescued": false
+      }
+    ],
+    "individual_characteristics": [
+      {
+        "tag": "Gender",
+        "confidence": "high",
+        "chunk_count": 7,
+        "chunk_indices": [
+          4,
+          5,
+          6,
+          7,
+          7,
+          8,
+          9
+        ],
+        "evidence": [
+          "The text mentions 'minoritised applicants', which often correlates with discussions about gender diversity and inclusivity.",
+          "examples of gendered language such as no bullshit types, which are stereotypically masculine.",
+          "The use of pronouns such as 'they' and 'you' is discussed in relation to gender inclusivity, indicating a focus on gender.",
+          "the role is described as seeking a 'candidate' which typically implies an individual, and the use of terms like 'visionary' and 'outstanding' can be gendered in their connotations, suggesting a male-dominated stereotype in STEM roles.",
+          "the role is described with terms like 'visionary' and 'outstanding', which can carry gendered connotations in STEM fields, implying a male-dominated stereotype in such roles.",
+          "the mention of changing language to attract more diverse talent, which includes altering perspectives that may be biased towards certain genders.",
+          "the use of 'prospective employees from diverse groups' suggests a focus on gender diversity as one of the dimensions of diversity being discussed."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Race and Ethnicity",
+        "confidence": "high",
+        "chunk_count": 5,
+        "chunk_indices": [
+          4,
+          5,
+          7,
+          8,
+          9
+        ],
+        "evidence": [
+          "The text refers to 'minoritised applicants', which often pertains to racial and ethnic minorities.",
+          "mentions of dominant societal identity labels such as a real hunter, which are often associated with certain racial or ethnic groups.",
+          "the text mentions 'different ethnic groups and cultures' as part of the diverse candidates sought, indicating an awareness of racial and ethnic diversity.",
+          "the reference to 'gender, culture, ethnicity, age, ability' indicates an awareness of and attempt to address biases related to race and ethnicity in job advertisements.",
+          "the reference to 'diverse groups' implies consideration of racial and ethnic diversity, which is a critical aspect of the EDI theme being discussed."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Sex",
+        "confidence": "high",
+        "chunk_count": 3,
+        "chunk_indices": [
+          4,
+          5,
+          8
+        ],
+        "evidence": [
+          "The text discusses 'prospective applicants' and mentions 'minoritised applicants', which can include considerations of sex as part of individual characteristics.",
+          "mentions of stereotypical masculine traits such as tenacity and bravery associated with ideal candidates.",
+          "the discussion around changing language to attract more diverse talent includes altering perspectives that may be biased towards certain sexes."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Neurodiversity",
+        "confidence": "high",
+        "chunk_count": 5,
+        "chunk_indices": [
+          4,
+          5,
+          6,
+          8,
+          9
+        ],
+        "evidence": [
+          "The text does not explicitly mention neurodiversity but discusses inclusivity and barriers faced by 'minoritised applicants', which may include neurodiverse individuals.",
+          "no direct mention but the broader context of inclusivity and bias could imply consideration for neurodiverse candidates.",
+          "While not explicitly mentioned, the use of inclusive language to engage with 'prospective applicants' could be interpreted as being supportive of neurodiverse individuals.",
+          "the mention of 'hidden or inherent bias' suggests an attempt to be more inclusive of neurodiverse individuals by reforming language in job advertisements.",
+          "the broader discussion around diversity and inclusion likely includes neurodiversity, though it's not explicitly mentioned, as it's a common aspect of EDI discussions."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Trans Identity",
+        "confidence": "low",
+        "chunk_count": 1,
+        "chunk_indices": [
+          6
+        ],
+        "evidence": [
+          "The mention of 'gender-neutral pronouns' and 'transgender and genderfluid applicants' highlights issues specific to transgender individuals."
+        ],
+        "rescued": true
+      },
+      {
+        "tag": "Education Status",
+        "confidence": "high",
+        "chunk_count": 2,
+        "chunk_indices": [
+          7,
+          9
+        ],
+        "evidence": [
+          "the role requires 'a first class degree from an Ivy League or Russell Group university', indicating a high level of academic achievement which is often associated with a specific status in education.",
+          "the mention of 'higher education institutions' indicates a focus on the educational status of prospective employees, which is an individual characteristic considered in EDI discussions."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Job Roles",
+        "confidence": "high",
+        "chunk_count": 1,
+        "chunk_indices": [
+          7
+        ],
+        "evidence": [
+          "the role is described as 'Lead development of new nano-biomaterials for medical use' and 'Be a world-leading expert in nano-biotech tools, methods and approaches', indicating specific job roles within the company."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Age",
+        "confidence": "medium",
+        "chunk_count": 1,
+        "chunk_indices": [
+          8
+        ],
+        "evidence": [
+          "the reference to 'working with teams across verticals, industries and regions' suggests an inclusive approach that likely includes age diversity."
+        ],
+        "rescued": false
+      }
+    ],
+    "career_pathway": [
+      {
+        "tag": "Recruitment",
+        "confidence": "high",
+        "chunk_count": 6,
+        "chunk_indices": [
+          1,
+          3,
+          4,
+          5,
+          8,
+          9
+        ],
+        "evidence": [
+          "This research has taken place as part of STEMM Change, a consortium-based project funded by the UKRI’s Engineering and Physical Sciences Research Council’s (EPSRC) Inclusion Matters portfolio. It aims to drive a positive change in culture and practices in equality, diversity and inclusion across Science, Technology, Engineering, Mathematics, Medicine and beyond.",
+          "Language relating to EDI in recruitment materials can be categorised as operating as one of four different types of ‘statement’ categories that we have identified in our data: a) statements of legal compliance b) statements of affiliation c) statements of encouragement d) statements of expectation Overall, our analysis demonstrates that the most dominant of these categories are statements of legal compliance and statements of affiliation. Statements of encouragement and statements of expectation are much rarer; on the basis of our findings, we advocate that these latter two categories should be included far more frequently.",
+          "The consistent positioning of EDI language and statements in infrequent and localised parts of advert text presents a tokenistic promotion of these values when viewed by prospective applicants. It reduces the perceived importance of EDI and relegates it to being an afterthought rather than a core value, especially if communicated once at the very end of each document.",
+          "The chunk focuses on the use of language in recruitment materials and its impact on inclusivity and bias, which is a direct aspect of recruitment practices.",
+          "The chunk discusses the promotion of diverse recruitment through language reform in job advertisements.",
+          "In this detailed research we have identified a series of systemic barriers to diversity and inclusion in recruitment language that work to exclude prospective employees from diverse groups."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Career Progression",
+        "confidence": "high",
+        "chunk_count": 8,
+        "chunk_indices": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          8,
+          8,
+          9
+        ],
+        "evidence": [
+          "This research has taken place as part of STEMM Change, a consortium-based project funded by the UKRI’s Engineering and Physical Sciences Research Council’s (EPSRC) Inclusion Matters portfolio. It aims to drive a positive change in culture and practices in equality, diversity and inclusion across Science, Technology, Engineering, Mathematics, Medicine and beyond.",
+          "The 1.4 million-word database of contemporary recruitment advertisements was built from a range of project and industry partners and then analysed using computational methods from an established approach known as corpus linguistics. This database of documentation was initially sourced from consortium partners affiliated with the STEMM Change project in first instance, and then grew with data added in from new organisations as our project grew. 91% of the content were used to recruit UK-based roles. Ethical approval was granted by the University of Nottingham. A total of 1,055 job advertisements produced within the past 6 years were collected from 90 engineering, legal, technical and medical organisations as well as recruitment firms and higher education institutions. The following list illustrates the wide range of roles across these specialisms: Accounting Administration Agricultural sciences Architecture Biological sciences Chemistry and material sciences Commercial development Creative and design Engineering and construction Finance Forensic and archaeological science HR Information technology and computer sciences Law Maths and statistics Medicine and health sciences Physics and astronomy Pharmacy Psychology Sales and marketing Sports and exercise sciences Veterinary medicine and sciences",
+          "Statements of encouragement and statements of expectation are defined as those that express a commitment to providing career progression opportunities for all employees, regardless of their background.",
+          "The consistent positioning of diversity statements in infrequent and localised parts of advert text presents a tokenistic promotion of these values when viewed by prospective applicants. It reduces the perceived importance of EDI and relegates it to being an afterthought rather than a core value, especially if communicated once at the very end of each document.",
+          "The chunk discusses the impact of language on diverse recruitment outcomes, which is directly related to career progression as it talks about how certain language can either facilitate or hinder an individual's advancement in their career.",
+          "The chunk mentions 're-writing job advertisements to be more inclusive' and 'use of bias analyser and alternative language styles', indicating a focus on progression in career paths by removing barriers.",
+          "The chunk is about 'research findings into practical recruitment strategies' which implies a stage of implementing research into real-world applications.",
+          "These barriers that exclude and encode bias are often subtle and nuanced in their presentation. We have identified a set of 10 key trends for recruiters to look out for when reviewing and reflecting upon their own job advertisements, role profile descriptions and any other materials they provide to prospective employees."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Early Career",
+        "confidence": "high",
+        "chunk_count": 4,
+        "chunk_indices": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "evidence": [
+          "This research has taken place as part of STEMM Change, a consortium-based project funded by the UKRI’s Engineering and Physical Sciences Research Council’s (EPSRC) Inclusion Matters portfolio. It aims to drive a positive change in culture and practices in equality, diversity and inclusion across Science, Technology, Engineering, Mathematics, Medicine and beyond.",
+          "There are 10 key trends that we identified from our data analysis as having a significant impact on candidate appeal, and thus on diversity and inclusion during recruitment. They are as follows: 10 Taken together, these trends reveal overlapping patterns and communicative themes which provide the basis for intervention",
+          "Our analysis demonstrates that the most dominant of these categories are statements of legal compliance and statements of affiliation. Statements of encouragement and statements of expectation are much rarer; on the basis of our findings, we advocate that these latter two categories should be included far more frequently. These latter two categories often appear tokenistic, particularly if used in sentences on their own, and read as if they are only included because they have to be for legal reasons.",
+          "Our computational analysis has consistently revealed that statements promoting diversity and inclusion most regularly occur as the final 1-3 sentences at the very end of each document as combined statements of affiliation, encouragement and legal compliance. Some texts show additional embedding of diversity statements in earlier positions as statements of affiliation, and even rarer as statements of expectation within listings of role criteria."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Career Mobility",
+        "confidence": "high",
+        "chunk_count": 2,
+        "chunk_indices": [
+          5,
+          8
+        ],
+        "evidence": [
+          "The discussion about candidates perceiving themselves as not belonging due to certain language use suggests a barrier to career mobility, as individuals may feel excluded from opportunities based on identity labels.",
+          "The chunk discusses 'changing the way a job ad is phrased, structured and positioned' which implies mobility in career paths by altering recruitment language."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Retention",
+        "confidence": "medium",
+        "chunk_count": 1,
+        "chunk_indices": [
+          9
+        ],
+        "evidence": [
+          "We have identified a series of systemic barriers to diversity and inclusion in recruitment language that work to exclude prospective employees from diverse groups. These barriers that exclude and encode bias are often subtle and nuanced in their presentation."
+        ],
+        "rescued": false
+      }
+    ],
+    "organisational_culture": [
+      {
+        "tag": "Inclusive Leadership",
+        "confidence": "high",
+        "chunk_count": 9,
+        "chunk_indices": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "evidence": [
+          "The research aims to drive a positive change in culture and practices in equality, diversity and inclusion (EDI) across Science, Technology, Engineering, Mathematics, Medicine and beyond. Led by a team of linguistics and communication researchers at the University of Nottingham, Transforming the Language of Exclusion and Bias in Recruitment is part of a series designed to provide practical solutions.",
+          "The commitment to integral values of EDI for both the advertised role and the employer’s broader corporate culture and identity",
+          "the chunk discusses the need for 'more frequent statements of encouragement and expectation', which implies a leadership approach that actively encourages and expects inclusivity.",
+          "The text discusses embedding EDI content throughout job adverts and using relational language, which suggests an emphasis on inclusive leadership.",
+          "The chunk discusses the need for inclusive use of figurative language and clear job criteria, suggesting a shift towards inclusive leadership practices.",
+          "Our findings show differences in inclusion based on the types of pronouns used to refer to prospective applicants. Many examples in our dataset, particularly those from industry, use second person pronouns (you, your) to directly engage with prospective applicants without inadvertently excluding select demographics.",
+          "The role holder will: Be an effective leader in the fields of biomedical nanotechnology and biomaterials, as evidenced by: a first class degree from an Ivy League or Russell Group university substantive research profile, evidenced through high quality journal publications a significant track record of successful product development previous leadership experience in a pharmaceutical setting",
+          "The recruitment language project with University of Nottingham has highlighted to us the critical importance and impact of the specific language that is used with our employment advertising and job specifications from a D&I perspective. Working in collaboration with the team at the University has enabled our firm to identify the most critical areas where our advertisements and job specifications can be re-written & enhanced for the greatest effect through new communication strategies and alternative language styles.",
+          "We have identified a series of systemic barriers to diversity and inclusion in recruitment language that work to exclude prospective employees from diverse groups. These barriers that exclude and encode bias are often subtle and nuanced in their presentation."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Bias",
+        "confidence": "high",
+        "chunk_count": 6,
+        "chunk_indices": [
+          1,
+          4,
+          5,
+          6,
+          8,
+          9
+        ],
+        "evidence": [
+          "Recruitment language has rich potential for conveying inclusiveness and generating interest from diverse and qualified applicant pools. However, it can also frequently and unknowingly encode bias and discrimination, thus excluding prospective candidates from applying in the first place.",
+          "The text identifies tokenistic positioning as a barrier that can lead to a disfavourable impression of belonging, particularly for minoritised applicants, indicating the presence of bias in recruitment practices.",
+          "The chunk discusses 'figurative language encoding bias' and 'dominant identity labels posing a high risk of exclusion', indicating that bias is a significant issue within organisational culture as discussed in the text.",
+          "Our findings show differences in inclusion based on the types of pronouns used to refer to prospective applicants.",
+          "Changing the way a job ad is phrased, structured and positioned can increase the diversity of applicants by up to 70%. The key is hidden or inherent bias that crops up across gender, culture, ethnicity, age, ability and more in the way a job post is written.",
+          "We have identified a set of 10 key trends for recruiters to look out for when reviewing and reflecting upon their own job advertisements, role profile descriptions and any other materials they provide to prospective employees. These key trends should then be read alongside our the detailed recommendations in our Communications Toolkit for Diverse Recruitment."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Research Design",
+        "confidence": "high",
+        "chunk_count": 3,
+        "chunk_indices": [
+          1,
+          8,
+          9
+        ],
+        "evidence": [
+          "This research has taken place as part of STEMM Change,1 a consortiumbased project funded by the UKRI’s Engineering and Physical Sciences Research Council’s (EPSRC) Inclusion Matters2 portfolio. It aims to increase equality, diversity and inclusion (EDI) across industry and academia.",
+          "The recruitment language project with University of Nottingham has highlighted to us the critical importance and impact of the specific language that is used with our employment advertising and job specifications from a D&I perspective. Working in collaboration with the team at the University has enabled our firm to identify the most critical areas where our advertisements and job specifications can be re-written & enhanced for the greatest effect through new communication strategies and alternative language styles.",
+          "We have based our findings on the analysis of patterns in language use from a unique 1.4 million dataset of recruitment language."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Inclusivity",
+        "confidence": "high",
+        "chunk_count": 3,
+        "chunk_indices": [
+          2,
+          3,
+          6
+        ],
+        "evidence": [
+          "increasing the use of EDI-related language in recruitment materials",
+          "the chunk talks about 'diverse and inclusive language' in recruitment materials, emphasizing the importance of how language can promote inclusivity.",
+          "using second person pronouns (you, your) to directly engage with prospective applicants without inadvertently excluding select demographics."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Representation",
+        "confidence": "high",
+        "chunk_count": 6,
+        "chunk_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          9
+        ],
+        "evidence": [
+          "the chunk mentions 'a diverse range of potential applicants' and discusses the importance of appealing to this diversity, indicating a desire for a workforce that represents this diversity.",
+          "The text mentions the importance of EDI being perceived as a core value and discusses how its tokenistic placement can lead to a disfavourable impression of belonging, particularly for minoritised applicants.",
+          "The chunk highlights the importance of representation by cautioning against the use of dominant identity labels which can exclude certain groups from feeling represented in recruitment materials.",
+          "Examples of pronoun usage They demonstrate strong undersuggests a lack of representation of non-binary identities in recruitment materials.",
+          "Successful candidates will be visionaries at the forefront of nanotechnology innovation for commercial applications evidenced by an outstanding international profile in biomedical research.",
+          "These barriers that exclude and encode bias are often subtle and nuanced in their presentation. We have identified a set of 10 key trends for recruiters to look out for when reviewing and reflecting upon their own job advertisements, role profile descriptions and any other materials they provide to prospective employees."
+        ],
+        "rescued": true
+      },
+      {
+        "tag": "Work-Life Balance",
+        "confidence": "medium",
+        "chunk_count": 1,
+        "chunk_indices": [
+          7
+        ],
+        "evidence": [
+          "The role holder will: Be a world-leading expert in nano-biotech tools, methods and approaches, including 3D printing Have exceptional oral and verbal communication skills"
+        ],
+        "rescued": false
+      }
+    ],
+    "research_funding_process": [],
+    "adoption_readiness_level": [
+      {
+        "tag": "Not applicable",
+        "confidence": "high",
+        "chunk_count": 1,
+        "chunk_indices": [
+          1
+        ],
+        "evidence": [
+          "Resource Type is Report or Article — not an active intervention"
+        ],
+        "rescued": false
+      }
+    ]
+  },
+  "conflicts": [
+    {
+      "dimension": "resource_type",
+      "conflict": [
+        "Report or Article",
+        "Evidence Document",
+        "EDI Intervention"
+      ],
+      "note": "Multiple tags for single-value dimension — human review needed"
+    }
+  ],
+  "stats": {
+    "total_tags_assigned": 22,
+    "tags_rescued": 2,
+    "total_errors": 2,
+    "total_olmo_calls": 82
+  }
+}

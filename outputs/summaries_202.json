@@ -1,0 +1,169 @@
+{
+  "SUMMARY": {
+    "resource_id": "202",
+    "source": "stage4",
+    "title": "EPSRC Neuro-Inclusion Audit Recommendations and Guidance",
+    "url": "https://www.ukri.org/wp-content/uploads/2024/11/EPSRC-310325-Neuro-InclusionAuditGuidanceandRecommendations.pdf",
+    "total_groups": 7,
+    "merged_groups": 0,
+    "total_olmo_calls": 28,
+    "errors": 0
+  },
+  "document_summary": {
+    "resource_type": "Guidance",
+    "note": "Aggregation pending."
+  },
+  "chunk_summaries": [
+    {
+      "chunk_numbers": [
+        1
+      ],
+      "part_label": "[Sections: ## Introduction | ## About the Neuro-Inclusion Auditor | ## Neurodiversity vs Neurodivergence | ## Neuro-Inclusion Limitations using the Social Model of Disability | ## Scope of this Neuro-Inclusion Audit]",
+      "is_merged": false,
+      "token_count": 1280,
+      "core_topic": "The necessity for a neuro-inclusive approach in STEM research as mandated by UKRI's EDI strategy.",
+      "key_points": [
+        "This section highlights the EPSRC's commitment to inclusivity through its neuro-inclusion audit, emphasizing the need for coordinated sector-wide efforts to support neurodivergent individuals in research and innovation.",
+        "Mark Charlesworth's personal experience and expertise as a neurodivergent individual and auditor provide valuable insights into the challenges faced by neurodivergent individuals in STEM fields, influencing organizational policies and practices.",
+        "The audit is framed within the context of UKRI's EDI strategy, underscoring the sector's long-term commitment to an inclusive research environment that values and supports all stakeholders, including neurodivergent individuals."
+      ],
+      "edi_relevance": "This section advocates for a neuro-inclusive approach in STEM research, directly influenced by the experiences of neurodivergent individuals like Mark Charlesworth. It relates to EDI in STEM by calling for systemic changes to ensure inclusivity and address the underrepresentation and lack of support for neurodivergent researchers and stakeholders, as mandated by UKRI's EDI strategy.",
+      "template_sections": {
+        "Outline: What are these guidelines about?": "These guidelines aim to provide recommendations and guidance for achieving neuro-inclusion within EPSRC's research and innovation practices. They are specifically tailored for creating a more supportive environment for neurodivergent individuals as mandated by UKRI's EDI strategy. The target audience includes EPSRC staff, stakeholders, and the wider research and innovation community. This section is derived directly from the provided text.",
+        "Implementation: What is required in order to implement these guidelines (including tools and staff)?": "To implement these guidelines, EPSRC should review its policies and practices to ensure they are inclusive and supportive of neurodivergent individuals. Tools such as training programs and awareness materials may be necessary. Staff involved include those from the Equality, Diversity and Inclusion Team who will oversee the implementation process. This aspect is described in the section.",
+        "Application: What is required in order to apply these guidelines?": "These guidelines apply to all levels of EPSRC's operations, including research projects, communications, and organizational policies. They require a commitment from EPSRC to actively incorporate neuro-inclusive practices into their daily activities. The resource provides advice on how to implement the guidelines but does not detail specific steps beyond the general recommendations.",
+        "Expected outcomes: What are the expected outcomes when applying the guidelines?": "The expected outcomes include a more inclusive research environment where neurodivergent individuals feel valued and supported. This should lead to improved engagement and retention of neurodivergent talent within EPSRC and the broader UKRI sector. These outcomes are inferred from the section's emphasis on creating an inclusive research system."
+      },
+      "error": null
+    },
+    {
+      "chunk_numbers": [
+        2
+      ],
+      "part_label": "[Sections: ## Key Recommendations | ## Common Difficulties for Neurodivergent People | ## Common Strengths of Neurodivergent People]",
+      "is_merged": false,
+      "token_count": 1500,
+      "core_topic": "Creating inclusive environments for neurodivergent individuals in STEM through practical accommodations and communication adjustments.",
+      "key_points": [
+        "Conversations with neurodivergent delegates reveal their specific needs, which should guide adaptations to create more inclusive environments.",
+        "Adopting the Dyslexia friendly style guide reduces barriers for neurodivergent individuals when reading documents.",
+        "Encouraging open sharing of neurodivergence conditions and needs builds a positive and supportive community."
+      ],
+      "edi_relevance": "This section emphasizes the importance of tailored communication and environmental adjustments to support neurodivergent individuals in STEM, highlighting the need for accommodations based on individual needs and fostering an inclusive community. It broadly aligns with promoting equity within STEM fields by accommodating unique needs.",
+      "template_sections": {
+        "Outline: What are these guidelines about?": "These guidelines focus on creating inclusive environments for neurodivergent individuals in STEM through practical accommodations and communication adjustments. They aim to address the specific needs of neurodivergent delegates by encouraging open dialogue and implementing dyslexia-friendly communication practices.",
+        "Implementation: What is required in order to implement these guidelines (including tools and staff)?": "To implement these guidelines, organizations should adopt the Dyslexia friendly style guide for document formatting and ensure essential information is prominently displayed. Staff involved include those responsible for event planning and communication. The resource does not explicitly describe specific tools but suggests using alternative formats like videos or audio files as needed. Accessibility of tools is implied by the recommendation to use dyslexia-friendly practices, which are described in the document.",
+        "Application: What is required in order to apply these guidelines?": "These guidelines apply to STEM environments aiming to enhance inclusivity for neurodivergent individuals. They require a willingness to engage in open conversations with delegates about their specific needs and an understanding of dyslexia-friendly communication practices. The resource advises on implementing practical accommodations and encourages a supportive community culture, but does not provide detailed implementation advice beyond the recommendations listed.",
+        "Expected outcomes: What are the expected outcomes when applying the guidelines?": "The expected outcomes include the removal of barriers for neurodivergent individuals through tailored communication and accommodations. These practices should lead to more inclusive environments that benefit everyone involved. The resource reports that by adopting these guidelines, STEM fields can become more welcoming and supportive for neurodivergent individuals."
+      },
+      "error": null
+    },
+    {
+      "chunk_numbers": [
+        3
+      ],
+      "part_label": "[Sections: ## Hyper/Hyposensitivity to Sensory Input | ## Guidance for Meetings and Events | ### Clarity of Expectations | ### Introductions and Name Badges | ### Reading Material | ### Registration Forms | ### Writing | ### Session Pace and Flow | ### Speakers and Facilitators | ### Providing a Safe Space | ### Discussion Sessions]",
+      "is_merged": false,
+      "token_count": 1364,
+      "core_topic": "Ensuring neuro-inclusion through sensory accommodations at meetings and events",
+      "key_points": [
+        "Providing clear expectations helps neurodivergent individuals understand and engage effectively"
+      ],
+      "edi_relevance": "This section addresses the needs of neurodivergent individuals by recommending sensory accommodations during meetings and events, highlighting that clear expectations can improve inclusion for neurodivergent participants in STEM contexts.",
+      "template_sections": {
+        "Outline: What are these guidelines about?": "These guidelines focus on ensuring neuro-inclusion through sensory accommodations at meetings and events by addressing hyper/hyposensitivity to sensory input. They are aimed at event organizers, meeting planners, and those involved in creating inclusive environments for neurodivergent individuals. The guidelines were developed based on best practices in EDI and STEM workforce equity.",
+        "Implementation: What is required in order to implement these guidelines (including tools and staff)?": "To implement these guidelines, event organizers should review current meeting and event formats to identify potential sensory triggers. Tools such as sensory checklists and inclusive event planning software can be utilized. Staff involved include event planners, facilitators, and sensory consultants. The specific tools are not described in this section but are implied to be available through other EDI resources or professional networks.",
+        "Application: What is required in order to apply these guidelines?": "These guidelines apply to any meeting or event where sensory accommodations are desired for neurodivergent participants. They require an understanding of sensory sensitivities and the willingness to make necessary adjustments. The resource provides advice on how to implement these guidelines by suggesting practical steps such as providing clear expectations and ensuring name badges are easily readable. Additional research into specific needs of the target audience may be required.",
+        "Expected outcomes: What are the expected outcomes when applying the guidelines?": "The expected outcomes include increased participation and comfort for neurodivergent individuals at meetings and events, leading to more inclusive and productive experiences. By reducing sensory stress, attendees will be better able to focus and contribute. The resource reports that these adjustments can remove barriers to inclusion for neurodivergent people in STEM-related settings."
+      },
+      "error": null
+    },
+    {
+      "chunk_numbers": [
+        4
+      ],
+      "part_label": "[Sections: ### Breaks and Refreshments | ### Virtual Meetings | ## Guidance on Meeting Venues and Building Design | ### Room Layout | ### Thermal Comfort | ### Visual Distractions and Stressors | ### Sound | ### Other Sensory Stressors]",
+      "is_merged": false,
+      "token_count": 1377,
+      "core_topic": "The importance of scheduled breaks and accommodating individual needs during meetings",
+      "key_points": [
+        "Scheduled breaks help everyone, including those with ADHD, process information effectively by providing psychological full stops between sessions.",
+        "Regular breaks allow attendees to step out when needed, promoting an inclusive environment where everyone can manage their well-being.",
+        "Having a designated rest area within the meeting venue supports diverse needs and reduces stress for neurodivergent individuals"
+      ],
+      "edi_relevance": "This section emphasizes the need for scheduled breaks in meetings to accommodate individuals with ADHD and other neurodivergent conditions, ensuring that everyone can participate effectively. It underscores the importance of creating an inclusive environment where all participants feel supported, which is crucial for fostering a diverse STEM workforce.",
+      "template_sections": {
+        "Outline: What are these guidelines about?": "These guidelines emphasize the importance of scheduled breaks and accommodating individual needs during meetings to enhance the well-being and productivity of all attendees, particularly those with ADHD. Developed by an expert in STEM workforce equity, the guidelines aim to integrate inclusive practices into meeting schedules and venue design.",
+        "Implementation: What is required in order to implement these guidelines (including tools and staff)?": "To implement these guidelines, organizations should incorporate regular breaks into their meeting agendas and ensure there is a designated rest area within meeting venues. Tools such as scheduling software can help manage breaks effectively, and staff roles such as event planners or inclusivity officers should be involved in the implementation process. The specific tools required are not described in this section.",
+        "Application: What is required in order to apply these guidelines?": "These guidelines apply to all meeting organizers and venues aiming to create inclusive environments for attendees with diverse needs, including those with ADHD. They require a thorough review of existing meeting schedules and venue layouts to incorporate rest areas and scheduled breaks. The resource provides advice on how to implement these guidelines by suggesting the inclusion of rest spaces and flexible break times.",
+        "Expected outcomes: What are the expected outcomes when applying the guidelines?": "The expected outcome of applying these guidelines is a reduction in stress levels for neurodivergent individuals during meetings, improved cognitive processing for all attendees due to scheduled breaks, and an overall more inclusive meeting environment. Attendees with ADHD may experience enhanced focus and productivity, while others benefit from a more balanced and rejuvenating meeting experience."
+      },
+      "error": null
+    },
+    {
+      "chunk_numbers": [
+        5
+      ],
+      "part_label": "[Sections: ### Open Plan Areas | ### Balance and Coordination | ### Colour, Patterns, and Layout | ### Posters and Signage | ### Flooring | ## ADHD - Primary Considerations for an Inclusive Meeting]",
+      "is_merged": false,
+      "token_count": 1260,
+      "core_topic": "The need for tailored workspace design to accommodate neurodivergent individuals in open plan areas",
+      "key_points": [
+        "Working in an open plan office setting can be particularly distressing for people with neurodivergence due to the overwhelming nature of 'being on show' and increased chance of distraction from being interrupted and hearing various conversations and other noises in the environment going on at once. A designated quiet space is essential for neurodivergent individuals to manage sensory overload and prevent burnout.",
+        "The quiet room should be made available throughout the day and not used for any other purpose. It should be positioned close to the main meeting room, so that it can be easily accessed by those who might need it. General group break rooms do not meet the criteria required for a quiet safe space."
+      ],
+      "edi_relevance": "Accommodations such as a dedicated quiet space are crucial for fostering an equitable STEM environment where all employees, including those with ADHD and other neurodivergences, can thrive without facing undue stress or exclusion.",
+      "template_sections": {
+        "Outline: What are these guidelines about?": "These guidelines focus on tailored workspace design to accommodate neurodivergent individuals in open plan areas. They emphasize the need for a designated quiet space to manage sensory overload and prevent burnout for neurodivergent employees. The guidelines are aimed at employers, designers, and facility managers within the STEM sector who are responsible for creating inclusive work environments.",
+        "Implementation: What is required in order to implement these guidelines (including tools and staff)?": "To implement these guidelines, organizations need to designate a quiet room within open plan areas that remains available throughout the day exclusively for neurodivergent employees. This room should be easily accessible from main meeting areas. No specific tools are mentioned, but the resource suggests using existing office space creatively to meet these needs. Staff involved include those responsible for office design and management, as well as HR who can communicate these accommodations to employees.",
+        "Application: What is required in order to apply these guidelines?": "These guidelines apply to the design and management of open plan workspaces within STEM organizations aiming to improve inclusivity for neurodivergent employees. The resource advises creating a quiet room that adheres to specific criteria, ensuring it is not used for other purposes. It also recommends considering sensory needs in broader workspace design elements such as flooring and patterns.",
+        "Expected outcomes: What are the expected outcomes when applying the guidelines?": "The expected outcome of applying these guidelines is a more inclusive and productive work environment for neurodivergent employees. By providing a designated quiet space, organizations can reduce stress and burnout related to sensory overload. Additionally, thoughtful design choices such as minimal flooring thickness and avoiding distracting patterns can further enhance the comfort and productivity of all employees."
+      },
+      "error": null
+    },
+    {
+      "chunk_numbers": [
+        6
+      ],
+      "part_label": "[Sections: ## Autism Spectrum - Primary Considerations for an Inclusive Meeting | ## Dyslexia - Primary Considerations for an Inclusive Meeting | ### Dyslexia Formula | ## Dyscalculia and Dysgraphia – Primary Considerations for an Inclusive Meeting | ## Dyspraxia - Primary Considerations for an Inclusive Meeting]",
+      "is_merged": false,
+      "token_count": 1311,
+      "core_topic": "Strategies for inclusivity in meetings for individuals with Autism Spectrum and Dyslexia",
+      "key_points": [
+        "Autism Spectrum individuals benefit from clear frameworks, context, and positive feedback to maintain focus.",
+        "Dyslexic participants require visual aids like digital documents and separate instructions to facilitate comprehension.",
+        "Providing printed materials with headings aids Dyslexic individuals in expressing thoughts more effectively."
+      ],
+      "edi_relevance": "Ensuring an inclusive STEM research environment where all participants can contribute effectively by accommodating the specific needs of Autism Spectrum and Dyslexia individuals in meeting settings.",
+      "template_sections": {
+        "Outline: What are these guidelines about?": "These guidelines focus on strategies for inclusivity in meetings for individuals with Autism Spectrum and Dyslexia. They aim to ensure that meetings are structured in a way that accommodates the unique needs of these groups, promoting an inclusive environment. Developed by experts in EDI and STEM workforce equity, the guidelines target meeting organizers, facilitators, and participants who wish to enhance the inclusivity of their meetings for individuals with Autism Spectrum and Dyslexia.",
+        "Implementation: What is required in order to implement these guidelines (including tools and staff)?": "To implement these guidelines, meeting organizers should ensure clear frameworks and contexts are provided before meetings. Positive feedback is essential for maintaining focus among participants on the Autism Spectrum. For Dyslexic individuals, digital aids such as digital documents and separate instructions should be utilized. The resource suggests using printed materials with headings to aid comprehension but does not specify tools or staff requirements.",
+        "Application: What is required in order to apply these guidelines?": "These guidelines are applicable in any research or innovation context where meetings are conducted, particularly those involving STEM professionals or students with Autism Spectrum and Dyslexia. The resource advises on structuring meetings to accommodate the needs of these groups but does not provide detailed advice on implementation beyond the outlined strategies.",
+        "Expected outcomes: What are the expected outcomes when applying the guidelines?": "The expected outcome of applying these guidelines is a more inclusive meeting environment for individuals with Autism Spectrum and Dyslexia. This should lead to improved participation, better comprehension, and increased satisfaction among these groups. The resource does not report specific removal of inclusion barriers but implies that by following the outlined strategies, such barriers will be significantly reduced."
+      },
+      "error": null
+    },
+    {
+      "chunk_numbers": [
+        7
+      ],
+      "part_label": "[Sections: ## Neuro-Inclusive Meeting and Event Checklist | ## Conclusion]",
+      "is_merged": false,
+      "token_count": 1090,
+      "core_topic": "Promoting inclusivity in STEM meetings and events through neuro-inclusive practices",
+      "key_points": [
+        "Ensuring that facilitators make accommodations such as providing high-contrast navigation signage, pens, paper, and food options to accommodate diverse needs.",
+        "Implementing a system where attendees can communicate their adjustment needs before the event to tailor the experience more effectively.",
+        "Utilizing surveys and welcome packs to gather information about attendees' specific needs and preferences, thereby personalizing the event experience."
+      ],
+      "edi_relevance": "This section addresses the inclusion of individuals with neurodiversity in STEM meetings and events by recommending practices that ensure accessibility and comfort. It is relevant to EDI in STEM research as it focuses on creating an inclusive environment for all participants, recognizing the barriers faced by neurodiverse individuals and proposing strategies to mitigate these challenges.",
+      "template_sections": {
+        "Outline: What are these guidelines about?": "These guidelines focus on promoting inclusivity in STEM meetings and events through neuro-inclusive practices. They aim to ensure that facilitators make accommodations such as providing high-contrast navigation signage, pens, paper, and food options tailored to diverse needs. Developed by an unspecified entity, the document serves as a checklist for event organizers to evaluate and improve their meeting and event inclusivity.",
+        "Implementation: What is required in order to implement these guidelines (including tools and staff)?": "To implement these guidelines, organizers need to review and adapt their planning process to include neuro-inclusive considerations. This includes ensuring that facilitators are aware of and prepared to make necessary accommodations. The document does not specify tools but implies the use of common sense and willingness to accommodate needs. Staff or facilitators should be trained in inclusivity practices to effectively implement these measures.",
+        "Application: What is required in order to apply these guidelines?": "These guidelines apply to event organizers in STEM fields who wish to make their meetings and events more inclusive for individuals with diverse neurodiversities. The resource advises on creating a welcoming environment through practical accommodations and communication channels. It does not provide explicit advice on implementation but rather offers a checklist for evaluation.",
+        "Expected outcomes: What are the expected outcomes when applying the guidelines?": "The expected outcome of applying these guidelines is to enhance the inclusivity of STEM meetings and events by accommodating diverse needs and preferences. This should lead to a more inclusive environment where all attendees, regardless of neurodiversity, can participate effectively. The document does not report specific outcomes but suggests that these measures will reduce barriers to inclusion."
+      },
+      "error": null
+    }
+  ]
+}

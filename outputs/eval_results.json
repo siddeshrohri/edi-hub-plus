@@ -1,0 +1,1865 @@
+{
+  "summary": {
+    "resource_type": {
+      "tp": 2,
+      "tn": 38,
+      "fp": 1,
+      "fn": 1,
+      "exact_matches": 2,
+      "total": 3,
+      "precision": 0.6667,
+      "recall": 0.6667,
+      "f1": 0.6667,
+      "exact_rate": 0.6667
+    },
+    "resource_format": {
+      "tp": 0,
+      "tn": 21,
+      "fp": 3,
+      "fn": 0,
+      "exact_matches": 0,
+      "total": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "exact_rate": 0.0
+    },
+    "individual_characteristics": {
+      "tp": 9,
+      "tn": 43,
+      "fp": 6,
+      "fn": 8,
+      "exact_matches": 1,
+      "total": 3,
+      "precision": 0.6,
+      "recall": 0.5294,
+      "f1": 0.5625,
+      "exact_rate": 0.3333
+    },
+    "career_pathway": {
+      "tp": 1,
+      "tn": 12,
+      "fp": 17,
+      "fn": 0,
+      "exact_matches": 0,
+      "total": 3,
+      "precision": 0.0556,
+      "recall": 1.0,
+      "f1": 0.1053,
+      "exact_rate": 0.0
+    },
+    "organisational_culture": {
+      "tp": 12,
+      "tn": 15,
+      "fp": 7,
+      "fn": 8,
+      "exact_matches": 0,
+      "total": 3,
+      "precision": 0.6316,
+      "recall": 0.6,
+      "f1": 0.6154,
+      "exact_rate": 0.0
+    },
+    "research_funding_process": {
+      "tp": 0,
+      "tn": 23,
+      "fp": 3,
+      "fn": 1,
+      "exact_matches": 1,
+      "total": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "exact_rate": 0.3333
+    },
+    "adoption_readiness_level": {
+      "tp": 2,
+      "tn": 17,
+      "fp": 1,
+      "fn": 1,
+      "exact_matches": 2,
+      "total": 3,
+      "precision": 0.6667,
+      "recall": 0.6667,
+      "f1": 0.6667,
+      "exact_rate": 0.6667
+    }
+  },
+  "per_resource": {
+    "39": {
+      "resource_type": {
+        "tp": 1,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "exact_match": true,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "per_tag": {
+          "academic paper": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "blog post": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "book chapter": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "case study/testimonial": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "edi intervention": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "evidence document": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "guidance": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "legislation": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "people profile": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "policy document": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "presentation or poster": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "report or article": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "resource database": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "training material": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      },
+      "resource_format": {
+        "tp": 0,
+        "tn": 7,
+        "fp": 1,
+        "fn": 0,
+        "exact_match": false,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "per_tag": {
+          "database": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "dataset": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "document": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "mixed format": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "podcast": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "video": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "webinar": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "webpage": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      },
+      "individual_characteristics": {
+        "tp": 3,
+        "tn": 9,
+        "fp": 5,
+        "fn": 5,
+        "exact_match": false,
+        "precision": 0.375,
+        "recall": 0.375,
+        "f1": 0.375,
+        "per_tag": {
+          "age": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "career stage": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "caring responsibilities": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "disability": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "education status": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "gender": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "intersectionality": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "job roles": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "linguistic": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "marriage and civil partnership": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "nationality": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "neurodiversity": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "physical characteristics": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "pregnancy and maternity": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "race and ethnicity": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "religion and belief": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "sex": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "sexual orientation": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "socio-economic disadvantage": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "temporary impairment": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "trans identity": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "not specified": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      },
+      "career_pathway": {
+        "tp": 0,
+        "tn": 5,
+        "fp": 5,
+        "fn": 0,
+        "exact_match": false,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "per_tag": {
+          "career mobility": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "career progression": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "early career": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "leadership": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "mentoring": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "mid-career": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "networking and collaboration": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "recruitment": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "retention": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "visibility and recognition": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      },
+      "organisational_culture": {
+        "tp": 3,
+        "tn": 7,
+        "fp": 3,
+        "fn": 1,
+        "exact_match": false,
+        "precision": 0.5,
+        "recall": 0.75,
+        "f1": 0.6,
+        "per_tag": {
+          "accessibility": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "allyship and advocacy": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "belonging and engagement": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "bias": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "cultural competency": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "data collection and monitoring": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "harassment bullying and microaggression": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "inclusive leadership": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "inclusivity": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "representation": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "research culture": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "research design": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "strategy or policy": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "work-life balance": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          }
+        }
+      },
+      "research_funding_process": {
+        "tp": 0,
+        "tn": 8,
+        "fp": 0,
+        "fn": 1,
+        "exact_match": false,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "per_tag": {
+          "advertising": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "application process": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "assessment process": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "bias mitigation": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "data collection and monitoring": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "eligibility criteria": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "funding guidance": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "pre and post award support": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "university selection": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      },
+      "adoption_readiness_level": {
+        "tp": 1,
+        "tn": 6,
+        "fp": 0,
+        "fn": 0,
+        "exact_match": true,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "per_tag": {
+          "initial design": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "needs identification": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "not applicable": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "pilot in single setting": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "proof of concept": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "scaling in multiple settings": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "widespread adoption": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      }
+    },
+    "44": {
+      "resource_type": {
+        "tp": 0,
+        "tn": 12,
+        "fp": 1,
+        "fn": 1,
+        "exact_match": false,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "per_tag": {
+          "academic paper": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "blog post": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "book chapter": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "case study/testimonial": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "edi intervention": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "evidence document": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "guidance": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "legislation": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "people profile": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "policy document": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "presentation or poster": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "report or article": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "resource database": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "training material": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      },
+      "resource_format": {
+        "tp": 0,
+        "tn": 7,
+        "fp": 1,
+        "fn": 0,
+        "exact_match": false,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "per_tag": {
+          "database": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "dataset": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "document": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "mixed format": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "podcast": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "video": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "webinar": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "webpage": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      },
+      "individual_characteristics": {
+        "tp": 4,
+        "tn": 14,
+        "fp": 1,
+        "fn": 3,
+        "exact_match": false,
+        "precision": 0.8,
+        "recall": 0.5714,
+        "f1": 0.6667,
+        "per_tag": {
+          "age": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "career stage": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "caring responsibilities": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "disability": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "education status": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "gender": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "intersectionality": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "job roles": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "linguistic": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "marriage and civil partnership": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "nationality": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "neurodiversity": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "physical characteristics": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "pregnancy and maternity": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "race and ethnicity": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "religion and belief": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "sex": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "sexual orientation": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "socio-economic disadvantage": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "temporary impairment": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "trans identity": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "not specified": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      },
+      "career_pathway": {
+        "tp": 1,
+        "tn": 2,
+        "fp": 7,
+        "fn": 0,
+        "exact_match": false,
+        "precision": 0.125,
+        "recall": 1.0,
+        "f1": 0.2222,
+        "per_tag": {
+          "career mobility": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "career progression": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "early career": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "leadership": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "mentoring": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "mid-career": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "networking and collaboration": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "recruitment": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "retention": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "visibility and recognition": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          }
+        }
+      },
+      "organisational_culture": {
+        "tp": 6,
+        "tn": 3,
+        "fp": 1,
+        "fn": 4,
+        "exact_match": false,
+        "precision": 0.8571,
+        "recall": 0.6,
+        "f1": 0.7059,
+        "per_tag": {
+          "accessibility": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "allyship and advocacy": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "belonging and engagement": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "bias": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "cultural competency": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "data collection and monitoring": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "harassment bullying and microaggression": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "inclusive leadership": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "inclusivity": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "representation": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "research culture": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "research design": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "strategy or policy": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "work-life balance": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          }
+        }
+      },
+      "research_funding_process": {
+        "tp": 0,
+        "tn": 6,
+        "fp": 3,
+        "fn": 0,
+        "exact_match": false,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "per_tag": {
+          "advertising": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "application process": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "assessment process": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "bias mitigation": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "data collection and monitoring": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "eligibility criteria": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "funding guidance": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "pre and post award support": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "university selection": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      },
+      "adoption_readiness_level": {
+        "tp": 0,
+        "tn": 5,
+        "fp": 1,
+        "fn": 1,
+        "exact_match": false,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "per_tag": {
+          "initial design": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "needs identification": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "not applicable": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "pilot in single setting": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "proof of concept": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "scaling in multiple settings": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "widespread adoption": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          }
+        }
+      }
+    },
+    "202": {
+      "resource_type": {
+        "tp": 1,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "exact_match": true,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "per_tag": {
+          "academic paper": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "blog post": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "book chapter": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "case study/testimonial": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "edi intervention": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "evidence document": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "guidance": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "legislation": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "people profile": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "policy document": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "presentation or poster": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "report or article": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "resource database": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "training material": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      },
+      "resource_format": {
+        "tp": 0,
+        "tn": 7,
+        "fp": 1,
+        "fn": 0,
+        "exact_match": false,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "per_tag": {
+          "database": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "dataset": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "document": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "mixed format": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "podcast": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "video": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "webinar": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "webpage": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      },
+      "individual_characteristics": {
+        "tp": 2,
+        "tn": 20,
+        "fp": 0,
+        "fn": 0,
+        "exact_match": true,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "per_tag": {
+          "age": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "career stage": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "caring responsibilities": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "disability": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "education status": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "gender": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "intersectionality": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "job roles": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "linguistic": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "marriage and civil partnership": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "nationality": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "neurodiversity": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "physical characteristics": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "pregnancy and maternity": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "race and ethnicity": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "religion and belief": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "sex": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "sexual orientation": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "socio-economic disadvantage": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "temporary impairment": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "trans identity": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "not specified": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      },
+      "career_pathway": {
+        "tp": 0,
+        "tn": 5,
+        "fp": 5,
+        "fn": 0,
+        "exact_match": false,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "per_tag": {
+          "career mobility": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "career progression": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "early career": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "leadership": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "mentoring": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "mid-career": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "networking and collaboration": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "recruitment": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "retention": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "visibility and recognition": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      },
+      "organisational_culture": {
+        "tp": 3,
+        "tn": 5,
+        "fp": 3,
+        "fn": 3,
+        "exact_match": false,
+        "precision": 0.5,
+        "recall": 0.5,
+        "f1": 0.5,
+        "per_tag": {
+          "accessibility": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "allyship and advocacy": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "belonging and engagement": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "bias": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "cultural competency": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "data collection and monitoring": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "harassment bullying and microaggression": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "inclusive leadership": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "inclusivity": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "representation": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "research culture": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "research design": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          },
+          "strategy or policy": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0
+          },
+          "work-life balance": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0,
+            "tn": 0
+          }
+        }
+      },
+      "research_funding_process": {
+        "tp": 0,
+        "tn": 9,
+        "fp": 0,
+        "fn": 0,
+        "exact_match": true,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "per_tag": {
+          "advertising": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "application process": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "assessment process": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "bias mitigation": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "data collection and monitoring": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "eligibility criteria": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "funding guidance": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "pre and post award support": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "university selection": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      },
+      "adoption_readiness_level": {
+        "tp": 1,
+        "tn": 6,
+        "fp": 0,
+        "fn": 0,
+        "exact_match": true,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "per_tag": {
+          "initial design": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "needs identification": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "not applicable": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "tn": 0
+          },
+          "pilot in single setting": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "proof of concept": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "scaling in multiple settings": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          },
+          "widespread adoption": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "tn": 1
+          }
+        }
+      }
+    }
+  },
+  "matched_ids": [
+    "202",
+    "39",
+    "44"
+  ]
+}
