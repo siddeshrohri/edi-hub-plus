@@ -1,0 +1,26 @@
+# ── Web scraping ──────────────────────────────────────────────────────────────
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.0                  # faster HTML parser for BeautifulSoup
+
+# ── Excel / data input ────────────────────────────────────────────────────────
+openpyxl==3.1.5
+
+# ── PDF extraction ────────────────────────────────────────────────────────────
+pdfplumber==0.11.4           # primary extractor
+pypdf==5.1.0                 # fallback extractor
+
+# ── LLM tokenisation (Stage 3/4 profiling + Stage 6 chunking) ────────────────
+transformers==4.46.3         # AutoTokenizer for allenai/OLMo-2-7B-1124
+# torch is required by transformers — install separately for your hardware:
+#   CPU only:  pip install torch --index-url https://download.pytorch.org/whl/cpu
+#   CUDA 12.1: pip install torch --index-url https://download.pytorch.org/whl/cu121
+
+# ── Document generation (link report, evaluation output) ─────────────────────
+python-docx==1.1.2
+python-pptx==1.0.2
+
+# ── Ollama (Stage 6 — OLMo-2 7B) ─────────────────────────────────────────────
+# Called via plain requests to localhost:11434 — no extra package needed.
+# Install Ollama separately: https://ollama.com
+# Then: ollama pull olmo2:7b
