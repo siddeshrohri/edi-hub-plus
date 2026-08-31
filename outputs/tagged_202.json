@@ -1,0 +1,371 @@
+{
+  "resource_id": "202",
+  "title": "EPSRC Neuro-Inclusion Audit Recommendations and Guidance",
+  "url": "https://www.ukri.org/wp-content/uploads/2024/11/EPSRC-310325-Neuro-InclusionAuditGuidanceandRecommendations.pdf",
+  "source": "stage4",
+  "chunk_count": 7,
+  "tags": {
+    "resource_type": [
+      {
+        "tag": "Guidance",
+        "confidence": "high",
+        "chunk_count": 5,
+        "chunk_indices": [
+          2,
+          3,
+          4,
+          6,
+          7
+        ],
+        "evidence": [
+          "The resource offers key recommendations and practical steps that organizations can directly use to improve their EDI practice, such as tailoring communication to neurodivergent needs and providing sensory-friendly environments.",
+          "The resource offers specific recommendations such as providing name badges, adjusting session pace, and using clear language.",
+          "The resource offers specific recommendations and practical steps to be taken by organizations to improve meeting environments for neurodivergent individuals, such as considering room layout for accessibility and managing background noise.",
+          "The resource offers specific strategies and interventions such as giving plenty of notice for changes, providing digital versions with audio instructions, separating multiple steps, using high contrast and plain backgrounds, applying the Dyslexia Formula, supplying printouts, allowing extra time, limiting fine motor skills requirements, and ensuring clear paths and stability aids.",
+          "The resource includes a 'Neuro-Inclusive Meeting and Event Checklist' which provides actionable steps that organizations can directly use to improve their EDI practice."
+        ],
+        "rescued": false
+      }
+    ],
+    "resource_format": [
+      {
+        "tag": "Document",
+        "confidence": "high",
+        "chunk_count": 7,
+        "chunk_indices": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "evidence": [
+          "this is a written document"
+        ],
+        "rescued": false
+      }
+    ],
+    "individual_characteristics": [
+      {
+        "tag": "Disability",
+        "confidence": "high",
+        "chunk_count": 6,
+        "chunk_indices": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "evidence": [
+          "mention of neurodivergent conditions and social model of disability",
+          "The chunk focuses on the barriers faced by neurodivergent individuals, which are often related to disabilities such as hyper/hyposensitivity to sensory input.",
+          "The chunk refers to the needs of 'neurodivergent individuals' who may have disabilities, specifically mentioning ADHD as a condition.",
+          "The barriers described include 'balance and coordination issues' and 'too many signs and posters causing confusion', which are indicative of disabilities affecting neurodivergent individuals.",
+          "The chunk talks about people with Autism Spectrum, Dyslexia, Dyscalculia and Dysgraphia, and Dyspraxia, which are all disabilities.",
+          "neurodivergent attendees require reasonable adjustments such as lack of reasonable adjustments, insufficient sensory comfort, and inaccessible venue."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Neurodiversity",
+        "confidence": "high",
+        "chunk_count": 21,
+        "chunk_indices": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          6,
+          6,
+          6,
+          7
+        ],
+        "evidence": [
+          "mention of 'neurodivergent conditions' and 'neurodiversity'",
+          "The chunk discusses neurodivergent individuals and their specific needs in STEM workplaces, directly addressing the concept of neurodiversity.",
+          "Barriers described include communication preferences and styles, indicating the importance of accommodating these in the workplace.",
+          "Working memory and attention difficulties are listed as barriers for neurodivergent individuals.",
+          "Anxiety is listed as a barrier for neurodivergent individuals.",
+          "Burnout and being overwhelmed are mentioned as barriers for neurodivergent individuals.",
+          "Planning and organisational challenges are listed as barriers for neurodivergent individuals.",
+          "The chunk discusses the inclusion of neurodivergent individuals in STEM meetings and events, highlighting specific barriers and interventions that cater to their needs.",
+          "The chunk differentiates between 'neurotypical peers' and 'neurodivergent people', indicating a comparison between the two groups.",
+          "The chunk advises repeating objectives throughout the day to ensure neurodivergent people have a full understanding, indicating a need for repetition and clarity.",
+          "The chunk discusses the needs of neurodivergent individuals and people with ADHD, indicating a focus on neurodiversity.",
+          "Visual distractions are mentioned as a barrier that needs to be addressed in meeting environments for neurodivergent individuals.",
+          "Sound is listed as a barrier that needs to be controlled in meeting environments for neurodivergent individuals.",
+          "Other sensory stressors are mentioned as barriers that need to be addressed in meeting environments for neurodivergent individuals.",
+          "The chunk discusses neurodivergent people and ADHD specifically, highlighting the need for inclusive policies and environments.",
+          "The chunk mentions 'overwhelming sensory input' and 'distractions from colours, patterns, and layouts', which relate to sensory processing issues.",
+          "The barriers described include 'balance and coordination issues' and 'distractions from colours, patterns, and layouts', which can be indicative of learning difficulties associated with neurodivergence.",
+          "The chunk discusses specific needs of individuals with Autism Spectrum, Dyslexia, Dyscalculia and Dysgraphia, and Dyspraxia, which are all neurodiverse conditions.",
+          "The chunk mentions 'fine motor skill challenges' as a consideration for those with Dyslexia, Dyscalculia and Dysgraphia, and Dyspraxia.",
+          "The chunk describes 'spatial awareness difficulties' as a consideration for those with Dyspraxia.",
+          "The document focuses on promoting neuro-inclusive practices, which is a key aspect of neurodiversity."
+        ],
+        "rescued": false
+      }
+    ],
+    "career_pathway": [
+      {
+        "tag": "Career Progression",
+        "confidence": "high",
+        "chunk_count": 7,
+        "chunk_indices": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "evidence": [
+          "Reshaping research and innovation so that it values and supports different people, places and projects is a significant challenge and requires coordinated and long-term focus across the sector. This ambition includes consideration of people with neurodivergent conditions and so this neuro-inclusion audit was commissioned by EPSRC’s Equality, Diversity and Inclusion Team to undertake an assessment of the processes and approaches to engagement and communication with EPSRC’s stakeholders. Mark Charlesworth has a diagnosis of ADHD, Asperger’s, Epilepsy and PTSD giving additional knowledge, skills and a perfect eye for this neuroinclusion audit.",
+          "The chunk discusses making adaptations that ultimately bring about a more inclusive environment that benefits everyone, which is indicative of career progression for neurodivergent individuals.",
+          "The chunk discusses adjustments to ensure neurodivergent people can fully engage during meetings and events, which directly relates to their career progression by enabling them to participate effectively in professional settings.",
+          "This places a metaphorical full stop on the previous session, psychologically clearing the way for new input. People with ADHD may require shorter sessions than others, but it is important for everyone to have regular breaks.",
+          "The chunk discusses designing inclusive and accessible workspaces which directly relates to career progression for neurodivergent individuals in STEM workplaces.",
+          "The chunk discusses the need for frameworks and context to help those with Autism Spectrum, Dyslexia, Dyscalculia and Dysgraphia, and Dyspraxia move through their career paths effectively.",
+          "The guide discusses making every reasonable effort to accommodate adjustments to improve the inclusion of meeting attendees, which suggests a focus on career progression by ensuring neuro-inclusive practices."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Early Career",
+        "confidence": "high",
+        "chunk_count": 2,
+        "chunk_indices": [
+          1,
+          6
+        ],
+        "evidence": [
+          "Mark Charlesworth has a diagnosis of ADHD, Asperger’s, Epilepsy and PTSD giving additional knowledge, skills and a perfect eye for this neuroinclusion audit. Since 2017 Mark has been helping fellow neurodivergent people as well as organisations understand the complexities of neurodivergence in the workplace. This suggests he is at the start of his career or early in his journey to help others.",
+          "The chunk specifically addresses individuals at the start of their career, including PhD students and new graduates, indicating Early Career focus."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Networking and Collaboration",
+        "confidence": "high",
+        "chunk_count": 5,
+        "chunk_indices": [
+          1,
+          2,
+          3,
+          6,
+          7
+        ],
+        "evidence": [
+          "Mark Charlesworth has been helping fellow neurodivergent people as well as organisations understand the complexities of neurodivergence in the workplace. This implies a focus on networking and collaboration to improve neuro-inclusion.",
+          "Encouraging attendees to share their conditions and needs suggests a focus on building inclusive networks and fostering collaboration within STEM workplaces, which is essential for networking and effective teamwork.",
+          "The chunk emphasizes the importance of providing a safe space for sharing needs and encouraging participation in discussion sessions, which are key aspects of networking and collaboration.",
+          "The text discusses the need for individuals with disabilities to be given frameworks and context, which is essential for effective networking and collaboration in meetings.",
+          "The checklist includes arranging for water to be available for all delegates across all tables and serving food and drink in a different room nearby, which facilitates networking and collaboration among attendees."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Retention",
+        "confidence": "high",
+        "chunk_count": 3,
+        "chunk_indices": [
+          2,
+          3,
+          5
+        ],
+        "evidence": [
+          "Providing sensory-friendly environments and flexible working arrangements are mentioned as interventions that could prevent burnout and being overwhelmed, which are critical for retaining neurodivergent individuals in STEM careers.",
+          "The chunk discusses strategies to retain neurodivergent individuals in STEM fields by removing barriers that could lead to their exclusion or discomfort during meetings and events.",
+          "The chunk mentions interventions to reduce sensory overload and improve work conditions, which can lead to higher retention rates among neurodivergent employees."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Career Mobility",
+        "confidence": "high",
+        "chunk_count": 5,
+        "chunk_indices": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "evidence": [
+          "The chunk talks about adjustments to ensure neurodivergent people can move between roles, institutions, or sectors smoothly, which is the essence of career mobility.",
+          "The brain needs time to process what has been received whilst not being overwhelmed so it is important that there is a short break each hour, even for just 5 minutes. This places a metaphorical full stop on the previous session, psychologically clearing the way for new input. Having an extra space or room available to go to for a rest or some quiet time throughout the day is also advisable.",
+          "The chunk talks about designing inclusive policies and environments which facilitate career mobility for neurodivergent individuals.",
+          "The text mentions the need for individuals on the Autism Spectrum to move between roles and sectors, indicating a discussion about mobility in career paths.",
+          "The checklist encourages making every reasonable effort to accommodate adjustments, which implies a consideration for the mobility of neurodivergent professionals between roles and venues."
+        ],
+        "rescued": false
+      }
+    ],
+    "organisational_culture": [
+      {
+        "tag": "Inclusive Leadership",
+        "confidence": "high",
+        "chunk_count": 7,
+        "chunk_indices": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "evidence": [
+          "The document discusses reshaping research and innovation to support different people, places, and projects, indicating a focus on inclusive leadership.",
+          "Ensuring essential information items are prominent and that sentences and paragraphs are short and well-spaced out. White space gives the impression of less clutter and reduces the overbearing nature of any document.",
+          "The chunk discusses the need for adjustments in meetings and events to accommodate neurodivergent individuals, indicating a requirement for inclusive leadership practices.",
+          "The chunk discusses the need for facilitators to consider person grid layout and software functionality in virtual meetings, indicating an inclusive approach to leadership in organizing such events.",
+          "The chunk discusses the need for 'inclusive policies and environments' specifically tailored for neurodivergent individuals in STEM workplaces, indicating a focus on inclusive leadership.",
+          "The chunk discusses the need for inclusive practices in meetings, specifically mentioning accommodations for individuals with neurodiversity, which aligns with the concept of inclusive leadership.",
+          "The facilitators are expected to ensure that every reasonable effort is made to accommodate adjustments to improve the inclusion of the meeting, indicating a leadership role in promoting neuro-inclusive practices."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Inclusivity",
+        "confidence": "high",
+        "chunk_count": 4,
+        "chunk_indices": [
+          1,
+          2,
+          6,
+          7
+        ],
+        "evidence": [
+          "The EDI strategy sets out the ambition for an inclusive research and innovation system, highlighting inclusivity as a core value.",
+          "Tailoring a current approach or designing something new, but on most occasions if you ask the neurodivergent delegates what their needs are they will talk with you. Having these conversations will enable you to make adaptations that ultimately bring about a more inclusive environment that benefits everyone.",
+          "The chunk is explicitly about inclusive practices for meetings considering neurodiversity, detailing various interventions to support inclusivity.",
+          "The document focuses on promoting neuro-inclusive practices which inherently covers disability inclusion as a key theme."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Research Culture",
+        "confidence": "high",
+        "chunk_count": 3,
+        "chunk_indices": [
+          1,
+          6,
+          7
+        ],
+        "evidence": [
+          "The document talks about reshaping research and innovation so that it values and supports different people, places, and projects, indicating a focus on altering the research culture.",
+          "The text provides specific strategies and considerations for accommodating neurodiverse individuals during meetings within a STEM context, indicating a focus on creating an equitable research environment.",
+          "The document discusses implementing a 'neuro-inclusive checklist' and using case studies, indicating a research-driven approach to improving inclusivity in meetings and events."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Bias",
+        "confidence": "high",
+        "chunk_count": 4,
+        "chunk_indices": [
+          2,
+          3,
+          6,
+          7
+        ],
+        "evidence": [
+          "Neurodivergent individuals may also have difficulty with larger amounts of text, so always ensure essential information items are prominent and that sentences and paragraphs are short and well-spaced out. White space gives the impression of less clutter and reduces the overbearing nature of any document.",
+          "The chunk addresses barriers that neurodivergent individuals face due to hyper/hyposensitivity to sensory input, anxiety due to introductions, difficulty with written documents, and literal interpretation of language, which are all forms of bias.",
+          "The text mentions barriers faced by specific groups such as 'people on the Autism Spectrum', 'those with Dyslexia', etc., indicating a discussion about biases and challenges these groups face within organisational settings.",
+          "The document mentions 'reasonable adjustments' which implies addressing biases against neurodivergent individuals in event planning."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Research Design",
+        "confidence": "high",
+        "chunk_count": 2,
+        "chunk_indices": [
+          3,
+          5
+        ],
+        "evidence": [
+          "The chunk suggests providing digital and physical copies of documents, adjusting rate of speech, and using dyslexia-friendly fonts, indicating a need for thoughtful research design that considers the needs of neurodivergent individuals.",
+          "The text describes specific interventions such as 'quiet spaces' and 'clear paths', indicating a designed approach to accommodate neurodivergent individuals, which is a research design consideration."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Work-Life Balance",
+        "confidence": "high",
+        "chunk_count": 3,
+        "chunk_indices": [
+          3,
+          4,
+          5
+        ],
+        "evidence": [
+          "The chunk proposes adjustments such as ensuring session pace is adjusted and facilitating a safe space for sharing needs, which can contribute to a better work-life balance for neurodivergent individuals.",
+          "The chunk suggests that there should be a short break each hour and that anyone should feel they can step out of the meeting at any time, indicating an understanding of the importance of work-life balance.",
+          "The chunk mentions the need for 'quiet spaces for decompression' and 'regular seating options', suggesting an effort to balance work demands with personal needs."
+        ],
+        "rescued": false
+      }
+    ],
+    "research_funding_process": [],
+    "adoption_readiness_level": [
+      {
+        "tag": "Not applicable",
+        "confidence": "high",
+        "chunk_count": 1,
+        "chunk_indices": [
+          1
+        ],
+        "evidence": [
+          "Resource Type is Guidance — not an active intervention"
+        ],
+        "rescued": false
+      }
+    ]
+  },
+  "conflicts": [
+    {
+      "dimension": "resource_type",
+      "conflict": [
+        "Report or Article",
+        "Guidance",
+        "EDI Intervention"
+      ],
+      "note": "Multiple tags for single-value dimension — human review needed"
+    },
+    {
+      "dimension": "adoption_readiness_level",
+      "conflict": [
+        "Needs Identification",
+        "Scaling in Multiple Settings"
+      ],
+      "note": "Multiple tags for single-value dimension — human review needed"
+    }
+  ],
+  "stats": {
+    "total_tags_assigned": 16,
+    "tags_rescued": 0,
+    "total_errors": 1,
+    "total_olmo_calls": 80
+  }
+}

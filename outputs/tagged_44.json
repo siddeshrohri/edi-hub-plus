@@ -1,0 +1,472 @@
+{
+  "resource_id": "44",
+  "title": "100 Black Women Professors Now Impact Report",
+  "url": "https://s3.amazonaws.com/kajabi-storefronts-production/file-uploads/sites/45828/downloads/a604721-38ee-61e6-072f-4a0cefa64c6_100BWPN_Impact_Report_2024.pdf",
+  "source": "stage4",
+  "chunk_count": 8,
+  "tags": {
+    "resource_type": [
+      {
+        "tag": "Report or Article",
+        "confidence": "high",
+        "chunk_count": 3,
+        "chunk_indices": [
+          1,
+          2,
+          6
+        ],
+        "evidence": [
+          "The resource provides a detailed account of the programme's impact, including personal testimonials and institutional commitments, which aligns with its nature as a report or article.",
+          "This resource reports on the findings and impact of the 100 Black Women Professors Now Programme within UK Higher Education Institutions.",
+          "The resource presents findings from interviews with various stakeholders about the impact of the 100BWPN programme, detailing benefits, changes, and recommendations."
+        ],
+        "rescued": false
+      }
+    ],
+    "resource_format": [
+      {
+        "tag": "Document",
+        "confidence": "high",
+        "chunk_count": 8,
+        "chunk_indices": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "evidence": [
+          "this is a written document"
+        ],
+        "rescued": false
+      }
+    ],
+    "individual_characteristics": [
+      {
+        "tag": "Gender",
+        "confidence": "high",
+        "chunk_count": 7,
+        "chunk_indices": [
+          2,
+          2,
+          3,
+          4,
+          5,
+          6,
+          8
+        ],
+        "evidence": [
+          "The chunk discusses the experiences of Black female academics and professional services staff, specifically mentioning 'Black female' multiple times.",
+          "The chunk also refers to 'Black female academic authenticity' and 'Black female leadership skills', further emphasizing gender as a significant aspect of the discussion.",
+          "The Academic Cohort explore lived experiences as Black women academics and identify core themes between experiences. They identify systemic barriers to progression within institutions and ways of reducing them.",
+          "The text specifically mentions 'Black women academics' which inherently refers to gender.",
+          "The programme has given Black women academics greater clarity on how to navigate their careers. They worked closely with career coaches and line managers to strategize their career planning. As one cohort noted in her feedback form: At the end of the programme, the Academic Cohort said they had greater clarity regarding: The role of leaders in implementing change 84% 84%",
+          "Participants were Dr. Liliane Mukaremera, Lecturer (Early to Mid-Career Academic) • Dr. Winifred Nyinoh, Associate Lecturer, Education & Scholarship (Early to Mid-Career Academic) • Colleen Douglas-Temple, Lecturer and Academic Mentor & Internal Quality Assurer for Degree Apprenticeships (Phd Candidate) • Melody Jombe, Lecturer, Education and Scholarship (Phd Candidate) • Dr. Neil Gow, Deputy Vice-Chancellor, Research & Impact (Senior Leadership) • Imelda Rogers, Executive Divisional Director for Human Resources (Senior Leadership) • Shraddha Chaudhary, Assistant Director, Culture and Inclusion (Senior Leadership) • Dr. Louise Lawrence, Professor of New Testament Interpretation (Line Manager).",
+          "the mention of 'Black woman academic'"
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Race and Ethnicity",
+        "confidence": "high",
+        "chunk_count": 7,
+        "chunk_indices": [
+          2,
+          3,
+          4,
+          4,
+          5,
+          6,
+          8
+        ],
+        "evidence": [
+          "The chunk mentions 'Black female' and discusses the experiences of individuals who identify as African, African Diaspora, or Dual Heritage, which directly relates to race and ethnicity.",
+          "They identify systemic barriers to progression within institutions and ways of reducing them. Insight sessions enable the WHEN team to capture the lived experiences of the cohort. Themes get shared with senior leaders and line managers to support them to increase their understanding of experiences, as well as to get thinking straight away about changes that could lead to impact.",
+          "The focus on 'Black women' directly relates to race and ethnicity as a defining characteristic in the context of academic progression barriers.",
+          "The text states 'Deep rooted institutional racism embedded in HEIs are a major roadblock' which directly addresses institutional racism as a barrier.",
+          "Another significant benefit of the programme was the opportunity it gave Black women in academia to develop networks and a sense of community with other Black women. As one participant wrote in her feedback form: It has helped me visualise more clearly what and how my career can progress in academia. It has also enabled me to access an amazing community of Black women who have inspired and motivated me along this journey, and it is lovely knowing that I will continue to have this community to access beyond the end of the programme.",
+          "Participants were from diverse backgrounds including Black women academics.",
+          "mention of 'Black woman' in the context of the programme"
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Career Stage",
+        "confidence": "high",
+        "chunk_count": 3,
+        "chunk_indices": [
+          3,
+          4,
+          6
+        ],
+        "evidence": [
+          "This workshop focuses on career pathways to date, supporting the Academic Cohort to reflect on their key moments, key lessons, core values and aspirations for the future. They will be introduced to career planning and meet their career coach for the first time.",
+          "The text mentions 'Black women academics at every stage of the academic pipeline' indicating career stage is a relevant dimension.",
+          "Participants were Early to Mid-Career Academic, Associate Lecturer, Lecturer, PhD Candidate, Deputy Vice-Chancellor, Internal Quality Assurer for Degree Apprenticeships."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Socio-Economic Disadvantage",
+        "confidence": "low",
+        "chunk_count": 1,
+        "chunk_indices": [
+          4
+        ],
+        "evidence": [
+          "Black academics are described as being 'overburdened with administrative tasks' which is a specific barrier mentioned in the text."
+        ],
+        "rescued": true
+      },
+      {
+        "tag": "Sex",
+        "confidence": "high",
+        "chunk_count": 1,
+        "chunk_indices": [
+          8
+        ],
+        "evidence": [
+          "the use of 'woman'"
+        ],
+        "rescued": false
+      }
+    ],
+    "career_pathway": [
+      {
+        "tag": "Career Progression",
+        "confidence": "high",
+        "chunk_count": 6,
+        "chunk_indices": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "evidence": [
+          "many African, African Diaspora and Dual Heritage females identifying key areas of personal development, experiencing personal growth, and noting tangible advancements in their careers.",
+          "The Academic Cohort explore lived experiences as Black women academics and identify core themes between experiences. They identify systemic barriers to progression within institutions and ways of reducing them.",
+          "The aim of the 100 Black Women Professors NOW (100BWPN) programme is to increase the number of Black women at every stage of the academic pipeline and accelerate their career progression.",
+          "The programme gave Black women academics greater clarity on how to navigate their careers. They worked closely with career coaches and line managers to strategize their career planning.",
+          "Participants were asked about the changes that have occurred at their university as a result of the programme, indicating a progression in career development.",
+          "three Black women academics have been promoted to professorship"
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Networking and Collaboration",
+        "confidence": "high",
+        "chunk_count": 7,
+        "chunk_indices": [
+          2,
+          3,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "evidence": [
+          "I found a supportive network that bolstered our confidence through Black-Female-to-Black-Female coaching, research mapping, and streamlining efforts.",
+          "Career coaches work with Academic Cohort members to support them to define their career action plans, ensuring that plans focus on the few things that will make the biggest difference to accelerate career progression.",
+          "This workshop focuses on career pathways to date, supporting the Academic Cohort to reflect on their key moments, key lessons, core values and aspirations for the future. They will be introduced to career planning.",
+          "Attempts to address this underrepresentation have primarily focussed on individualised initiatives for Black women academics, without addressing the structural nature of racism embedded within institutional cultures. Thus, such initiatives tend to shift the onus of change on to Black women academics while doing little to dismantle the systemic barriers that exist.",
+          "Another significant benefit of the programme was the opportunity it gave Black women in academia to develop networks and a sense of community with other Black women.",
+          "Participants from various roles within the university, including Middle management and senior leadership, were interviewed, indicating a collaborative effort to assess the programme's impact.",
+          "proactive and bold in seeking out information, mentors, sponsors, and opportunities: Hiring and networking"
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Career Mobility",
+        "confidence": "high",
+        "chunk_count": 2,
+        "chunk_indices": [
+          2,
+          4
+        ],
+        "evidence": [
+          "many of us did report an increased stakeholder understanding of Black female experiences, clearer insights into achieving systemic change for Black females, and a perceived improvement in understanding the uniqueness and strength of embracing Black female leadership skills, but there is still work to be done in more systematic ways.",
+          "Black academics are more likely to be overburdened with administrative tasks allocated by their line managers, leaving limited time to work strategically on career progression."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Mentoring",
+        "confidence": "high",
+        "chunk_count": 5,
+        "chunk_indices": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "evidence": [
+          "Mentors and sponsors are mentioned as part of the interventions described, including collective action workshop and reflections with senior leaders and line managers.",
+          "Limited access to mentorship and peer support networks has been identified as a barrier for Black women academic’s progression.",
+          "They worked closely with career coaches and line managers to strategize their career planning.",
+          "Colleen Douglas-Temple, a Lecturer and Academic Mentor, was among those interviewed, indicating a role in mentoring early to mid-career academics.",
+          "Be proactive and bold in seeking out information, mentors, sponsors, and opportunities: Hiring and mentoring"
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Retention",
+        "confidence": "high",
+        "chunk_count": 3,
+        "chunk_indices": [
+          5,
+          6,
+          7
+        ],
+        "evidence": [
+          "Another significant benefit of the programme was the opportunity it gave Black women in academia to develop networks and a sense of community with other Black women, which has helped retain them in academia.",
+          "Participants discussed changes that have occurred at their university, suggesting a positive impact on retention of Black women academics through the programme.",
+          "Developing an institution-wide action plan | Building a culture of accountability"
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Leadership",
+        "confidence": "high",
+        "chunk_count": 1,
+        "chunk_indices": [
+          7
+        ],
+        "evidence": [
+          "Developing an institution-wide action plan | Developing inclusive leadership learning and development"
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Recruitment",
+        "confidence": "medium",
+        "chunk_count": 1,
+        "chunk_indices": [
+          7
+        ],
+        "evidence": [
+          "proposed outcomes | Programme process | Reported outcomes Raising awareness on the lived experiences of Black women academics | Improving clarity on commitments, roles, and responsibilities"
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Visibility and Recognition",
+        "confidence": "medium",
+        "chunk_count": 1,
+        "chunk_indices": [
+          7
+        ],
+        "evidence": [
+          "increased visibility | Developing an institution-wide action plan | Providing opportunities in decision-making"
+        ],
+        "rescued": false
+      }
+    ],
+    "organisational_culture": [
+      {
+        "tag": "Inclusive Leadership",
+        "confidence": "high",
+        "chunk_count": 7,
+        "chunk_indices": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "evidence": [
+          "The chunk discusses 'inclusive leadership workshops for HR and Research Directors' as part of the interventions described.",
+          "Senior leaders and line managers reflect on key lessons learned, progress made, and collective priorities moving forward.",
+          "Using an intersectional approach to understand the multi-layered experiences of Black women in academia (Crenshaw 1989), three key stakeholders were identified, Black women academics, line managers and senior leaders.",
+          "The programme has given Black women academics the opportunity to develop networks and a sense of community with other Black women, which is facilitated by inclusive leadership workshops.",
+          "Dr. Neil Gow, Deputy Vice-Chancellor, Research & Impact (Senior Leadership), was mentioned as part of the interviewees, indicating his role in shaping the organisational culture towards inclusivity.",
+          "The chunk discusses the Inclusive Leadership Workshop which developed leadership skills for line managers and senior leaders.",
+          "the chunk encourages institutions to engage with expressions of interest from Black women academics, indicating a push for inclusive leadership and representation in the programme."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Bias",
+        "confidence": "high",
+        "chunk_count": 5,
+        "chunk_indices": [
+          2,
+          3,
+          4,
+          5,
+          7
+        ],
+        "evidence": [
+          "The chunk refers to 'deeply rooted barriers, white privilege, anti-racism, and racial justice' which are indicative of bias issues within the organisational culture.",
+          "The Academic Cohort explore lived experiences as Black women academics and identify systemic barriers to progression within institutions.",
+          "Deep rooted institutional racism embedded in HEIs are a major roadblock for Black women academic’s progression, particularly when pursuing senior leadership positions (Pilkington 2013).",
+          "The chunk discusses barriers such as 'institutional racism' and 'systemic barriers to progression' faced by Black women academics.",
+          "The chunk highlights 'lack of racially sensitive mentoring' and 'neglect of scholarly contributions due to alignment with White norms of knowledge production' as barriers within the organisational culture."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Inclusivity",
+        "confidence": "high",
+        "chunk_count": 3,
+        "chunk_indices": [
+          2,
+          3,
+          5
+        ],
+        "evidence": [
+          "The chunk mentions '70+ Black female academics and professional services staff working within UK Higher Education Institutions' and discusses their experiences, indicating a lack of representation in leadership positions.",
+          "Workshops and sessions focus on career planning, career coaching, and collective action to support the cohort's career progression.",
+          "There was also an increase in the visibility of Black women academics and their network building with senior leaders, as one participant noted."
+        ],
+        "rescued": true
+      },
+      {
+        "tag": "Research Culture",
+        "confidence": "high",
+        "chunk_count": 2,
+        "chunk_indices": [
+          3,
+          6
+        ],
+        "evidence": [
+          "Career planning workshop, collective action workshop, and reflections with senior leaders and line managers are part of the programme's design.",
+          "Participants were provided with information on the case-study and how their data will be used prior to interviews taking place, indicating a research culture that values transparency and informed consent."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Representation",
+        "confidence": "high",
+        "chunk_count": 3,
+        "chunk_indices": [
+          4,
+          6,
+          7
+        ],
+        "evidence": [
+          "The aim of the 100 Black Women Professors NOW (100BWPN) programme is to increase the number of Black women at every stage of the academic pipeline and accelerate their career progression.",
+          "Participants from various career development stages and roles within the university were interviewed, indicating an effort to represent different voices and experiences in the study.",
+          "The chunk mentions 'underrepresentation in senior leadership roles' and 'widening the academic pipeline', which are clear issues of representation within the organisational culture."
+        ],
+        "rescued": true
+      },
+      {
+        "tag": "Work-Life Balance",
+        "confidence": "medium",
+        "chunk_count": 1,
+        "chunk_indices": [
+          4
+        ],
+        "evidence": [
+          "Black academics are more likely to be overburdened with administrative tasks allocated by their line managers, leaving limited time to work strategically on their academic career."
+        ],
+        "rescued": false
+      },
+      {
+        "tag": "Strategy or Policy",
+        "confidence": "high",
+        "chunk_count": 2,
+        "chunk_indices": [
+          7,
+          8
+        ],
+        "evidence": [
+          "The chunk discusses developing a collective action plan by universities through the Delivering Change Workshop, which is a strategic planning initiative.",
+          "the chunk discusses changes to institutional strategies by encouraging them to 'get in touch' and 'put senior leaders in touch with us', implying a strategic approach to programme participation."
+        ],
+        "rescued": true
+      }
+    ],
+    "research_funding_process": [
+      {
+        "tag": "Eligibility Criteria",
+        "confidence": "high",
+        "chunk_count": 3,
+        "chunk_indices": [
+          2,
+          3,
+          5
+        ],
+        "evidence": [
+          "The preliminary findings reflect an overwhelmingly positive journey, with many African, African Diaspora and Dual Heritage females identifying key areas of personal development, experiencing personal growth, and noting tangible advancements in their careers. What goes beyond the statistics is the transformative power of community-building and social capital.",
+          "The Academic Cohort explore systemic barriers to progression within institutions and ways of reducing them.",
+          "The programme gave Black women academics greater clarity on how to navigate their careers. They worked closely with career coaches and line managers to strategize their career planning. As one cohort noted in her feedback form: At the end of the programme, the Academic Cohort said they had greater clarity regarding: FIGURE: Clarity on Action Required for Career Progression"
+        ],
+        "rescued": true
+      },
+      {
+        "tag": "Funding Guidance",
+        "confidence": "high",
+        "chunk_count": 3,
+        "chunk_indices": [
+          2,
+          3,
+          5
+        ],
+        "evidence": [
+          "Looking forward, recommendations for furthering the programme’s impact include a more systematic approach to engaging with funding bodies to secure sustained financial support.",
+          "Insight sessions enable the WHEN team to capture the lived experiences of the cohort. Themes get shared with senior leaders and line managers to support them to increase their understanding of experiences, as well as to get thinking straight away about changes that could lead to impact.",
+          "The programme has given me the time to clarify where and how I want to be a leader. This has changed how and what opportunities I accept."
+        ],
+        "rescued": true
+      },
+      {
+        "tag": "Pre and Post Award Support",
+        "confidence": "high",
+        "chunk_count": 3,
+        "chunk_indices": [
+          2,
+          3,
+          5
+        ],
+        "evidence": [
+          "The positive ripple effect extends to institutional leaders and line managers. Many of us did report an increased stakeholder understanding of Black female experiences, clearer insights into achieving systemic change for Black females, and a perceived improvement in understanding the uniqueness and strength of embracing Black female leadership skills, but there is still work to be done in more systematic ways. This speaks to the programme’s impact on individual growth and its role in fostering a more inclusive and informed understanding of diverse and inclusive leadership practice.",
+          "Career coaches work with Academic Cohort members to support them to define their career action plans, ensuring that plans focus on the few things that will make the biggest difference to accelerate career progression.",
+          "There was also an increase in the visibility of Black women academics and their network building with senior leaders, as one participant wrote in her feedback form: It has helped me visualise more clearly what and how my career can progress in academia. It has also enabled me to access an amazing community of Black women who have inspired and motivated me along this journey, and it is lovely knowing that I will continue to have this community to access beyond the end of the programme."
+        ],
+        "rescued": false
+      }
+    ],
+    "adoption_readiness_level": [
+      {
+        "tag": "Widespread Adoption",
+        "confidence": "high",
+        "chunk_count": 1,
+        "chunk_indices": [
+          8
+        ],
+        "evidence": [
+          "The resource mentions 'the intervention has been rolled out across multiple organisations' which suggests widespread adoption."
+        ],
+        "rescued": false
+      }
+    ]
+  },
+  "conflicts": [
+    {
+      "dimension": "resource_type",
+      "conflict": [
+        "Report or Article",
+        "EDI Intervention",
+        "Evidence Document",
+        "Policy Document"
+      ],
+      "note": "Multiple tags for single-value dimension — human review needed"
+    }
+  ],
+  "stats": {
+    "total_tags_assigned": 26,
+    "tags_rescued": 6,
+    "total_errors": 5,
+    "total_olmo_calls": 77
+  }
+}
